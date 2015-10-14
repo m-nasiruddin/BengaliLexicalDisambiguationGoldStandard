@@ -1,0 +1,2834 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE corpus SYSTEM "Bengali-all-words.dtd">
+<corpus lang="en">
+<text id="d001" source="">
+  <sentence id="d001.s001">
+   <wf id="d001.s001.t001" lemma="কোন" pos="X">কোন</wf>
+   <wf id="d001.s001.t002" lemma="দিক" pos="X">দিকে</wf>
+   <wf id="d001.s001.t003" lemma="চলা" pos="X">চলেছে</wf>
+   <wf id="d001.s001.t004" lemma="ইউরোপ" pos="X">ইউরোপ</wf>
+   <wf id="d001.s001.t005" lemma="?" pos="X">?</wf>
+  </sentence>
+  <sentence id="d001.s002">
+   <wf id="d001.s002.t001" lemma="প্যারিস" pos="X">প্যারিসের</wf>
+   <wf id="d001.s002.t002" lemma="বিদ্রূপ_ম্যাগাজিন" pos="X">বিদ্রূপ_ম্যাগাজিন</wf>
+   <wf id="d001.s002.t003" lemma="শার্লি_এব্দো" pos="X">শার্লি_এব্দোয়</wf>
+   <wf id="d001.s002.t004" lemma="আক্রমণ" pos="X">আক্রমণের</wf>
+   <wf id="d001.s002.t005" lemma="ঘটনা" pos="X">ঘটনা</wf>
+   <wf id="d001.s002.t006" lemma="ইউরোপীয়_দেশ" pos="X">ইউরোপীয়_দেশগুলোকে</wf>
+   <wf id="d001.s002.t007" lemma="বেশ" pos="X">বেশ</wf>
+   <wf id="d001.s002.t008" lemma="নাড়ান" pos="X">নাড়িয়ে</wf>
+   <wf id="d001.s002.t009" lemma="দেওয়া" pos="X">দিয়েছে</wf>
+   <wf id="d001.s002.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s003">
+   <wf id="d001.s003.t001" lemma="তারপর" pos="X">তারপর</wf>
+   <wf id="d001.s003.t002" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s003.t003" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s003.t004" lemma="অঞ্চল" pos="X">অঞ্চলে</wf>
+   <wf id="d001.s003.t005" lemma="অভিবাসী_জনগোষ্ঠী" pos="X">অভিবাসী_জনগোষ্ঠীর</wf>
+   <wf id="d001.s003.t006" lemma="অবস্থান" pos="X">অবস্থান</wf>
+   <wf id="d001.s003.t007" lemma="নেওয়া" pos="X">নিয়ে</wf>
+   <wf id="d001.s003.t008" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s003.t009" lemma="হওয়া" pos="X">হয়েছে</wf>
+   <wf id="d001.s003.t010" lemma="বিতর্ক" pos="X">বিতর্ক</wf>
+   <wf id="d001.s003.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s004">
+   <wf id="d001.s004.t001" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s004.t002" lemma="বিষয়ে" pos="X">বিষয়েই</wf>
+   <wf id="d001.s004.t003" lemma="লিখা" pos="X">লিখেছেন</wf>
+   <wf id="d001.s004.t004" lemma="গ্রেহেম_লুকাস" pos="X">গ্রেহেম_লুকাস</wf>
+   <wf id="d001.s004.t005" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s005">
+   <wf id="d001.s005.t001" lemma="চরমপন্থি_ইসলামি_সংগঠন" pos="X">চরমপন্থি_ইসলামি_সংগঠন</wf>
+   <wf id="d001.s005.t002" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s005.t003" lemma="ইতিমধ্যে" pos="X">ইতিমধ্যে</wf>
+   <wf id="d001.s005.t004" lemma="ইউরোপীয়_ইউনিয়ন_অঞ্চল" pos="X">ইউরোপীয়_ইউনিয়ন_অঞ্চল</wf>
+   <wf id="d001.s005.t005" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s005.t006" lemma="ইরাক" pos="X">ইরাক</wf>
+   <wf id="d001.s005.t007" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s005.t008" lemma="সিরিয়া" pos="X">সিরিয়ায়</wf>
+   <wf id="d001.s005.t009" lemma="যাওয়া" pos="X">গিয়ে</wf>
+   <wf id="d001.s005.t010" lemma="ইসলামিক_স্টেট" pos="X">ইসলামিক_স্টেট</wf>
+   <wf id="d001.s005.t011" lemma="-" pos="X">-</wf>
+   <wf id="d001.s005.t012" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s005.t013" lemma="হওয়া" pos="X">হয়ে</wf>
+   <wf id="d001.s005.t014" lemma="যুদ্ধ" pos="X">যুদ্ধ</wf>
+   <wf id="d001.s005.t015" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s005.t016" lemma="করা" pos="X">করা</wf>
+   <wf id="d001.s005.t017" lemma="মুসলমান" pos="X">মুসলমানদের</wf>
+   <wf id="d001.s005.t018" lemma="রুখা" pos="X">রুখতে</wf>
+   <wf id="d001.s005.t019" lemma="কঠোর_ব্যবস্থা" pos="X">কঠোর_ব্যবস্থা</wf>
+   <wf id="d001.s005.t020" lemma="গ্রহণ" pos="X">গ্রহণ</wf>
+   <wf id="d001.s005.t021" lemma="করা" pos="X">করার</wf>
+   <wf id="d001.s005.t022" lemma="প্রস্তুতি" pos="X">প্রস্তুতি</wf>
+   <wf id="d001.s005.t023" lemma="চলা" pos="X">চলছে</wf>
+   <wf id="d001.s005.t024" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s006">
+   <wf id="d001.s006.t001" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s006.t002" lemma="উদ্দেশ্য" pos="X">উদ্দেশ্যে</wf>
+   <wf id="d001.s006.t003" lemma="সন্ত্রাসবিরোধী" pos="X">সন্ত্রাসবিরোধী</wf>
+   <wf id="d001.s006.t004" lemma="কিছু" pos="X">কিছু</wf>
+   <wf id="d001.s006.t005" lemma="নতুন" pos="X">নতুন</wf>
+   <wf id="d001.s006.t006" lemma="আইন_প্রণয়ন" pos="X">আইন_প্রণয়ন</wf>
+   <wf id="d001.s006.t007" lemma="করা" pos="X">করা</wf>
+   <wf id="d001.s006.t008" lemma="হওয়া" pos="X">হচ্ছে</wf>
+   <wf id="d001.s006.t009" lemma="," pos="X">,</wf>
+   <wf id="d001.s006.t010" lemma="ইউরোপীয়_ইউনিয়ন" pos="X">ইউরোপীয়_ইউনিয়নের</wf>
+   <wf id="d001.s006.t011" lemma="নেতৃবৃন্দ" pos="X">নেতৃবৃন্দের</wf>
+   <wf id="d001.s006.t012" lemma="বুধবার" pos="X">বুধবারই</wf>
+   <wf id="d001.s006.t013" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s006.t014" lemma="সভা" pos="X">সভা</wf>
+   <wf id="d001.s006.t015" lemma="শেষ" pos="X">শেষে</wf>
+   <wf id="d001.s006.t016" lemma="সেগুলো" pos="X">সেগুলো</wf>
+   <wf id="d001.s006.t017" lemma="ঘোষণা" pos="X">ঘোষণা</wf>
+   <wf id="d001.s006.t018" lemma="করা" pos="X">করার</wf>
+   <wf id="d001.s006.t019" lemma="কথা" pos="X">কথা</wf>
+   <wf id="d001.s006.t020" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s007">
+   <wf id="d001.s007.t001" lemma="নতুন" pos="X">নতুন</wf>
+   <wf id="d001.s007.t002" lemma="আইন" pos="X">আইনের</wf>
+   <wf id="d001.s007.t003" lemma="ফল" pos="X">ফলে</wf>
+   <wf id="d001.s007.t004" lemma="শেঙেনভুক্ত_দেশ" pos="X">শেঙেনভুক্ত_দেশগুলোতে</wf>
+   <wf id="d001.s007.t005" lemma="অবাধ" pos="X">অবাধে</wf>
+   <wf id="d001.s007.t006" lemma="চলাফেরা" pos="X">চলাফেরা</wf>
+   <wf id="d001.s007.t007" lemma="করা" pos="X">করার</wf>
+   <wf id="d001.s007.t008" lemma="বিষয়" pos="X">বিষয়টিতেও</wf>
+   <wf id="d001.s007.t009" lemma="পরিবর্তন" pos="X">পরিবর্তন</wf>
+   <wf id="d001.s007.t010" lemma="আসা" pos="X">আসতে</wf>
+   <wf id="d001.s007.t011" lemma="পারা" pos="X">পারে</wf>
+   <wf id="d001.s007.t012" lemma="বলা" pos="X">বলে</wf>
+   <wf id="d001.s007.t013" lemma="ধারণা" pos="X">ধারণা</wf>
+   <wf id="d001.s007.t014" lemma="করা" pos="X">করা</wf>
+   <wf id="d001.s007.t015" lemma="হওয়া" pos="X">হচ্ছে</wf>
+   <wf id="d001.s007.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s008">
+   <wf id="d001.s008.t001" lemma="সন্দেহভাজন" pos="X">সন্দেহভাজন</wf>
+   <wf id="d001.s008.t002" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s008.t003" lemma="অভিযুক্ত" pos="X">অভিযুক্ত</wf>
+   <wf id="d001.s008.t004" lemma="চরমপন্থি" pos="X">চরমপন্থিদের</wf>
+   <wf id="d001.s008.t005" lemma="রুখা" pos="X">রুখতেই</wf>
+   <wf id="d001.s008.t006" lemma="এমন" pos="X">এমন</wf>
+   <wf id="d001.s008.t007" lemma="পদক্ষেপ" pos="X">পদক্ষেপের</wf>
+   <wf id="d001.s008.t008" lemma="কথা" pos="X">কথা</wf>
+   <wf id="d001.s008.t009" lemma="ভাবা" pos="X">ভাবা</wf>
+   <wf id="d001.s008.t010" lemma="হওয়া" pos="X">হচ্ছে</wf>
+   <wf id="d001.s008.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s009">
+   <wf id="d001.s009.t001" lemma="চরমপন্থি_মুসলমান" pos="X">চরমপন্থি_মুসলমানদের</wf>
+   <wf id="d001.s009.t002" lemma="বিরুদ্ধ" pos="X">বিরুদ্ধে</wf>
+   <wf id="d001.s009.t003" lemma="এমন" pos="X">এমন</wf>
+   <wf id="d001.s009.t004" lemma="ব্যবস্থা" pos="X">ব্যবস্থা</wf>
+   <wf id="d001.s009.t005" lemma="নেয়া" pos="X">নেয়ার</wf>
+   <wf id="d001.s009.t006" lemma="প্রয়োজনীয়তা" pos="X">প্রয়োজনীয়তা</wf>
+   <wf id="d001.s009.t007" lemma="এখন" pos="X">এখন</wf>
+   <wf id="d001.s009.t008" lemma="অস্বীকার" pos="X">অস্বীকার</wf>
+   <wf id="d001.s009.t009" lemma="করা" pos="X">করার</wf>
+   <wf id="d001.s009.t010" lemma="জো" pos="X">জো</wf>
+   <wf id="d001.s009.t011" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s009.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s010">
+   <wf id="d001.s010.t001" lemma="তবে" pos="X">তবে</wf>
+   <wf id="d001.s010.t002" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s010.t003" lemma="আগে" pos="X">আগে</wf>
+   <wf id="d001.s010.t004" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s010.t005" lemma="," pos="X">,</wf>
+   <wf id="d001.s010.t006" lemma="অর্থাৎ" pos="X">অর্থাৎ</wf>
+   <wf id="d001.s010.t007" lemma="ইউরোপীয়" pos="X">ইউরোপীয়দের</wf>
+   <wf id="d001.s010.t008" lemma="মুসলিম" pos="X">মুসলিম</wf>
+   <wf id="d001.s010.t009" lemma="তরুণ" pos="X">তরুণদের</wf>
+   <wf id="d001.s010.t010" lemma="মাঝ" pos="X">মাঝে</wf>
+   <wf id="d001.s010.t011" lemma="অসন্তোষ" pos="X">অসন্তোষের</wf>
+   <wf id="d001.s010.t012" lemma="মূল" pos="X">মূল</wf>
+   <wf id="d001.s010.t013" lemma="কারণ" pos="X">কারণগুলোও</wf>
+   <wf id="d001.s010.t014" lemma="খতিয়ে" pos="X">খতিয়ে</wf>
+   <wf id="d001.s010.t015" lemma="দেখা" pos="X">দেখতে</wf>
+   <wf id="d001.s010.t016" lemma="হওয়া" pos="X">হবে</wf>
+   <wf id="d001.s010.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s011">
+   <wf id="d001.s011.t001" lemma="যদি" pos="X">যদি</wf>
+   <wf id="d001.s011.t002" lemma="তা" pos="X">তা</wf>
+   <wf id="d001.s011.t003" lemma="না" pos="X">না</wf>
+   <wf id="d001.s011.t004" lemma="দেখি" pos="X">দেখি</wf>
+   <wf id="d001.s011.t005" lemma="তাহলে" pos="X">তাহলে</wf>
+   <wf id="d001.s011.t006" lemma="হয়তো" pos="X">হয়তো</wf>
+   <wf id="d001.s011.t007" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s011.t008" lemma="দশক" pos="X">দশকের</wf>
+   <wf id="d001.s011.t009" lemma="পর" pos="X">পর</wf>
+   <wf id="d001.s011.t010" lemma="দশক" pos="X">দশক</wf>
+   <wf id="d001.s011.t011" lemma="ধর" pos="X">ধরে</wf>
+   <wf id="d001.s011.t012" lemma="শহর" pos="X">শহরে</wf>
+   <wf id="d001.s011.t013" lemma="শহর" pos="X">শহরে</wf>
+   <wf id="d001.s011.t014" lemma="," pos="X">,</wf>
+   <wf id="d001.s011.t015" lemma="রেল_স্টেশন" pos="X">রেল_স্টেশনে</wf>
+   <wf id="d001.s011.t016" lemma="," pos="X">,</wf>
+   <wf id="d001.s011.t017" lemma="বিমানবন্দর" pos="X">বিমানবন্দরে</wf>
+   <wf id="d001.s011.t018" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s011.t019" lemma="শপিং_মল" pos="X">শপিং_মলে</wf>
+   <wf id="d001.s011.t020" lemma="ইসলামপন্থি_সন্ত্রাসবাদী" pos="X">ইসলামপন্থি_সন্ত্রাসবাদীদের</wf>
+   <wf id="d001.s011.t021" lemma="হামলা" pos="X">হামলা</wf>
+   <wf id="d001.s011.t022" lemma="দেখা" pos="X">দেখতে</wf>
+   <wf id="d001.s011.t023" lemma="হওয়া" pos="X">হবে</wf>
+   <wf id="d001.s011.t024" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s012">
+   <wf id="d001.s012.t001" lemma="অভিবাসী" pos="X">অভিবাসীদের</wf>
+   <wf id="d001.s012.t002" lemma="ব্যাপার" pos="X">ব্যাপারে</wf>
+   <wf id="d001.s012.t003" lemma="ইউরোপ" pos="X">ইউরোপের</wf>
+   <wf id="d001.s012.t004" lemma="দৃষ্টিভঙ্গি" pos="X">দৃষ্টিভঙ্গি</wf>
+   <wf id="d001.s012.t005" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s012.t006" lemma="ঐতিহ্য" pos="X">ঐতিহ্য</wf>
+   <wf id="d001.s012.t007" lemma="ঠিক" pos="X">ঠিক</wf>
+   <wf id="d001.s012.t008" lemma="যুক্তরাষ্ট্র" pos="X">যুক্তরাষ্ট্রের</wf>
+   <wf id="d001.s012.t009" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s012.t010" lemma="নয়" pos="X">নয়</wf>
+   <wf id="d001.s012.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s013">
+   <wf id="d001.s013.t001" lemma="যুক্তরাষ্ট্র" pos="X">যুক্তরাষ্ট্রের</wf>
+   <wf id="d001.s013.t002" lemma="অভিবাসী" pos="X">অভিবাসীদের</wf>
+   <wf id="d001.s013.t003" lemma="আকৃষ্ট" pos="X">আকৃষ্ট</wf>
+   <wf id="d001.s013.t004" lemma="করা" pos="X">করা</wf>
+   <wf id="d001.s013.t005" lemma="কিংবা" pos="X">কিংবা</wf>
+   <wf id="d001.s013.t006" lemma="সমাজ" pos="X">সমাজের</wf>
+   <wf id="d001.s013.t007" lemma="অংশ" pos="X">অংশ</wf>
+   <wf id="d001.s013.t008" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s013.t009" lemma="নেওয়া" pos="X">নেয়ার</wf>
+   <wf id="d001.s013.t010" lemma="প্রয়াস" pos="X">প্রয়াসের</wf>
+   <wf id="d001.s013.t011" lemma="ঐতিহ্য" pos="X">ঐতিহ্য</wf>
+   <wf id="d001.s013.t012" lemma="রওয়া" pos="X">রয়েছে</wf>
+   <wf id="d001.s013.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s014">
+   <wf id="d001.s014.t001" lemma="ইউরোপ" pos="X">ইউরোপের</wf>
+   <wf id="d001.s014.t002" lemma="তা" pos="X">তা</wf>
+   <wf id="d001.s014.t003" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s014.t004" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s015">
+   <wf id="d001.s015.t001" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s015.t002" lemma="ক্ষেত্রে" pos="X">ক্ষেত্রে</wf>
+   <wf id="d001.s015.t003" lemma="জার্মান" pos="X">জার্মানির</wf>
+   <wf id="d001.s015.t004" lemma="অবস্থা" pos="X">অবস্থাটাই</wf>
+   <wf id="d001.s015.t005" lemma="একটু" pos="X">একটু</wf>
+   <wf id="d001.s015.t006" lemma="ব্যাখ্যা" pos="X">ব্যাখ্যা</wf>
+   <wf id="d001.s015.t007" lemma="করা" pos="X">করা</wf>
+   <wf id="d001.s015.t008" lemma="যাওয়া" pos="X">যেতে</wf>
+   <wf id="d001.s015.t009" lemma="পারা" pos="X">পারে</wf>
+   <wf id="d001.s015.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s016">
+   <wf id="d001.s016.t001" lemma="দ্বিতীয়" pos="X">দ্বিতীয়</wf>
+   <wf id="d001.s016.t002" lemma="বিশ্বযুদ্ধ" pos="X">বিশ্বযুদ্ধে</wf>
+   <wf id="d001.s016.t003" lemma="হাজার_হাজার" pos="X">হাজার_হাজার</wf>
+   <wf id="d001.s016.t004" lemma="জার্মান" pos="X">জার্মান</wf>
+   <wf id="d001.s016.t005" lemma="তরুণ" pos="X">তরুণ</wf>
+   <wf id="d001.s016.t006" lemma="নিহত" pos="X">নিহত</wf>
+   <wf id="d001.s016.t007" lemma="হওয়া" pos="X">হওয়ায়</wf>
+   <wf id="d001.s016.t008" lemma="তুরস্ক" pos="X">তুরস্কসহ</wf>
+   <wf id="d001.s016.t009" lemma="দক্ষিণ_ইউরোপ" pos="X">দক্ষিণ_ইউরোপের</wf>
+   <wf id="d001.s016.t010" lemma="কয়েক" pos="X">কয়েকটি</wf>
+   <wf id="d001.s016.t011" lemma="দেশ" pos="X">দেশ</wf>
+   <wf id="d001.s016.t012" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s016.t013" lemma="কয়েক" pos="X">কয়েক</wf>
+   <wf id="d001.s016.t014" lemma="লক্ষ" pos="X">লক্ষ</wf>
+   <wf id="d001.s016.t015" lemma="মানুষ" pos="X">মানুষকে</wf>
+   <wf id="d001.s016.t016" lemma="সাদর" pos="X">সাদরে</wf>
+   <wf id="d001.s016.t017" lemma="গ্রহণ" pos="X">গ্রহণ</wf>
+   <wf id="d001.s016.t018" lemma="করা" pos="X">করেছিল</wf>
+   <wf id="d001.s016.t019" lemma="জার্মানি" pos="X">জার্মানি</wf>
+   <wf id="d001.s016.t020" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s017">
+   <wf id="d001.s017.t001" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s017.t002" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s017.t003" lemma="থেকে" pos="X">থেকেই</wf>
+   <wf id="d001.s017.t004" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s017.t005" lemma="অভিবাসী" pos="X">অভিবাসীদের</wf>
+   <wf id="d001.s017.t006" lemma="বলা" pos="X">বলা</wf>
+   <wf id="d001.s017.t007" lemma="হওয়া" pos="X">হতো</wf>
+   <wf id="d001.s017.t008" lemma="'" pos="X">'</wf>
+   <wf id="d001.s017.t009" lemma="অতিথি_কর্মী" pos="X">অতিথি_কর্মী</wf>
+   <wf id="d001.s017.t010" lemma="'" pos="X">'</wf>
+   <wf id="d001.s017.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s018">
+   <wf id="d001.s018.t001" lemma="ভাবটা" pos="X">ভাবটা</wf>
+   <wf id="d001.s018.t002" lemma="ছিল" pos="X">ছিল</wf>
+   <wf id="d001.s018.t003" lemma="এমন" pos="X">এমন</wf>
+   <wf id="d001.s018.t004" lemma="," pos="X">,</wf>
+   <wf id="d001.s018.t005" lemma="এরা" pos="X">এরা</wf>
+   <wf id="d001.s018.t006" lemma="এখন" pos="X">এখন</wf>
+   <wf id="d001.s018.t007" lemma="আসা" pos="X">এসেছে</wf>
+   <wf id="d001.s018.t008" lemma="ঠিক" pos="X">ঠিকই</wf>
+   <wf id="d001.s018.t009" lemma="," pos="X">,</wf>
+   <wf id="d001.s018.t010" lemma="তবে" pos="X">তবে</wf>
+   <wf id="d001.s018.t011" lemma="বেশিদিন" pos="X">বেশিদিন</wf>
+   <wf id="d001.s018.t012" lemma="এদের" pos="X">এদের</wf>
+   <wf id="d001.s018.t013" lemma="এখানে" pos="X">এখানে</wf>
+   <wf id="d001.s018.t014" lemma="দরকার" pos="X">দরকার</wf>
+   <wf id="d001.s018.t015" lemma="হওয়া" pos="X">হবে</wf>
+   <wf id="d001.s018.t016" lemma="না" pos="X">না</wf>
+   <wf id="d001.s018.t017" lemma="," pos="X">,</wf>
+   <wf id="d001.s018.t018" lemma="কিছুদিন" pos="X">কিছুদিন</wf>
+   <wf id="d001.s018.t019" lemma="পর" pos="X">পর</wf>
+   <wf id="d001.s018.t020" lemma="তাই" pos="X">তাই</wf>
+   <wf id="d001.s018.t021" lemma="এরা" pos="X">এরা</wf>
+   <wf id="d001.s018.t022" lemma="নিজ" pos="X">নিজেদের</wf>
+   <wf id="d001.s018.t023" lemma="দেশ" pos="X">দেশে</wf>
+   <wf id="d001.s018.t024" lemma="ফিরে" pos="X">ফিরে</wf>
+   <wf id="d001.s018.t025" lemma="যাওয়া" pos="X">যাবে</wf>
+   <wf id="d001.s018.t026" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s019">
+   <wf id="d001.s019.t001" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s019.t002" lemma="অন্য" pos="X">অন্য</wf>
+   <wf id="d001.s019.t003" lemma="দেশ" pos="X">দেশগুলোতে</wf>
+   <wf id="d001.s019.t004" lemma="অভিবাসী" pos="X">অভিবাসীরা</wf>
+   <wf id="d001.s019.t005" lemma="আসা" pos="X">এসেছিল</wf>
+   <wf id="d001.s019.t006" lemma="সেসব" pos="X">সেসব</wf>
+   <wf id="d001.s019.t007" lemma="দেশ" pos="X">দেশের</wf>
+   <wf id="d001.s019.t008" lemma="সাবেক_উপনিবেশ" pos="X">সাবেক_উপনিবেশ</wf>
+   <wf id="d001.s019.t009" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s019.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s020">
+   <wf id="d001.s020.t001" lemma="তাই" pos="X">তাই</wf>
+   <wf id="d001.s020.t002" lemma="ওই" pos="X">ওই</wf>
+   <wf id="d001.s020.t003" lemma="দেশ" pos="X">দেশগুলোতেও</wf>
+   <wf id="d001.s020.t004" lemma="অভিবাসী" pos="X">অভিবাসীদের</wf>
+   <wf id="d001.s020.t005" lemma="রাজনৈতিকভাবে" pos="X">রাজনৈতিকভাবে</wf>
+   <wf id="d001.s020.t006" lemma="খুব" pos="X">খুব</wf>
+   <wf id="d001.s020.t007" lemma="বেশি" pos="X">বেশি</wf>
+   <wf id="d001.s020.t008" lemma="গ্রহণযোগ্যতা" pos="X">গ্রহণযোগ্যতা</wf>
+   <wf id="d001.s020.t009" lemma="ছিলনা" pos="X">ছিলনা</wf>
+   <wf id="d001.s020.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s021">
+   <wf id="d001.s021.t001" lemma="ওসব" pos="X">ওসব</wf>
+   <wf id="d001.s021.t002" lemma="দেশ" pos="X">দেশেও</wf>
+   <wf id="d001.s021.t003" lemma="খুব" pos="X">খুব</wf>
+   <wf id="d001.s021.t004" lemma="গভীরভাবে" pos="X">গভীরভাবে</wf>
+   <wf id="d001.s021.t005" lemma="এমন" pos="X">এমনটি</wf>
+   <wf id="d001.s021.t006" lemma="ভাবা" pos="X">ভাবা</wf>
+   <wf id="d001.s021.t007" lemma="হয়নি" pos="X">হয়নি</wf>
+   <wf id="d001.s021.t008" lemma="যে" pos="X">যে</wf>
+   <wf id="d001.s021.t009" lemma="অভিবাসী" pos="X">অভিবাসীরা</wf>
+   <wf id="d001.s021.t010" lemma="দীর্ঘদিন" pos="X">দীর্ঘদিন</wf>
+   <wf id="d001.s021.t011" lemma="থাকা" pos="X">থাকবে</wf>
+   <wf id="d001.s021.t012" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s021.t013" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s021.t014" lemma="সময়" pos="X">সময়</wf>
+   <wf id="d001.s021.t015" lemma="তাঁরা" pos="X">তাঁরাও</wf>
+   <wf id="d001.s021.t016" lemma="ইউরাপিয়ান" pos="X">ইউরাপিয়ান</wf>
+   <wf id="d001.s021.t017" lemma="হওয়া" pos="X">হয়ে</wf>
+   <wf id="d001.s021.t018" lemma="যাওয়া" pos="X">যাবে</wf>
+   <wf id="d001.s021.t019" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s022">
+   <wf id="d001.s022.t001" lemma="আজ" pos="X">আজকের</wf>
+   <wf id="d001.s022.t002" lemma="দিন" pos="X">দিনে</wf>
+   <wf id="d001.s022.t003" lemma="তৃতীয়_প্রজন্ম" pos="X">তৃতীয়_প্রজন্মের</wf>
+   <wf id="d001.s022.t004" lemma="অভিবাসী" pos="X">অভিবাসীরা</wf>
+   <wf id="d001.s022.t005" lemma="ইউরোপ" pos="X">ইউরোপে</wf>
+   <wf id="d001.s022.t006" lemma="তাঁদের" pos="X">তাঁদের</wf>
+   <wf id="d001.s022.t007" lemma="জীবন" pos="X">জীবন</wf>
+   <wf id="d001.s022.t008" lemma="নিয়ে" pos="X">নিয়ে</wf>
+   <wf id="d001.s022.t009" lemma="যারপর" pos="X">যারপর</wf>
+   <wf id="d001.s022.t010" lemma="নাই" pos="X">নাই</wf>
+   <wf id="d001.s022.t011" lemma="অসন্তুষ্ট" pos="X">অসন্তুষ্ট</wf>
+   <wf id="d001.s022.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s023">
+   <wf id="d001.s023.t001" lemma="তাঁরা" pos="X">তাঁরা</wf>
+   <wf id="d001.s023.t002" lemma="তাঁদের" pos="X">তাঁদের</wf>
+   <wf id="d001.s023.t003" lemma="বাবা-মা" pos="X">বাবা-মায়ের</wf>
+   <wf id="d001.s023.t004" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s023.t005" lemma="সদ্য" pos="X">সদ্য</wf>
+   <wf id="d001.s023.t006" lemma="ইউরোপ" pos="X">ইউরোপে</wf>
+   <wf id="d001.s023.t007" lemma="আসা" pos="X">আসেনি</wf>
+   <wf id="d001.s023.t008" lemma="," pos="X">,</wf>
+   <wf id="d001.s023.t009" lemma="অথচ" pos="X">অথচ</wf>
+   <wf id="d001.s023.t010" lemma="জার্মান" pos="X">জার্মানরা</wf>
+   <wf id="d001.s023.t011" lemma="তাঁদের" pos="X">তাঁদের</wf>
+   <wf id="d001.s023.t012" lemma="সমাজ" pos="X">সমাজে</wf>
+   <wf id="d001.s023.t013" lemma="পূর্ণ_সদস্য" pos="X">পূর্ণ_সদস্য</wf>
+   <wf id="d001.s023.t014" lemma="হিসেব" pos="X">হিসেবেও</wf>
+   <wf id="d001.s023.t015" lemma="গণ্য" pos="X">গণ্য</wf>
+   <wf id="d001.s023.t016" lemma="করা" pos="X">করছে</wf>
+   <wf id="d001.s023.t017" lemma="না" pos="X">না</wf>
+   <wf id="d001.s023.t018" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s024">
+   <wf id="d001.s024.t001" lemma="অনেক" pos="X">অনেকেই</wf>
+   <wf id="d001.s024.t002" lemma="স্কুল" pos="X">স্কুলে</wf>
+   <wf id="d001.s024.t003" lemma="লেখাপড়া" pos="X">লেখাপড়ায়</wf>
+   <wf id="d001.s024.t004" lemma="খুব" pos="X">খুব</wf>
+   <wf id="d001.s024.t005" lemma="খারাপ" pos="X">খারাপ</wf>
+   <wf id="d001.s024.t006" lemma="করা" pos="X">করেছে</wf>
+   <wf id="d001.s024.t007" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s025">
+   <wf id="d001.s025.t001" lemma="তাঁরা" pos="X">তাঁরা</wf>
+   <wf id="d001.s025.t002" lemma="সব" pos="X">সব</wf>
+   <wf id="d001.s025.t003" lemma="সময়" pos="X">সময়</wf>
+   <wf id="d001.s025.t004" lemma="নিজ" pos="X">নিজেদের</wf>
+   <wf id="d001.s025.t005" lemma="মধ্য" pos="X">মধ্যেই</wf>
+   <wf id="d001.s025.t006" lemma="সময়" pos="X">সময়</wf>
+   <wf id="d001.s025.t007" lemma="কাটানো" pos="X">কাটায়</wf>
+   <wf id="d001.s025.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s026">
+   <wf id="d001.s026.t001" lemma="তাই" pos="X">তাই</wf>
+   <wf id="d001.s026.t002" lemma="জার্মান_ভাষা" pos="X">জার্মান_ভাষাটা</wf>
+   <wf id="d001.s026.t003" lemma="ভালো" pos="X">ভালো</wf>
+   <wf id="d001.s026.t004" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s026.t005" lemma="শিখা" pos="X">শিখতে</wf>
+   <wf id="d001.s026.t006" lemma="পারা" pos="X">পারেনি</wf>
+   <wf id="d001.s026.t007" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s027">
+   <wf id="d001.s027.t001" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s027.t002" lemma="পরিস্থিতি" pos="X">পরিস্থিতিতে</wf>
+   <wf id="d001.s027.t003" lemma="সমাজ" pos="X">সমাজের</wf>
+   <wf id="d001.s027.t004" lemma="মূল" pos="X">মূল</wf>
+   <wf id="d001.s027.t005" lemma="অংশ" pos="X">অংশে</wf>
+   <wf id="d001.s027.t006" lemma="স্থান" pos="X">স্থান</wf>
+   <wf id="d001.s027.t007" lemma="পাওয়া" pos="X">পাওয়াটা</wf>
+   <wf id="d001.s027.t008" lemma="তাঁদের" pos="X">তাঁদের</wf>
+   <wf id="d001.s027.t009" lemma="জন্য" pos="X">জন্য</wf>
+   <wf id="d001.s027.t010" lemma="সত্য" pos="X">সত্যিই</wf>
+   <wf id="d001.s027.t011" lemma="কঠিন" pos="X">কঠিন</wf>
+   <wf id="d001.s027.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s028">
+   <wf id="d001.s028.t001" lemma="হালে" pos="X">হালে</wf>
+   <wf id="d001.s028.t002" lemma="চরম_ডানপন্থি" pos="X">চরম_ডানপন্থিরা</wf>
+   <wf id="d001.s028.t003" lemma="ইউরোপ" pos="X">ইউরোপে</wf>
+   <wf id="d001.s028.t004" lemma="ইসলামবিরোধী" pos="X">ইসলামবিরোধী</wf>
+   <wf id="d001.s028.t005" lemma="সমাবেশ" pos="X">সমাবেশ</wf>
+   <wf id="d001.s028.t006" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s028.t007" lemma="করা" pos="X">করেছে</wf>
+   <wf id="d001.s028.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s029">
+   <wf id="d001.s029.t001" lemma="বিষয়" pos="X">বিষয়টি</wf>
+   <wf id="d001.s029.t002" lemma="স্বাভাবিক" pos="X">স্বাভাবিক</wf>
+   <wf id="d001.s029.t003" lemma="কারণ" pos="X">কারণেই</wf>
+   <wf id="d001.s029.t004" lemma="ইউরোপ" pos="X">ইউরোপে</wf>
+   <wf id="d001.s029.t005" lemma="বসবাসরত" pos="X">বসবাসরত</wf>
+   <wf id="d001.s029.t006" lemma="মুসলমান" pos="X">মুসলমানদের</wf>
+   <wf id="d001.s029.t007" lemma="আহত" pos="X">আহত</wf>
+   <wf id="d001.s029.t008" lemma="করা" pos="X">করেছে</wf>
+   <wf id="d001.s029.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s030">
+   <wf id="d001.s030.t001" lemma="মূল" pos="X">মূল</wf>
+   <wf id="d001.s030.t002" lemma="সমাজ" pos="X">সমাজ</wf>
+   <wf id="d001.s030.t003" lemma="তাঁদের" pos="X">তাঁদের</wf>
+   <wf id="d001.s030.t004" lemma="প্রকারান্তর" pos="X">প্রকারান্তরে</wf>
+   <wf id="d001.s030.t005" lemma="প্রত্যাখ্যান" pos="X">প্রত্যাখ্যান</wf>
+   <wf id="d001.s030.t006" lemma="করা" pos="X">করায়</wf>
+   <wf id="d001.s030.t007" lemma="মুসলিম" pos="X">মুসলিম</wf>
+   <wf id="d001.s030.t008" lemma="তরুণ" pos="X">তরুণরা</wf>
+   <wf id="d001.s030.t009" lemma="সিরিয়া" pos="X">সিরিয়া</wf>
+   <wf id="d001.s030.t010" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s030.t011" lemma="ইরাক" pos="X">ইরাকে</wf>
+   <wf id="d001.s030.t012" lemma="যাওয়া" pos="X">গিয়ে</wf>
+   <wf id="d001.s030.t013" lemma="ইসলামিক_স্টেটস" pos="X">ইসলামিক_স্টেটস</wf>
+   <wf id="d001.s030.t014" lemma="-" pos="X">-</wf>
+   <wf id="d001.s030.t015" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s030.t016" lemma="হওয়া" pos="X">হয়ে</wf>
+   <wf id="d001.s030.t017" lemma="যুদ্ধ" pos="X">যুদ্ধে</wf>
+   <wf id="d001.s030.t018" lemma="অংশ" pos="X">অংশ</wf>
+   <wf id="d001.s030.t019" lemma="নেওয়া" pos="X">নিচ্ছে</wf>
+   <wf id="d001.s030.t020" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s031">
+   <wf id="d001.s031.t001" lemma="ইউরোপীয়" pos="X">ইউরোপীয়দের</wf>
+   <wf id="d001.s031.t002" lemma="আশঙ্কা" pos="X">আশঙ্কা</wf>
+   <wf id="d001.s031.t003" lemma="," pos="X">,</wf>
+   <wf id="d001.s031.t004" lemma="ওই" pos="X">ওই</wf>
+   <wf id="d001.s031.t005" lemma="তরুণ" pos="X">তরুণরা</wf>
+   <wf id="d001.s031.t006" lemma="ফেরা" pos="X">ফিরে</wf>
+   <wf id="d001.s031.t007" lemma="আসা" pos="X">এসে</wf>
+   <wf id="d001.s031.t008" lemma="ইউরোপ" pos="X">ইউরোপের</wf>
+   <wf id="d001.s031.t009" lemma="দেশ" pos="X">দেশগুলোতেও</wf>
+   <wf id="d001.s031.t010" lemma="শার্লি_এব্দো" pos="X">শার্লি_এব্দোর</wf>
+   <wf id="d001.s031.t011" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s031.t012" lemma="ভয়ঙ্কর" pos="X">ভয়ঙ্কর</wf>
+   <wf id="d001.s031.t013" lemma="সন্ত্রাসী_হামলা" pos="X">সন্ত্রাসী_হামলা</wf>
+   <wf id="d001.s031.t014" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s031.t015" lemma="করা" pos="X">করবে</wf>
+   <wf id="d001.s031.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s032">
+   <wf id="d001.s032.t001" lemma="যারা" pos="X">যারা</wf>
+   <wf id="d001.s032.t002" lemma="ইরাক" pos="X">ইরাক</wf>
+   <wf id="d001.s032.t003" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s032.t004" lemma="সিরিয়া" pos="X">সিরিয়ায়</wf>
+   <wf id="d001.s032.t005" lemma="যাওয়া" pos="X">গিয়ে</wf>
+   <wf id="d001.s032.t006" lemma="যুদ্ধ" pos="X">যুদ্ধ</wf>
+   <wf id="d001.s032.t007" lemma="করা" pos="X">করছে</wf>
+   <wf id="d001.s032.t008" lemma="ইউরোপ" pos="X">ইউরোপে</wf>
+   <wf id="d001.s032.t009" lemma="ফেরা" pos="X">ফিরলেই</wf>
+   <wf id="d001.s032.t010" lemma="তাদের" pos="X">তাদের</wf>
+   <wf id="d001.s032.t011" lemma="দীর্ঘমেয়াদ" pos="X">দীর্ঘমেয়াদে</wf>
+   <wf id="d001.s032.t012" lemma="কারাভোগ" pos="X">কারাভোগ</wf>
+   <wf id="d001.s032.t013" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s032.t014" lemma="হওয়া" pos="X">হবে</wf>
+   <wf id="d001.s032.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s033">
+   <wf id="d001.s033.t001" lemma="সমাজ" pos="X">সমাজ</wf>
+   <wf id="d001.s033.t002" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s033.t003" lemma="তারা" pos="X">তারা</wf>
+   <wf id="d001.s033.t004" lemma="এখন" pos="X">এখন</wf>
+   <wf id="d001.s033.t005" lemma="আরো" pos="X">আরো</wf>
+   <wf id="d001.s033.t006" lemma="বেশি" pos="X">বেশি</wf>
+   <wf id="d001.s033.t007" lemma="বিচ্ছিন্ন" pos="X">বিচ্ছিন্ন</wf>
+   <wf id="d001.s033.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s034">
+   <wf id="d001.s034.t001" lemma="ইউরোপ" pos="X">ইউরোপের</wf>
+   <wf id="d001.s034.t002" lemma="সমাজ" pos="X">সমাজে</wf>
+   <wf id="d001.s034.t003" lemma="মুসলিম_তরুণ" pos="X">মুসলিম_তরুণদের</wf>
+   <wf id="d001.s034.t004" lemma="কীভাবে" pos="X">কীভাবে</wf>
+   <wf id="d001.s034.t005" lemma="একটা" pos="X">একটা</wf>
+   <wf id="d001.s034.t006" lemma="গ্রহণযোগ্য" pos="X">গ্রহণযোগ্য</wf>
+   <wf id="d001.s034.t007" lemma="আত্মপরিচয়" pos="X">আত্মপরিচয়</wf>
+   <wf id="d001.s034.t008" lemma="দেয়া" pos="X">দেয়া</wf>
+   <wf id="d001.s034.t009" lemma="যায়" pos="X">যায়</wf>
+   <wf id="d001.s034.t010" lemma="-" pos="X">-</wf>
+   <wf id="d001.s034.t011" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s034.t012" lemma="মুহূর্ত" pos="X">মুহূর্তে</wf>
+   <wf id="d001.s034.t013" lemma="সেটা" pos="X">সেটাই</wf>
+   <wf id="d001.s034.t014" lemma="সবচেয়ে" pos="X">সবচেয়ে</wf>
+   <wf id="d001.s034.t015" lemma="গুরুত্বপূর্ণ" pos="X">গুরুত্বপূর্ণ</wf>
+   <wf id="d001.s034.t016" lemma="প্রশ্ন" pos="X">প্রশ্ন</wf>
+   <wf id="d001.s034.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s035">
+   <wf id="d001.s035.t001" lemma="অনেক" pos="X">অনেকেই</wf>
+   <wf id="d001.s035.t002" lemma="স্কুল" pos="X">স্কুলে</wf>
+   <wf id="d001.s035.t003" lemma="অকৃতকার্য" pos="X">অকৃতকার্য</wf>
+   <wf id="d001.s035.t004" lemma="হওয়া" pos="X">হয়েছে</wf>
+   <wf id="d001.s035.t005" lemma="," pos="X">,</wf>
+   <wf id="d001.s035.t006" lemma="ভাষা" pos="X">ভাষা</wf>
+   <wf id="d001.s035.t007" lemma="শেখা" pos="X">শেখেনি</wf>
+   <wf id="d001.s035.t008" lemma="," pos="X">,</wf>
+   <wf id="d001.s035.t009" lemma="কোনো" pos="X">কোনো</wf>
+   <wf id="d001.s035.t010" lemma="বিশেষ" pos="X">বিশেষ</wf>
+   <wf id="d001.s035.t011" lemma="পেশার" pos="X">পেশার</wf>
+   <wf id="d001.s035.t012" lemma="জন্য" pos="X">জন্য</wf>
+   <wf id="d001.s035.t013" lemma="নিজেকে" pos="X">নিজেকে</wf>
+   <wf id="d001.s035.t014" lemma="যথাযথভাবে" pos="X">যথাযথভাবে</wf>
+   <wf id="d001.s035.t015" lemma="তৈরি" pos="X">তৈরি</wf>
+   <wf id="d001.s035.t016" lemma="করো" pos="X">করেনি</wf>
+   <wf id="d001.s035.t017" lemma="," pos="X">,</wf>
+   <wf id="d001.s035.t018" lemma="অবশেষে" pos="X">অবশেষে</wf>
+   <wf id="d001.s035.t019" lemma="হতাশা" pos="X">হতাশা</wf>
+   <wf id="d001.s035.t020" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s035.t021" lemma="আশ্রয়" pos="X">আশ্রয়</wf>
+   <wf id="d001.s035.t022" lemma="নেওয়া" pos="X">নিয়েছে</wf>
+   <wf id="d001.s035.t023" lemma="ইসলামিক_স্টেট" pos="X">ইসলামিক_স্টেট</wf>
+   <wf id="d001.s035.t024" lemma="-" pos="X">-</wf>
+   <wf id="d001.s035.t025" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s035.t026" lemma="শিবির" pos="X">শিবিরে</wf>
+   <wf id="d001.s035.t027" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s036">
+   <wf id="d001.s036.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s036.t002" lemma="অবস্থা" pos="X">অবস্থার</wf>
+   <wf id="d001.s036.t003" lemma="পরিবর্তন" pos="X">পরিবর্তন</wf>
+   <wf id="d001.s036.t004" lemma="করা" pos="X">করতেই</wf>
+   <wf id="d001.s036.t005" lemma="হওয়া" pos="X">হবে</wf>
+   <wf id="d001.s036.t006" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s037">
+   <wf id="d001.s037.t001" lemma="কীভাবে" pos="X">কীভাবে</wf>
+   <wf id="d001.s037.t002" lemma="?" pos="X">?</wf>
+  </sentence>
+  <sentence id="d001.s038">
+   <wf id="d001.s038.t001" lemma="নিশ্চয়" pos="X">নিশ্চয়ই</wf>
+   <wf id="d001.s038.t002" lemma="প্রত্যাখ্যান" pos="X">প্রত্যাখ্যান</wf>
+   <wf id="d001.s038.t003" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s038.t004" lemma="নয়" pos="X">নয়</wf>
+   <wf id="d001.s038.t005" lemma="," pos="X">,</wf>
+   <wf id="d001.s038.t006" lemma="সমাজ" pos="X">সমাজের</wf>
+   <wf id="d001.s038.t007" lemma="অংশ" pos="X">অংশ</wf>
+   <wf id="d001.s038.t008" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s038.t009" lemma="নেওয়া" pos="X">নিয়ে</wf>
+   <wf id="d001.s038.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s039">
+   <wf id="d001.s039.t001" lemma="আরেকটা" pos="X">আরেকটা</wf>
+   <wf id="d001.s039.t002" lemma="বিষয়" pos="X">বিষয়</wf>
+   <wf id="d001.s039.t003" lemma="হলো" pos="X">হলো</wf>
+   <wf id="d001.s039.t004" lemma="," pos="X">,</wf>
+   <wf id="d001.s039.t005" lemma="ইউরোপ" pos="X">ইউরোপে</wf>
+   <wf id="d001.s039.t006" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s039.t007" lemma="বছর" pos="X">বছর</wf>
+   <wf id="d001.s039.t008" lemma="ধরা" pos="X">ধরেই</wf>
+   <wf id="d001.s039.t009" lemma="শিশু" pos="X">শিশু</wf>
+   <wf id="d001.s039.t010" lemma="জন্ম" pos="X">জন্মের</wf>
+   <wf id="d001.s039.t011" lemma="হার" pos="X">হার</wf>
+   <wf id="d001.s039.t012" lemma="কমা" pos="X">কমছে</wf>
+   <wf id="d001.s039.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s040">
+   <wf id="d001.s040.t001" lemma="ইউরোপ" pos="X">ইউরোপের</wf>
+   <wf id="d001.s040.t002" lemma="মেয়ে" pos="X">মেয়েরা</wf>
+   <wf id="d001.s040.t003" lemma="বিয়ে" pos="X">বিয়ে</wf>
+   <wf id="d001.s040.t004" lemma="করা" pos="X">করার</wf>
+   <wf id="d001.s040.t005" lemma="চেয়ে" pos="X">চেয়ে</wf>
+   <wf id="d001.s040.t006" lemma="নিজ" pos="X">নিজের</wf>
+   <wf id="d001.s040.t007" lemma="ক্যারিয়ার" pos="X">ক্যারিয়ার</wf>
+   <wf id="d001.s040.t008" lemma="গড়া" pos="X">গড়ার</wf>
+   <wf id="d001.s040.t009" lemma="দিক" pos="X">দিকেই</wf>
+   <wf id="d001.s040.t010" lemma="বেশি" pos="X">বেশি</wf>
+   <wf id="d001.s040.t011" lemma="মনযোগী" pos="X">মনযোগী</wf>
+   <wf id="d001.s040.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s041">
+   <wf id="d001.s041.t001" lemma="তা" pos="X">তা</wf>
+   <wf id="d001.s041.t002" lemma="হবেনাইবা" pos="X">হবেনাইবা</wf>
+   <wf id="d001.s041.t003" lemma="কেন" pos="X">কেন</wf>
+   <wf id="d001.s041.t004" lemma="?" pos="X">?</wf>
+  </sentence>
+  <sentence id="d001.s042">
+   <wf id="d001.s042.t001" lemma="নিজ" pos="X">নিজের</wf>
+   <wf id="d001.s042.t002" lemma="ভবিষ্যৎ" pos="X">ভবিষ্যৎ</wf>
+   <wf id="d001.s042.t003" lemma="গড়া" pos="X">গড়ায়</wf>
+   <wf id="d001.s042.t004" lemma="মনোযোগ" pos="X">মনোযোগী</wf>
+   <wf id="d001.s042.t005" lemma="হওয়া" pos="X">হওয়াতো</wf>
+   <wf id="d001.s042.t006" lemma="তাঁদের" pos="X">তাঁদের</wf>
+   <wf id="d001.s042.t007" lemma="অধিকার" pos="X">অধিকার</wf>
+   <wf id="d001.s042.t008" lemma="!" pos="X">!</wf>
+  </sentence>
+  <sentence id="d001.s043">
+   <wf id="d001.s043.t001" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s043.t002" lemma="মেয়ে" pos="X">মেয়েরা</wf>
+   <wf id="d001.s043.t003" lemma="তা" pos="X">তা</wf>
+   <wf id="d001.s043.t004" lemma="করা" pos="X">করছে</wf>
+   <wf id="d001.s043.t005" lemma="বলা" pos="X">বলে</wf>
+   <wf id="d001.s043.t006" lemma="অভিবাসী" pos="X">অভিবাসীদের</wf>
+   <wf id="d001.s043.t007" lemma="প্রয়োজন" pos="X">প্রয়োজন</wf>
+   <wf id="d001.s043.t008" lemma="আরো" pos="X">আরো</wf>
+   <wf id="d001.s043.t009" lemma="বাড়া" pos="X">বেড়েছে</wf>
+   <wf id="d001.s043.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s044">
+   <wf id="d001.s044.t001" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s044.t002" lemma="অবস্থা" pos="X">অবস্থায়</wf>
+   <wf id="d001.s044.t003" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s044.t004" lemma="শ্রমবাজার" pos="X">শ্রমবাজারের</wf>
+   <wf id="d001.s044.t005" lemma="চাহিদা" pos="X">চাহিদা</wf>
+   <wf id="d001.s044.t006" lemma="অনুযায়ী" pos="X">অনুযায়ী</wf>
+   <wf id="d001.s044.t007" lemma="একটি" pos="X">একটি</wf>
+   <wf id="d001.s044.t008" lemma="অভিবাসন_নীতিমালা" pos="X">অভিবাসন_নীতিমালা</wf>
+   <wf id="d001.s044.t009" lemma="প্রণয়ন" pos="X">প্রণয়ন</wf>
+   <wf id="d001.s044.t010" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s044.t011" lemma="হওয়া" pos="X">হবে</wf>
+   <wf id="d001.s044.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s045">
+   <wf id="d001.s045.t001" lemma="যুক্তরাষ্ট্র" pos="X">যুক্তরাষ্ট্র</wf>
+   <wf id="d001.s045.t002" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s045.t003" lemma="অস্ট্রেলিয়া" pos="X">অস্ট্রেলিয়ার</wf>
+   <wf id="d001.s045.t004" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s045.t005" lemma="দেশ" pos="X">দেশ</wf>
+   <wf id="d001.s045.t006" lemma="ইতিমধ্যে" pos="X">ইতিমধ্যে</wf>
+   <wf id="d001.s045.t007" lemma="তা" pos="X">তা</wf>
+   <wf id="d001.s045.t008" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s045.t009" lemma="পারা" pos="X">পারলে</wf>
+   <wf id="d001.s045.t010" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s045.t011" lemma="কেন" pos="X">কেন</wf>
+   <wf id="d001.s045.t012" lemma="পারবোনা" pos="X">পারবোনা</wf>
+   <wf id="d001.s045.t013" lemma="?" pos="X">?</wf>
+  </sentence>
+  <sentence id="d001.s046">
+   <wf id="d001.s046.t001" lemma="ইউরোপ" pos="X">ইউরোপকে</wf>
+   <wf id="d001.s046.t002" lemma="খুব" pos="X">খুব</wf>
+   <wf id="d001.s046.t003" lemma="শিগগির" pos="X">শিগগিরই</wf>
+   <wf id="d001.s046.t004" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s046.t005" lemma="বাস্তবতা" pos="X">বাস্তবতা</wf>
+   <wf id="d001.s046.t006" lemma="মেনে" pos="X">মেনে</wf>
+   <wf id="d001.s046.t007" lemma="নেওয়া" pos="X">নিতে</wf>
+   <wf id="d001.s046.t008" lemma="হওয়া" pos="X">হবে</wf>
+   <wf id="d001.s046.t009" lemma="যে" pos="X">যে</wf>
+   <wf id="d001.s046.t010" lemma="," pos="X">,</wf>
+   <wf id="d001.s046.t011" lemma="রক্ষণশীলতা" pos="X">রক্ষণশীলতাকে</wf>
+   <wf id="d001.s046.t012" lemma="বহু" pos="X">বহু</wf>
+   <wf id="d001.s046.t013" lemma="আগে" pos="X">আগেই</wf>
+   <wf id="d001.s046.t014" lemma="বর্জন" pos="X">বর্জন</wf>
+   <wf id="d001.s046.t015" lemma="করা" pos="X">করা</wf>
+   <wf id="d001.s046.t016" lemma="হওয়া" pos="X">হয়েছে</wf>
+   <wf id="d001.s046.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s047">
+   <wf id="d001.s047.t001" lemma="ইউরোপ" pos="X">ইউরোপের</wf>
+   <wf id="d001.s047.t002" lemma="সমাজ" pos="X">সমাজ</wf>
+   <wf id="d001.s047.t003" lemma="বহু_সংস্কৃতি" pos="X">বহু_সংস্কৃতির</wf>
+   <wf id="d001.s047.t004" lemma="মেলবন্ধন" pos="X">মেলবন্ধনের</wf>
+   <wf id="d001.s047.t005" lemma="সমাজ" pos="X">সমাজ</wf>
+   <wf id="d001.s047.t006" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s048">
+   <wf id="d001.s048.t001" lemma="ইসলাম" pos="X">ইসলাম</wf>
+   <wf id="d001.s048.t002" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s048.t003" lemma="অংশ" pos="X">অংশ</wf>
+   <wf id="d001.s048.t004" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s049">
+   <wf id="d001.s049.t001" lemma="জার্মানি" pos="X">জার্মানি</wf>
+   <wf id="d001.s049.t002" lemma="," pos="X">,</wf>
+   <wf id="d001.s049.t003" lemma="ব্রিটেন" pos="X">ব্রিটেন</wf>
+   <wf id="d001.s049.t004" lemma="," pos="X">,</wf>
+   <wf id="d001.s049.t005" lemma="ফ্রান্স" pos="X">ফ্রান্স</wf>
+   <wf id="d001.s049.t006" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s049.t007" lemma="নেদারল্যান্ডস" pos="X">নেদারল্যান্ডসে</wf>
+   <wf id="d001.s049.t008" lemma="চরম_ডানপন্থি" pos="X">চরম_ডানপন্থিরা</wf>
+   <wf id="d001.s049.t009" lemma="জাতিগত" pos="X">জাতিগত</wf>
+   <wf id="d001.s049.t010" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s049.t011" lemma="ধর্মীয়_বিদ্বেষ" pos="X">ধর্মীয়_বিদ্বেষ</wf>
+   <wf id="d001.s049.t012" lemma="ছড়ানো" pos="X">ছড়ানোর</wf>
+   <wf id="d001.s049.t013" lemma="উদ্দেশ্য" pos="X">উদ্দেশ্যে</wf>
+   <wf id="d001.s049.t014" lemma="যে" pos="X">যে</wf>
+   <wf id="d001.s049.t015" lemma="প্রতিবাদ" pos="X">প্রতিবাদ</wf>
+   <wf id="d001.s049.t016" lemma="-" pos="X">-</wf>
+   <wf id="d001.s049.t017" lemma="বিক্ষোভ" pos="X">বিক্ষোভ</wf>
+   <wf id="d001.s049.t018" lemma="করা" pos="X">করছে</wf>
+   <wf id="d001.s049.t019" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s049.t020" lemma="এখানে" pos="X">এখানে</wf>
+   <wf id="d001.s049.t021" lemma="এসব" pos="X">এসবের</wf>
+   <wf id="d001.s049.t022" lemma="কোনো" pos="X">কোনো</wf>
+   <wf id="d001.s049.t023" lemma="দরকার" pos="X">দরকার</wf>
+   <wf id="d001.s049.t024" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s049.t025" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s050">
+   <wf id="d001.s050.t001" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞান</wf>
+   <wf id="d001.s050.t002" lemma="হওয়া" pos="X">হচ্ছে</wf>
+   <wf id="d001.s050.t003" lemma="জ্ঞান" pos="X">জ্ঞানের</wf>
+   <wf id="d001.s050.t004" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s050.t005" lemma="শাখা" pos="X">শাখা</wf>
+   <wf id="d001.s050.t006" lemma="যা" pos="X">যা</wf>
+   <wf id="d001.s050.t007" lemma="ভৌত_জগত" pos="X">ভৌত_জগতের</wf>
+   <wf id="d001.s050.t008" lemma="সবকিছু" pos="X">সবকিছু</wf>
+   <wf id="d001.s050.t009" lemma="নেওয়া" pos="X">নিয়েই</wf>
+   <wf id="d001.s050.t010" lemma="আলোচনা" pos="X">আলোচনা</wf>
+   <wf id="d001.s050.t011" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s050.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s051">
+   <wf id="d001.s051.t001" lemma="বিজ্ঞান" pos="X">বিজ্ঞানের</wf>
+   <wf id="d001.s051.t002" lemma="সবচেয়ে" pos="X">সবচেয়ে</wf>
+   <wf id="d001.s051.t003" lemma="পুরানো" pos="X">পুরানো</wf>
+   <wf id="d001.s051.t004" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s051.t005" lemma="মৌলিক_শাখা" pos="X">মৌলিক_শাখা</wf>
+   <wf id="d001.s051.t006" lemma="হওয়া" pos="X">হচ্ছে</wf>
+   <wf id="d001.s051.t007" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞান</wf>
+   <wf id="d001.s051.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s052">
+   <wf id="d001.s052.t001" lemma="ক্ষুদ্রাতিক্ষুদ্র" pos="X">ক্ষুদ্রাতিক্ষুদ্র</wf>
+   <wf id="d001.s052.t002" lemma="অণু" pos="X">অণু</wf>
+   <wf id="d001.s052.t003" lemma="-" pos="X">-</wf>
+   <wf id="d001.s052.t004" lemma="পরমানু" pos="X">পরমানু</wf>
+   <wf id="d001.s052.t005" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s052.t006" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s052.t007" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s052.t008" lemma="একেবারে" pos="X">একেবারে</wf>
+   <wf id="d001.s052.t009" lemma="পুরো" pos="X">পুরো</wf>
+   <wf id="d001.s052.t010" lemma="মহাবিশ্ব" pos="X">মহাবিশ্ব</wf>
+   <wf id="d001.s052.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s052.t012" lemma="গ্যালাক্সি" pos="X">গ্যালাক্সির</wf>
+   <wf id="d001.s052.t013" lemma="সবকিছু" pos="X">সবকিছুই</wf>
+   <wf id="d001.s052.t014" lemma="আসল" pos="X">আসলে</wf>
+   <wf id="d001.s052.t015" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানের</wf>
+   <wf id="d001.s052.t016" lemma="অন্তর্ভুক্ত" pos="X">অন্তর্ভুক্ত</wf>
+   <wf id="d001.s052.t017" lemma="বিষয়" pos="X">বিষয়</wf>
+   <wf id="d001.s052.t018" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s053">
+   <wf id="d001.s053.t001" lemma="পদাথ" pos="X">পদার্থের</wf>
+   <wf id="d001.s053.t002" lemma="গঠন" pos="X">গঠন</wf>
+   <wf id="d001.s053.t003" lemma="," pos="X">,</wf>
+   <wf id="d001.s053.t004" lemma="প্রকৃতি" pos="X">প্রকৃতি</wf>
+   <wf id="d001.s053.t005" lemma="," pos="X">,</wf>
+   <wf id="d001.s053.t006" lemma="গতিবিধি" pos="X">গতিবিধি</wf>
+   <wf id="d001.s053.t007" lemma="," pos="X">,</wf>
+   <wf id="d001.s053.t008" lemma="শক্তি" pos="X">শক্তি</wf>
+   <wf id="d001.s053.t009" lemma="বিশদভাবে" pos="X">বিশদভাবে</wf>
+   <wf id="d001.s053.t010" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s053.t011" lemma="সবকিছু" pos="X">সবকিছু</wf>
+   <wf id="d001.s053.t012" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s053.t013" lemma="প্রাকৃতিক" pos="X">প্রাকৃতিক</wf>
+   <wf id="d001.s053.t014" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s053.t015" lemma="বস্তুগত" pos="X">বস্তুগত</wf>
+   <wf id="d001.s053.t016" lemma="ঘটনা" pos="X">ঘটনাগুলো</wf>
+   <wf id="d001.s053.t017" lemma="পরস্পর" pos="X">পরস্পর</wf>
+   <wf id="d001.s053.t018" lemma="কিভাবে" pos="X">কিভাবে</wf>
+   <wf id="d001.s053.t019" lemma="সম্পর্কযুক্ত" pos="X">সম্পর্কযুক্ত</wf>
+   <wf id="d001.s053.t020" lemma="," pos="X">,</wf>
+   <wf id="d001.s053.t021" lemma="কোন" pos="X">কোন</wf>
+   <wf id="d001.s053.t022" lemma="সুনির্দিষ্ট" pos="X">সুনির্দিষ্ট</wf>
+   <wf id="d001.s053.t023" lemma="নিয়ম" pos="X">নিয়ম</wf>
+   <wf id="d001.s053.t024" lemma="মেনে" pos="X">মেনে</wf>
+   <wf id="d001.s053.t025" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s053.t026" lemma="ঘটনা" pos="X">ঘটনাগুলো</wf>
+   <wf id="d001.s053.t027" lemma="ঘটা" pos="X">ঘটে</wf>
+   <wf id="d001.s053.t028" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s053.t029" lemma="ব্যাপার" pos="X">ব্যাপারগুলো</wf>
+   <wf id="d001.s053.t030" lemma="নেওয়া" pos="X">নিয়েই</wf>
+   <wf id="d001.s053.t031" lemma="পদার্থবিজ্ঞানী" pos="X">পদার্থবিজ্ঞানীরা</wf>
+   <wf id="d001.s053.t032" lemma="কাজ" pos="X">কাজ</wf>
+   <wf id="d001.s053.t033" lemma="করা" pos="X">করেন</wf>
+   <wf id="d001.s053.t034" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s054">
+   <wf id="d001.s054.t001" lemma="এভাবে" pos="X">এভাবে</wf>
+   <wf id="d001.s054.t002" lemma="কাজ" pos="X">কাজ</wf>
+   <wf id="d001.s054.t003" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s054.t004" lemma="যাওয়া" pos="X">গিয়ে</wf>
+   <wf id="d001.s054.t005" lemma="তাদের" pos="X">তাদের</wf>
+   <wf id="d001.s054.t006" lemma="আবিষ্কৃত" pos="X">আবিষ্কৃত</wf>
+   <wf id="d001.s054.t007" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s054.t008" lemma="ধারনা" pos="X">ধারনা</wf>
+   <wf id="d001.s054.t009" lemma="," pos="X">,</wf>
+   <wf id="d001.s054.t010" lemma="তত্ত্ব" pos="X">তত্ত্ব</wf>
+   <wf id="d001.s054.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s054.t012" lemma="সুত্র" pos="X">সুত্র</wf>
+   <wf id="d001.s054.t013" lemma="ব্যবহার" pos="X">ব্যবহার</wf>
+   <wf id="d001.s054.t014" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s054.t015" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s054.t016" lemma="কিছু" pos="X">কিছুই</wf>
+   <wf id="d001.s054.t017" lemma="তৈরি" pos="X">তৈরি</wf>
+   <wf id="d001.s054.t018" lemma="করা" pos="X">করা</wf>
+   <wf id="d001.s054.t019" lemma="হয়" pos="X">হয়</wf>
+   <wf id="d001.s054.t020" lemma="যা" pos="X">যা</wf>
+   <wf id="d001.s054.t021" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s054.t022" lemma="প্রতিদিন" pos="X">প্রতিদিনকার</wf>
+   <wf id="d001.s054.t023" lemma="জীবন" pos="X">জীবনকে</wf>
+   <wf id="d001.s054.t024" lemma="সহজ" pos="X">সহজ</wf>
+   <wf id="d001.s054.t025" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s054.t026" lemma="তোলা" pos="X">তোলে</wf>
+   <wf id="d001.s054.t027" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s055">
+   <wf id="d001.s055.t001" lemma="পদার্থবিজ্ঞানী" pos="X">পদার্থবিজ্ঞানী</wf>
+   <wf id="d001.s055.t002" lemma="সহ" pos="X">সহ</wf>
+   <wf id="d001.s055.t003" lemma="সকল" pos="X">সকল</wf>
+   <wf id="d001.s055.t004" lemma="বিজ্ঞানী" pos="X">বিজ্ঞানীরাই</wf>
+   <wf id="d001.s055.t005" lemma="কৌতুহলী" pos="X">কৌতুহলী</wf>
+   <wf id="d001.s055.t006" lemma="মানুষ" pos="X">মানুষ</wf>
+   <wf id="d001.s055.t007" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s056">
+   <wf id="d001.s056.t001" lemma="তারা" pos="X">তারা</wf>
+   <wf id="d001.s056.t002" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s056.t003" lemma="চারপাশ" pos="X">চারপাশের</wf>
+   <wf id="d001.s056.t004" lemma="ঘটনা" pos="X">ঘটনাগুলোর</wf>
+   <wf id="d001.s056.t005" lemma="দিক" pos="X">দিকে</wf>
+   <wf id="d001.s056.t006" lemma="প্রশ্ন" pos="X">প্রশ্নের</wf>
+   <wf id="d001.s056.t007" lemma="দৃষ্টি" pos="X">দৃষ্টিতে</wf>
+   <wf id="d001.s056.t008" lemma="তাকান" pos="X">তাকান</wf>
+   <wf id="d001.s056.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s057">
+   <wf id="d001.s057.t001" lemma="তাদের" pos="X">তাদের</wf>
+   <wf id="d001.s057.t002" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s057.t003" lemma="কৌতুহলী" pos="X">কৌতুহলী</wf>
+   <wf id="d001.s057.t004" lemma="দৃষ্টি" pos="X">দৃষ্টিই</wf>
+   <wf id="d001.s057.t005" lemma="চারপাশ" pos="X">চারপাশের</wf>
+   <wf id="d001.s057.t006" lemma="প্রাকৃতিক_ঘটনাবলী" pos="X">প্রাকৃতিক_ঘটনাবলী</wf>
+   <wf id="d001.s057.t007" lemma="সম্পর্ক" pos="X">সম্পর্কে</wf>
+   <wf id="d001.s057.t008" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s057.t009" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s057.t010" lemma="কারণ" pos="X">কারণ</wf>
+   <wf id="d001.s057.t011" lemma="সম্পর্ক" pos="X">সম্পর্কে</wf>
+   <wf id="d001.s057.t012" lemma="অনুসন্ধান" pos="X">অনুসন্ধান</wf>
+   <wf id="d001.s057.t013" lemma="চালানো" pos="X">চালাতে</wf>
+   <wf id="d001.s057.t014" lemma="তাদের" pos="X">তাদেরকে</wf>
+   <wf id="d001.s057.t015" lemma="উৎসাহিত" pos="X">উৎসাহিত</wf>
+   <wf id="d001.s057.t016" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s057.t017" lemma="তোলা" pos="X">তোলে</wf>
+   <wf id="d001.s057.t018" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s058">
+   <wf id="d001.s058.t001" lemma="বেশিরভাগ" pos="X">বেশিরভাগ</wf>
+   <wf id="d001.s058.t002" lemma="সময়" pos="X">সময়ই</wf>
+   <wf id="d001.s058.t003" lemma="কোনো" pos="X">কোনো</wf>
+   <wf id="d001.s058.t004" lemma="নির্দিষ্ট" pos="X">নির্দিষ্ট</wf>
+   <wf id="d001.s058.t005" lemma="বিষয়" pos="X">বিষয়ের</wf>
+   <wf id="d001.s058.t006" lemma="ব্যাখ্যা" pos="X">ব্যাখ্যা</wf>
+   <wf id="d001.s058.t007" lemma="খুঁজা" pos="X">খুঁজতে</wf>
+   <wf id="d001.s058.t008" lemma="যাওয়া" pos="X">গিয়ে</wf>
+   <wf id="d001.s058.t009" lemma="আরো" pos="X">আরো</wf>
+   <wf id="d001.s058.t010" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s058.t011" lemma="প্রশ্ন" pos="X">প্রশ্ন</wf>
+   <wf id="d001.s058.t012" lemma="সামন" pos="X">সামনে</wf>
+   <wf id="d001.s058.t013" lemma="চলা" pos="X">চলে</wf>
+   <wf id="d001.s058.t014" lemma="আসা" pos="X">আসে</wf>
+   <wf id="d001.s058.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s059">
+   <wf id="d001.s059.t001" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s059.t002" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s059.t003" lemma="এক" pos="X">একের</wf>
+   <wf id="d001.s059.t004" lemma="পর" pos="X">পর</wf>
+   <wf id="d001.s059.t005" lemma="সামন" pos="X">সামনে</wf>
+   <wf id="d001.s059.t006" lemma="চলা" pos="X">চলে</wf>
+   <wf id="d001.s059.t007" lemma="আসা" pos="X">আসা</wf>
+   <wf id="d001.s059.t008" lemma="প্রশ্নই" pos="X">প্রশ্নই</wf>
+   <wf id="d001.s059.t009" lemma="বৈজ্ঞানিক" pos="X">বৈজ্ঞানিক</wf>
+   <wf id="d001.s059.t010" lemma="গবেষনা" pos="X">গবেষনা</wf>
+   <wf id="d001.s059.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s059.t012" lemma="পর্যবেক্ষন" pos="X">পর্যবেক্ষন</wf>
+   <wf id="d001.s059.t013" lemma="," pos="X">,</wf>
+   <wf id="d001.s059.t014" lemma="পরীক্ষা" pos="X">পরীক্ষা</wf>
+   <wf id="d001.s059.t015" lemma="এসব" pos="X">এসব</wf>
+   <wf id="d001.s059.t016" lemma="এগিয়ে" pos="X">এগিয়ে</wf>
+   <wf id="d001.s059.t017" lemma="নেওয়া" pos="X">নিয়ে</wf>
+   <wf id="d001.s059.t018" lemma="যায়" pos="X">যায়</wf>
+   <wf id="d001.s059.t019" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s060">
+   <wf id="d001.s060.t001" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s060.t002" lemma="সময়" pos="X">সময়</wf>
+   <wf id="d001.s060.t003" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s060.t004" lemma="দল" pos="X">দল</wf>
+   <wf id="d001.s060.t005" lemma="বিজ্ঞানীর_গবেষণালব্ধ" pos="X">বিজ্ঞানীর_গবেষণালব্ধ</wf>
+   <wf id="d001.s060.t006" lemma="ফলাফল" pos="X">ফলাফল</wf>
+   <wf id="d001.s060.t007" lemma="অন্য" pos="X">অন্য</wf>
+   <wf id="d001.s060.t008" lemma="কোনো" pos="X">কোনো</wf>
+   <wf id="d001.s060.t009" lemma="গবেষণা_দল" pos="X">গবেষণা_দলের</wf>
+   <wf id="d001.s060.t010" lemma="আগ্রহ" pos="X">আগ্রহের</wf>
+   <wf id="d001.s060.t011" lemma="বিষয়" pos="X">বিষয়</wf>
+   <wf id="d001.s060.t012" lemma="হওয়া" pos="X">হয়ে</wf>
+   <wf id="d001.s060.t013" lemma="দাঁড়ান" pos="X">দাঁড়ায়</wf>
+   <wf id="d001.s060.t014" lemma="," pos="X">,</wf>
+   <wf id="d001.s060.t015" lemma="তাদের" pos="X">তাদের</wf>
+   <wf id="d001.s060.t016" lemma="গবেষণা" pos="X">গবেষণার</wf>
+   <wf id="d001.s060.t017" lemma="কাজ" pos="X">কাজে</wf>
+   <wf id="d001.s060.t018" lemma="লাগা" pos="X">লাগে</wf>
+   <wf id="d001.s060.t019" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s061">
+   <wf id="d001.s061.t001" lemma="আবার" pos="X">আবার</wf>
+   <wf id="d001.s061.t002" lemma="বিভিন্ন" pos="X">বিভিন্ন</wf>
+   <wf id="d001.s061.t003" lemma="গবেষনা" pos="X">গবেষনার</wf>
+   <wf id="d001.s061.t004" lemma="ফলাফল" pos="X">ফলাফল</wf>
+   <wf id="d001.s061.t005" lemma="বিভিন্ন" pos="X">বিভিন্ন</wf>
+   <wf id="d001.s061.t006" lemma="ধরন" pos="X">ধরনের</wf>
+   <wf id="d001.s061.t007" lemma="প্রযুক্তি_পণ্য" pos="X">প্রযুক্তি_পণ্য</wf>
+   <wf id="d001.s061.t008" lemma="তৈরি" pos="X">তৈরিতে</wf>
+   <wf id="d001.s061.t009" lemma="অবদান" pos="X">অবদান</wf>
+   <wf id="d001.s061.t010" lemma="রাখা" pos="X">রাখে</wf>
+   <wf id="d001.s061.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s062">
+   <wf id="d001.s062.t001" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s062.t002" lemma="উন্নততর_প্রযুক্তি" pos="X">উন্নততর_প্রযুক্তি</wf>
+   <wf id="d001.s062.t003" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s062.t004" lemma="জীবনযাত্রা" pos="X">জীবনযাত্রাকে</wf>
+   <wf id="d001.s062.t005" lemma="সহজ" pos="X">সহজ</wf>
+   <wf id="d001.s062.t006" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s062.t007" lemma="তোলা" pos="X">তোলে</wf>
+   <wf id="d001.s062.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s063">
+   <wf id="d001.s063.t001" lemma="যুগ_যুগ" pos="X">যুগে_যুগে</wf>
+   <wf id="d001.s063.t002" lemma="," pos="X">,</wf>
+   <wf id="d001.s063.t003" lemma="শতাব্দী" pos="X">শতাব্দী</wf>
+   <wf id="d001.s063.t004" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s063.t005" lemma="শতাব্দী" pos="X">শতাব্দীতে</wf>
+   <wf id="d001.s063.t006" lemma="অসংখ্য" pos="X">অসংখ্য</wf>
+   <wf id="d001.s063.t007" lemma="ছোট-বড়" pos="X">ছোট-বড়</wf>
+   <wf id="d001.s063.t008" lemma="বিজ্ঞানী" pos="X">বিজ্ঞানীর</wf>
+   <wf id="d001.s063.t009" lemma="অক্লান্ত_পরিশ্রম" pos="X">অক্লান্ত_পরিশ্রমে</wf>
+   <wf id="d001.s063.t010" lemma="তিল_তিল" pos="X">তিল_তিল</wf>
+   <wf id="d001.s063.t011" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s063.t012" lemma="গড়া" pos="X">গড়ে</wf>
+   <wf id="d001.s063.t013" lemma="উঠা" pos="X">উঠেছে</wf>
+   <wf id="d001.s063.t014" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s063.t015" lemma="আজ" pos="X">আজকের</wf>
+   <wf id="d001.s063.t016" lemma="সভ্যতা" pos="X">সভ্যতা</wf>
+   <wf id="d001.s063.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s064">
+   <wf id="d001.s064.t001" lemma="বিজ্ঞান" pos="X">বিজ্ঞানের</wf>
+   <wf id="d001.s064.t002" lemma="কোনো" pos="X">কোনো</wf>
+   <wf id="d001.s064.t003" lemma="জাতীয়" pos="X">জাতীয়</wf>
+   <wf id="d001.s064.t004" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s064.t005" lemma="রাজনৈতিক" pos="X">রাজনৈতিক</wf>
+   <wf id="d001.s064.t006" lemma="সীমা" pos="X">সীমা</wf>
+   <wf id="d001.s064.t007" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s064.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s065">
+   <wf id="d001.s065.t001" lemma="বিজ্ঞান" pos="X">বিজ্ঞানের</wf>
+   <wf id="d001.s065.t002" lemma="উন্নতি" pos="X">উন্নতি</wf>
+   <wf id="d001.s065.t003" lemma="," pos="X">,</wf>
+   <wf id="d001.s065.t004" lemma="সমৃদ্ধি" pos="X">সমৃদ্ধি</wf>
+   <wf id="d001.s065.t005" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s065.t006" lemma="কল্যাণ" pos="X">কল্যাণ</wf>
+   <wf id="d001.s065.t007" lemma="সকল" pos="X">সকল</wf>
+   <wf id="d001.s065.t008" lemma="জাতি" pos="X">জাতির</wf>
+   <wf id="d001.s065.t009" lemma="সকল" pos="X">সকল</wf>
+   <wf id="d001.s065.t010" lemma="মানুষ" pos="X">মানুষের</wf>
+   <wf id="d001.s065.t011" lemma="জন্য" pos="X">জন্য</wf>
+   <wf id="d001.s065.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s066">
+   <wf id="d001.s066.t001" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানের</wf>
+   <wf id="d001.s066.t002" lemma="প্রয়োগ" pos="X">প্রয়োগ</wf>
+   <wf id="d001.s066.t003" lemma="প্রতিনিয়ত" pos="X">প্রতিনিয়ত</wf>
+   <wf id="d001.s066.t004" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s066.t005" lemma="জীবনযাত্রা" pos="X">জীবনযাত্রাকে</wf>
+   <wf id="d001.s066.t006" lemma="সহজ_থেকে_সহজতর" pos="X">সহজ_থেকে_সহজতর</wf>
+   <wf id="d001.s066.t007" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s066.t008" lemma="তোলা" pos="X">তুলছে</wf>
+   <wf id="d001.s066.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s067">
+   <wf id="d001.s067.t001" lemma="শুধুমাত্র" pos="X">শুধুমাত্র</wf>
+   <wf id="d001.s067.t002" lemma="প্রযুক্তি" pos="X">প্রযুক্তিকে</wf>
+   <wf id="d001.s067.t003" lemma="ঠিকমত" pos="X">ঠিকমত</wf>
+   <wf id="d001.s067.t004" lemma="ব্যবহার" pos="X">ব্যবহার</wf>
+   <wf id="d001.s067.t005" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s067.t006" lemma="পারা" pos="X">পারার</wf>
+   <wf id="d001.s067.t007" lemma="জন্য" pos="X">জন্য</wf>
+   <wf id="d001.s067.t008" lemma="হওয়া" pos="X">হলেও</wf>
+   <wf id="d001.s067.t009" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s067.t010" lemma="অল্পবিস্তর" pos="X">অল্পবিস্তর</wf>
+   <wf id="d001.s067.t011" lemma="বিজ্ঞান" pos="X">বিজ্ঞান</wf>
+   <wf id="d001.s067.t012" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s067.t013" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞান</wf>
+   <wf id="d001.s067.t014" lemma="সম্পর্ক" pos="X">সম্পর্কে</wf>
+   <wf id="d001.s067.t015" lemma="জানা" pos="X">জানা</wf>
+   <wf id="d001.s067.t016" lemma="প্রয়োজন" pos="X">প্রয়োজন</wf>
+   <wf id="d001.s067.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s068">
+   <wf id="d001.s068.t001" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞান</wf>
+   <wf id="d001.s068.t002" lemma="জানা" pos="X">জানা</wf>
+   <wf id="d001.s068.t003" lemma="একজন" pos="X">একজন</wf>
+   <wf id="d001.s068.t004" lemma="ব্যাক্তি" pos="X">ব্যাক্তি</wf>
+   <wf id="d001.s068.t005" lemma="বিজ্ঞান" pos="X">বিজ্ঞানের</wf>
+   <wf id="d001.s068.t006" lemma="অন্যান্য" pos="X">অন্যান্য</wf>
+   <wf id="d001.s068.t007" lemma="শাখা" pos="X">শাখায়ও</wf>
+   <wf id="d001.s068.t008" lemma="খুব" pos="X">খুব</wf>
+   <wf id="d001.s068.t009" lemma="সহজ" pos="X">সহজেই</wf>
+   <wf id="d001.s068.t010" lemma="কাজ" pos="X">কাজ</wf>
+   <wf id="d001.s068.t011" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s068.t012" lemma="পারা" pos="X">পারে</wf>
+   <wf id="d001.s068.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s069">
+   <wf id="d001.s069.t001" lemma="অনেক" pos="X">অনেকেরই</wf>
+   <wf id="d001.s069.t002" lemma="ইঞ্জিনিয়ারিং" pos="X">ইঞ্জিনিয়ারিং</wf>
+   <wf id="d001.s069.t003" lemma="পড়াশুনা" pos="X">পড়াশুনার</wf>
+   <wf id="d001.s069.t004" lemma="প্রতি" pos="X">প্রতি</wf>
+   <wf id="d001.s069.t005" lemma="একধরন" pos="X">একধরনের</wf>
+   <wf id="d001.s069.t006" lemma="মোহ" pos="X">মোহ</wf>
+   <wf id="d001.s069.t007" lemma="থাকা" pos="X">আছে</wf>
+   <wf id="d001.s069.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s070">
+   <wf id="d001.s070.t001" lemma="ইঞ্জিনিয়ার" pos="X">ইঞ্জিনিয়ার</wf>
+   <wf id="d001.s070.t002" lemma="হওয়া" pos="X">হলে</wf>
+   <wf id="d001.s070.t003" lemma="চাকরি" pos="X">চাকরি</wf>
+   <wf id="d001.s070.t004" lemma="পাওয়া" pos="X">পেতে</wf>
+   <wf id="d001.s070.t005" lemma="সুবিধা" pos="X">সুবিধা</wf>
+   <wf id="d001.s070.t006" lemma="হওয়া" pos="X">হয়</wf>
+   <wf id="d001.s070.t007" lemma="," pos="X">,</wf>
+   <wf id="d001.s070.t008" lemma="এটা" pos="X">এটাই</wf>
+   <wf id="d001.s070.t009" lemma="হয়ত" pos="X">হয়ত</wf>
+   <wf id="d001.s070.t010" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s070.t011" lemma="মোহ" pos="X">মোহের</wf>
+   <wf id="d001.s070.t012" lemma="একটা" pos="X">একটা</wf>
+   <wf id="d001.s070.t013" lemma="গুরুত্বপূর্ণ" pos="X">গুরুত্বপূর্ণ</wf>
+   <wf id="d001.s070.t014" lemma="কারণ" pos="X">কারণ</wf>
+   <wf id="d001.s070.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s071">
+   <wf id="d001.s071.t001" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s071.t002" lemma="ইঞ্জিনিয়ার" pos="X">ইঞ্জিনিয়াররা</wf>
+   <wf id="d001.s071.t003" lemma="আসল" pos="X">আসলে</wf>
+   <wf id="d001.s071.t004" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানকেই</wf>
+   <wf id="d001.s071.t005" lemma="কৌশল" pos="X">কৌশলে</wf>
+   <wf id="d001.s071.t006" lemma="ব্যবহার" pos="X">ব্যবহার</wf>
+   <wf id="d001.s071.t007" lemma="করা" pos="X">করেন</wf>
+   <wf id="d001.s071.t008" lemma="," pos="X">,</wf>
+   <wf id="d001.s071.t009" lemma="বিভিন্ন" pos="X">বিভিন্ন</wf>
+   <wf id="d001.s071.t010" lemma="সমস্যা" pos="X">সমস্যা</wf>
+   <wf id="d001.s071.t011" lemma="সমাধান" pos="X">সমাধানে</wf>
+   <wf id="d001.s071.t012" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানের</wf>
+   <wf id="d001.s071.t013" lemma="জ্ঞান" pos="X">জ্ঞানকে</wf>
+   <wf id="d001.s071.t014" lemma="ব্যবহার" pos="X">ব্যবহার</wf>
+   <wf id="d001.s071.t015" lemma="করা" pos="X">করেন</wf>
+   <wf id="d001.s071.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s072">
+   <wf id="d001.s072.t001" lemma="পদার্থবিজ্ঞানী" pos="X">পদার্থবিজ্ঞানীরা</wf>
+   <wf id="d001.s072.t002" lemma="প্রকৃতি" pos="X">প্রকৃতির</wf>
+   <wf id="d001.s072.t003" lemma="নিয়ম" pos="X">নিয়মগুলো</wf>
+   <wf id="d001.s072.t004" lemma="বের" pos="X">বের</wf>
+   <wf id="d001.s072.t005" lemma="করা" pos="X">করেন</wf>
+   <wf id="d001.s072.t006" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s072.t007" lemma="ইঞ্জিনিয়ার" pos="X">ইঞ্জিনিয়াররা</wf>
+   <wf id="d001.s072.t008" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s072.t009" lemma="জ্ঞান" pos="X">জ্ঞান</wf>
+   <wf id="d001.s072.t010" lemma="ব্যবহার" pos="X">ব্যবহার</wf>
+   <wf id="d001.s072.t011" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s072.t012" lemma="আমাদের" pos="X">আমাদের</wf>
+   <wf id="d001.s072.t013" lemma="জীবন" pos="X">জীবন</wf>
+   <wf id="d001.s072.t014" lemma="সহজ" pos="X">সহজ</wf>
+   <wf id="d001.s072.t015" lemma="করা" pos="X">করেন</wf>
+   <wf id="d001.s072.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s073">
+   <wf id="d001.s073.t001" lemma="কাজ" pos="X">কাজেই</wf>
+   <wf id="d001.s073.t002" lemma="পদার্থবিজ্ঞানী" pos="X">পদার্থবিজ্ঞানীদের</wf>
+   <wf id="d001.s073.t003" lemma="কাজ" pos="X">কাজটাই</wf>
+   <wf id="d001.s073.t004" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s073.t005" lemma="আগে" pos="X">আগে</wf>
+   <wf id="d001.s073.t006" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s074">
+   <wf id="d001.s074.t001" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানের</wf>
+   <wf id="d001.s074.t002" lemma="বিভিন্ন" pos="X">বিভিন্ন</wf>
+   <wf id="d001.s074.t003" lemma="শাখা" pos="X">শাখা</wf>
+  </sentence>
+  <sentence id="d001.s075">
+   <wf id="d001.s075.t001" lemma="বর্তমান" pos="X">বর্তমান</wf>
+   <wf id="d001.s075.t002" lemma="পৃথিবী" pos="X">পৃথিবীতে</wf>
+   <wf id="d001.s075.t003" lemma="বিজ্ঞান" pos="X">বিজ্ঞান</wf>
+   <wf id="d001.s075.t004" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s075.t005" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s075.t006" lemma="শাখা-প্রশাখা" pos="X">শাখা-প্রশাখায়</wf>
+   <wf id="d001.s075.t007" lemma="বিভক্ত" pos="X">বিভক্ত</wf>
+   <wf id="d001.s075.t008" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s075.t009" lemma="দিন" pos="X">দিন</wf>
+   <wf id="d001.s075.t010" lemma="দিন" pos="X">দিন</wf>
+   <wf id="d001.s075.t011" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s075.t012" lemma="শাখা-প্রশাখা" pos="X">শাখা-প্রশাখা</wf>
+   <wf id="d001.s075.t013" lemma="বাড়া" pos="X">বাড়ছে</wf>
+   <wf id="d001.s075.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s076">
+   <wf id="d001.s076.t001" lemma="অথচ" pos="X">অথচ</wf>
+   <wf id="d001.s076.t002" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s076.t003" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s076.t004" lemma="দুই" pos="X">দুই</wf>
+   <wf id="d001.s076.t005" lemma="শতাব্দীকাল" pos="X">শতাব্দীকাল</wf>
+   <wf id="d001.s076.t006" lemma="আগে" pos="X">আগেও</wf>
+   <wf id="d001.s076.t007" lemma="বিজ্ঞান" pos="X">বিজ্ঞানের</wf>
+   <wf id="d001.s076.t008" lemma="এত" pos="X">এত</wf>
+   <wf id="d001.s076.t009" lemma="শাখা-প্রশাখা" pos="X">শাখা-প্রশাখা</wf>
+   <wf id="d001.s076.t010" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s076.t011" lemma="না" pos="X">না</wf>
+   <wf id="d001.s076.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s077">
+   <wf id="d001.s077.t001" lemma="ঐ" pos="X">ঐ</wf>
+   <wf id="d001.s077.t002" lemma="সময়" pos="X">সময়টাতে</wf>
+   <wf id="d001.s077.t003" lemma="বিজ্ঞান" pos="X">বিজ্ঞানের</wf>
+   <wf id="d001.s077.t004" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s077.t005" lemma="শিল্প-সাহিত্য" pos="X">শিল্প-সাহিত্যের</wf>
+   <wf id="d001.s077.t006" lemma="মত" pos="X">মত</wf>
+   <wf id="d001.s077.t007" lemma="বিষয়" pos="X">বিষয়</wf>
+   <wf id="d001.s077.t008" lemma="একত্র" pos="X">একত্রে</wf>
+   <wf id="d001.s077.t009" lemma="ছিল" pos="X">ছিল</wf>
+   <wf id="d001.s077.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s078">
+   <wf id="d001.s078.t001" lemma="ফলা" pos="X">ফলে</wf>
+   <wf id="d001.s078.t002" lemma="পদার্থবিদ্যা" pos="X">পদার্থবিদ্যার</wf>
+   <wf id="d001.s078.t003" lemma="উন্নতি" pos="X">উন্নতির</wf>
+   <wf id="d001.s078.t004" lemma="প্রভাব" pos="X">প্রভাব</wf>
+   <wf id="d001.s078.t005" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s078.t006" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s078.t007" lemma="জড়িত" pos="X">জড়িত</wf>
+   <wf id="d001.s078.t008" lemma="অন্য" pos="X">অন্য</wf>
+   <wf id="d001.s078.t009" lemma="শাখা" pos="X">শাখাগুলোতেও</wf>
+   <wf id="d001.s078.t010" lemma="পড়া" pos="X">পড়েছিল</wf>
+   <wf id="d001.s078.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s079">
+   <wf id="d001.s079.t001" lemma="এরপর" pos="X">এরপর</wf>
+   <wf id="d001.s079.t002" lemma="বিজ্ঞান" pos="X">বিজ্ঞান</wf>
+   <wf id="d001.s079.t003" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s079.t004" lemma="আগান" pos="X">এগিয়েছে</wf>
+   <wf id="d001.s079.t005" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s080">
+   <wf id="d001.s080.t001" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s080.t002" lemma="বিস্তৃত" pos="X">বিস্তৃতি</wf>
+   <wf id="d001.s080.t003" lemma="বাড়া" pos="X">বেড়েছে</wf>
+   <wf id="d001.s080.t004" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s081">
+   <wf id="d001.s081.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s081.t002" lemma="ব্যাপকতা" pos="X">ব্যাপকতার</wf>
+   <wf id="d001.s081.t003" lemma="কারণ" pos="X">কারণেই</wf>
+   <wf id="d001.s081.t004" lemma="বিজ্ঞান" pos="X">বিজ্ঞানের</wf>
+   <wf id="d001.s081.t005" lemma="আলোচনা" pos="X">আলোচনা</wf>
+   <wf id="d001.s081.t006" lemma="," pos="X">,</wf>
+   <wf id="d001.s081.t007" lemma="গবেষণা" pos="X">গবেষণা</wf>
+   <wf id="d001.s081.t008" lemma="," pos="X">,</wf>
+   <wf id="d001.s081.t009" lemma="পড়াশোনা" pos="X">পড়াশোনা</wf>
+   <wf id="d001.s081.t010" lemma="এখন" pos="X">এখন</wf>
+   <wf id="d001.s081.t011" lemma="পদার্থবিদ্যা" pos="X">পদার্থবিদ্যা</wf>
+   <wf id="d001.s081.t012" lemma="," pos="X">,</wf>
+   <wf id="d001.s081.t013" lemma="রসায়ন" pos="X">রসায়ন</wf>
+   <wf id="d001.s081.t014" lemma="," pos="X">,</wf>
+   <wf id="d001.s081.t015" lemma="জীববিদ্যা" pos="X">জীববিদ্যা</wf>
+   <wf id="d001.s081.t016" lemma="ইত্যাদি" pos="X">ইত্যাদি</wf>
+   <wf id="d001.s081.t017" lemma="শাখা" pos="X">শাখায়</wf>
+   <wf id="d001.s081.t018" lemma="বিভক্ত" pos="X">বিভক্ত</wf>
+   <wf id="d001.s081.t019" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s082">
+   <wf id="d001.s082.t001" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s082.t002" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s082.t003" lemma="প্রতিটি" pos="X">প্রতিটি</wf>
+   <wf id="d001.s082.t004" lemma="শাখা" pos="X">শাখাই</wf>
+   <wf id="d001.s082.t005" lemma="আবার" pos="X">আবার</wf>
+   <wf id="d001.s082.t006" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s082.t007" lemma="উপশাখা" pos="X">উপশাখায়</wf>
+   <wf id="d001.s082.t008" lemma="বিভক্ত" pos="X">বিভক্ত</wf>
+   <wf id="d001.s082.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s083">
+   <wf id="d001.s083.t001" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানেও</wf>
+   <wf id="d001.s083.t002" lemma="এমন" pos="X">এমন</wf>
+   <wf id="d001.s083.t003" lemma="বিস্তৃত" pos="X">বিস্তৃত</wf>
+   <wf id="d001.s083.t004" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s083.t005" lemma="শাখা" pos="X">শাখা</wf>
+   <wf id="d001.s083.t006" lemma="থাকা" pos="X">আছে</wf>
+   <wf id="d001.s083.t007" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s084">
+   <wf id="d001.s084.t001" lemma="স্কুল" pos="X">স্কুলের</wf>
+   <wf id="d001.s084.t002" lemma="শিক্ষার্থী" pos="X">শিক্ষার্থীরা</wf>
+   <wf id="d001.s084.t003" lemma="হয়ত" pos="X">হয়ত</wf>
+   <wf id="d001.s084.t004" lemma="এখন" pos="X">এখনই</wf>
+   <wf id="d001.s084.t005" lemma="উচু_পর্যায়" pos="X">উচু_পর্যায়ের</wf>
+   <wf id="d001.s084.t006" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানের</wf>
+   <wf id="d001.s084.t007" lemma="শাখা" pos="X">শাখাগুলোর</wf>
+   <wf id="d001.s084.t008" lemma="আলোচনা" pos="X">আলোচনার</wf>
+   <wf id="d001.s084.t009" lemma="বিষয়" pos="X">বিষয়</wf>
+   <wf id="d001.s084.t010" lemma="ভালভাবে" pos="X">ভালভাবে</wf>
+   <wf id="d001.s084.t011" lemma="বুঝা" pos="X">বুঝতে</wf>
+   <wf id="d001.s084.t012" lemma="পারা" pos="X">পারবে</wf>
+   <wf id="d001.s084.t013" lemma="না" pos="X">না</wf>
+   <wf id="d001.s084.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s085">
+   <wf id="d001.s085.t001" lemma="প্রাথমিকভাবে" pos="X">প্রাথমিকভাবে</wf>
+   <wf id="d001.s085.t002" lemma="স্কুল" pos="X">স্কুল</wf>
+   <wf id="d001.s085.t003" lemma="-" pos="X">-</wf>
+   <wf id="d001.s085.t004" lemma="কলেজ" pos="X">কলেজ</wf>
+   <wf id="d001.s085.t005" lemma="পর্যায়" pos="X">পর্যায়ে</wf>
+   <wf id="d001.s085.t006" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s085.t007" lemma="যেটুকু" pos="X">যেটুকু</wf>
+   <wf id="d001.s085.t008" lemma="ফিজিক্স" pos="X">ফিজিক্স</wf>
+   <wf id="d001.s085.t009" lemma="পড়া" pos="X">পড়ব</wf>
+   <wf id="d001.s085.t010" lemma="সেটা" pos="X">সেটাকে</wf>
+   <wf id="d001.s085.t011" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s085.t012" lemma="কয়েকটা" pos="X">কয়েকটা</wf>
+   <wf id="d001.s085.t013" lemma="ভাগ" pos="X">ভাগে</wf>
+   <wf id="d001.s085.t014" lemma="ভাগ" pos="X">ভাগ</wf>
+   <wf id="d001.s085.t015" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s085.t016" lemma="পারা" pos="X">পারিঃ</wf>
+   <wf id="d001.s085.t017" lemma="বলবিদ্যা" pos="X">বলবিদ্যা</wf>
+   <wf id="d001.s085.t018" lemma="(" pos="X">(</wf>
+   <wf id="d001.s085.t019" lemma="Mechanics" pos="X">Mechanics</wf>
+   <wf id="d001.s085.t020" lemma=")" pos="X">)</wf>
+   <wf id="d001.s085.t021" lemma="," pos="X">,</wf>
+   <wf id="d001.s085.t022" lemma="তাপবিজ্ঞান" pos="X">তাপবিজ্ঞান</wf>
+   <wf id="d001.s085.t023" lemma="(" pos="X">(</wf>
+   <wf id="d001.s085.t024" lemma="Thermodynamics" pos="X">Thermodynamics</wf>
+   <wf id="d001.s085.t025" lemma=")" pos="X">)</wf>
+   <wf id="d001.s085.t026" lemma="," pos="X">,</wf>
+   <wf id="d001.s085.t027" lemma="তরংগ_ও_শব্দ" pos="X">তরংগ_ও_শব্দ</wf>
+   <wf id="d001.s085.t028" lemma="(" pos="X">(</wf>
+   <wf id="d001.s085.t029" lemma="Wave_and_Sound" pos="X">Wave_and_Sound</wf>
+   <wf id="d001.s085.t030" lemma=")" pos="X">)</wf>
+   <wf id="d001.s085.t031" lemma="," pos="X">,</wf>
+   <wf id="d001.s085.t032" lemma="আলো" pos="X">আলো</wf>
+   <wf id="d001.s085.t033" lemma="(" pos="X">(</wf>
+   <wf id="d001.s085.t034" lemma="Light" pos="X">Light</wf>
+   <wf id="d001.s085.t035" lemma=")" pos="X">)</wf>
+   <wf id="d001.s085.t036" lemma="," pos="X">,</wf>
+   <wf id="d001.s085.t037" lemma="তড়িৎ_ও_চৌম্বক" pos="X">তড়িৎ_ও_চৌম্বক</wf>
+   <wf id="d001.s085.t038" lemma="(" pos="X">(</wf>
+   <wf id="d001.s085.t039" lemma="Electricity_and_Magnetism" pos="X">Electricity_and_Magnetism</wf>
+   <wf id="d001.s085.t040" lemma=")" pos="X">)</wf>
+   <wf id="d001.s085.t041" lemma="," pos="X">,</wf>
+   <wf id="d001.s085.t042" lemma="আধুনিক_পদার্থবিদ্যা_ও_ইলেক্ট্রনিক্স" pos="X">আধুনিক_পদার্থবিদ্যা_ও_ইলেক্ট্রনিক্স</wf>
+   <wf id="d001.s085.t043" lemma="(" pos="X">(</wf>
+   <wf id="d001.s085.t044" lemma="Modern_Physics_and_Electronics" pos="X">Modern_Physics_and_Electronics</wf>
+   <wf id="d001.s085.t045" lemma=")" pos="X">)</wf>
+   <wf id="d001.s085.t046" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s086">
+   <wf id="d001.s086.t001" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s086.t002" lemma="শোনা" pos="X">শুনেই</wf>
+   <wf id="d001.s086.t003" lemma="মোটামুটি" pos="X">মোটামুটি</wf>
+   <wf id="d001.s086.t004" lemma="বোঝা" pos="X">বোঝা</wf>
+   <wf id="d001.s086.t005" lemma="যাওয়া" pos="X">যাচ্ছে</wf>
+   <wf id="d001.s086.t006" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s086.t007" lemma="আলাদা_আলাদা" pos="X">আলাদা_আলাদা</wf>
+   <wf id="d001.s086.t008" lemma="ভাগ" pos="X">ভাগে</wf>
+   <wf id="d001.s086.t009" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s086.t010" lemma="আসল" pos="X">আসলে</wf>
+   <wf id="d001.s086.t011" lemma="কি" pos="X">কি</wf>
+   <wf id="d001.s086.t012" lemma="কি" pos="X">কি</wf>
+   <wf id="d001.s086.t013" lemma="পড়া" pos="X">পড়ব</wf>
+   <wf id="d001.s086.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s087">
+   <wf id="d001.s087.t001" lemma="পড়া" pos="X">পড়তে</wf>
+   <wf id="d001.s087.t002" lemma="যাওয়া" pos="X">গেলেই</wf>
+   <wf id="d001.s087.t003" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s087.t004" lemma="বিস্তারিত_ভাবে" pos="X">বিস্তারিত_ভাবে</wf>
+   <wf id="d001.s087.t005" lemma="জানব" pos="X">জানব</wf>
+   <wf id="d001.s087.t006" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s087.t007" lemma="আসল" pos="X">আসলে</wf>
+   <wf id="d001.s087.t008" lemma="কোন" pos="X">কোন</wf>
+   <wf id="d001.s087.t009" lemma="অংশ" pos="X">অংশে</wf>
+   <wf id="d001.s087.t010" lemma="কি" pos="X">কি</wf>
+   <wf id="d001.s087.t011" lemma="পড়া" pos="X">পড়ছি</wf>
+   <wf id="d001.s087.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s088">
+   <wf id="d001.s088.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s088.t002" lemma="লেখা" pos="X">লেখাতে</wf>
+   <wf id="d001.s088.t003" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানের</wf>
+   <wf id="d001.s088.t004" lemma="শাখা-প্রশাখা" pos="X">শাখা-প্রশাখা</wf>
+   <wf id="d001.s088.t005" lemma="বোঝান" pos="X">বোঝানোর</wf>
+   <wf id="d001.s088.t006" lemma="জন্য" pos="X">জন্য</wf>
+   <wf id="d001.s088.t007" lemma="একজন" pos="X">একজন</wf>
+   <wf id="d001.s088.t008" lemma="স্কুল" pos="X">স্কুলের</wf>
+   <wf id="d001.s088.t009" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s088.t010" lemma="কলেজ" pos="X">কলেজের</wf>
+   <wf id="d001.s088.t011" lemma="শিক্ষার্থী" pos="X">শিক্ষার্থী</wf>
+   <wf id="d001.s088.t012" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s088.t013" lemma="বই" pos="X">বইতে</wf>
+   <wf id="d001.s088.t014" lemma="পদার্থবিজ্ঞান" pos="X">পদার্থবিজ্ঞানের</wf>
+   <wf id="d001.s088.t015" lemma="যে" pos="X">যে</wf>
+   <wf id="d001.s088.t016" lemma="বিষয়" pos="X">বিষয়গুলো</wf>
+   <wf id="d001.s088.t017" lemma="পড়া" pos="X">পড়ে</wf>
+   <wf id="d001.s088.t018" lemma="সেগুলো" pos="X">সেগুলোকেই</wf>
+   <wf id="d001.s088.t019" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s088.t020" lemma="বিভিন্নভাগ" pos="X">বিভিন্নভাগে</wf>
+   <wf id="d001.s088.t021" lemma="ভাগ" pos="X">ভাগ</wf>
+   <wf id="d001.s088.t022" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s088.t023" lemma="পারা" pos="X">পারি</wf>
+   <wf id="d001.s088.t024" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s089">
+   <wf id="d001.s089.t001" lemma="এখানে" pos="X">এখানে</wf>
+   <wf id="d001.s089.t002" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s089.t003" lemma="মূলত" pos="X">মূলত</wf>
+   <wf id="d001.s089.t004" lemma="তোমাদের" pos="X">তোমাদের</wf>
+   <wf id="d001.s089.t005" lemma="মাধ্যমিক" pos="X">মাধ্যমিক</wf>
+   <wf id="d001.s089.t006" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s089.t007" lemma="উচ্চমাধ্যমিক" pos="X">উচ্চমাধ্যমিক</wf>
+   <wf id="d001.s089.t008" lemma="বই" pos="X">বই</wf>
+   <wf id="d001.s089.t009" lemma="অনুসরন" pos="X">অনুসারে</wf>
+   <wf id="d001.s089.t010" lemma="বিভাজন" pos="X">বিভাজন</wf>
+   <wf id="d001.s089.t011" lemma="করা" pos="X">করেছি</wf>
+   <wf id="d001.s089.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s090">
+   <wf id="d001.s090.t001" lemma="চাওয়া" pos="X">চাইলে</wf>
+   <wf id="d001.s090.t002" lemma="তোমরা" pos="X">তোমরা</wf>
+   <wf id="d001.s090.t003" lemma="তোমাদের" pos="X">তোমাদের</wf>
+   <wf id="d001.s090.t004" lemma="বই" pos="X">বইয়ের</wf>
+   <wf id="d001.s090.t005" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s090.t006" lemma="মিলানো" pos="X">মিলিয়ে</wf>
+   <wf id="d001.s090.t007" lemma="নেওয়া" pos="X">নিতে</wf>
+   <wf id="d001.s090.t008" lemma="পারা" pos="X">পার</wf>
+   <wf id="d001.s090.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s091">
+   <wf id="d001.s091.t001" lemma="প্রত্যহ_জীবন" pos="X">প্রত্যহ_জীবনের</wf>
+   <wf id="d001.s091.t002" lemma="ব্যবহার" pos="X">ব্যবহারী</wf>
+   <wf id="d001.s091.t003" lemma="নিজ" pos="X">নিজের</wf>
+   <wf id="d001.s091.t004" lemma="প্রয়োজনীয়_জিনিসপত্র" pos="X">প্রয়োজনীয়_জিনিসপত্র</wf>
+   <wf id="d001.s091.t005" lemma="হারান" pos="X">হারিয়ে</wf>
+   <wf id="d001.s091.t006" lemma="ফেলা" pos="X">ফেলার</wf>
+   <wf id="d001.s091.t007" lemma="অভ্যেস" pos="X">অভ্যেস</wf>
+   <wf id="d001.s091.t008" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s091.t009" lemma="ছোটবেলা" pos="X">ছোটবেলা</wf>
+   <wf id="d001.s091.t010" lemma="থেকে" pos="X">থেকেই</wf>
+   <wf id="d001.s091.t011" lemma="থাকা" pos="X">ছিলো</wf>
+   <wf id="d001.s091.t012" lemma="," pos="X">,</wf>
+   <wf id="d001.s091.t013" lemma="আজ" pos="X">আজও</wf>
+   <wf id="d001.s091.t014" lemma="থাক" pos="X">আছে</wf>
+   <wf id="d001.s091.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s092">
+   <wf id="d001.s092.t001" lemma="ক্লাস_ফোর" pos="X">ক্লাস_ফোর</wf>
+   <wf id="d001.s092.t002" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s092.t003" lemma="ফাইভে" pos="X">ফাইভে</wf>
+   <wf id="d001.s092.t004" lemma="যখন" pos="X">যখন</wf>
+   <wf id="d001.s092.t005" lemma="উঠলাম" pos="X">উঠলাম</wf>
+   <wf id="d001.s092.t006" lemma="," pos="X">,</wf>
+   <wf id="d001.s092.t007" lemma="পরীক্ষায়" pos="X">পরীক্ষায়</wf>
+   <wf id="d001.s092.t008" lemma="ভালো" pos="X">ভালো</wf>
+   <wf id="d001.s092.t009" lemma="করার" pos="X">করার</wf>
+   <wf id="d001.s092.t010" lemma="জন্যে" pos="X">জন্যে</wf>
+   <wf id="d001.s092.t011" lemma="বাবা" pos="X">বাবা</wf>
+   <wf id="d001.s092.t012" lemma="একটা" pos="X">একটা</wf>
+   <wf id="d001.s092.t013" lemma="লাল_রঙ্গের_জ্যাকেট" pos="X">লাল_রঙ্গের_জ্যাকেট</wf>
+   <wf id="d001.s092.t014" lemma="কিনে" pos="X">কিনে</wf>
+   <wf id="d001.s092.t015" lemma="দিয়েছিলেন" pos="X">দিয়েছিলেন</wf>
+   <wf id="d001.s092.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s093">
+   <wf id="d001.s093.t001" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s093.t002" lemma="জ্যাকেট" pos="X">জ্যাকেট</wf>
+   <wf id="d001.s093.t003" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s093.t004" lemma="ছেলেবেলার" pos="X">ছেলেবেলার</wf>
+   <wf id="d001.s093.t005" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s093.t006" lemma="সময়টা" pos="X">সময়টা</wf>
+   <wf id="d001.s093.t007" lemma="কে" pos="X">কে</wf>
+   <wf id="d001.s093.t008" lemma="হুমায়ুন_আজাদের" pos="X">হুমায়ুন_আজাদের</wf>
+   <wf id="d001.s093.t009" lemma="কবিতার" pos="X">কবিতার</wf>
+   <wf id="d001.s093.t010" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s093.t011" lemma="লাল" pos="X">লাল</wf>
+   <wf id="d001.s093.t012" lemma="করে" pos="X">করে</wf>
+   <wf id="d001.s093.t013" lemma="তুলেছিলো" pos="X">তুলেছিলো</wf>
+   <wf id="d001.s093.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s094">
+   <wf id="d001.s094.t001" lemma="কতদিন" pos="X">কতদিন</wf>
+   <wf id="d001.s094.t002" lemma="আমি" pos="X">আমি</wf>
+   <wf id="d001.s094.t003" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s094.t004" lemma="লাল_জ্যাকেট" pos="X">লাল_জ্যাকেট</wf>
+   <wf id="d001.s094.t005" lemma="বুকে" pos="X">বুকে</wf>
+   <wf id="d001.s094.t006" lemma="নিয়ে" pos="X">নিয়ে</wf>
+   <wf id="d001.s094.t007" lemma="ঘুমিয়েছি" pos="X">ঘুমিয়েছি</wf>
+   <wf id="d001.s094.t008" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s094.t009" lemma="কোন" pos="X">কোন</wf>
+   <wf id="d001.s094.t010" lemma="ইয়াত্তা" pos="X">ইয়াত্তা</wf>
+   <wf id="d001.s094.t011" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s094.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s095">
+   <wf id="d001.s095.t001" lemma="অথচ" pos="X">অথচ</wf>
+   <wf id="d001.s095.t002" lemma="মাস" pos="X">মাস</wf>
+   <wf id="d001.s095.t003" lemma="দুয়েক" pos="X">দুয়েক</wf>
+   <wf id="d001.s095.t004" lemma="যাওয়ার" pos="X">যাওয়ার</wf>
+   <wf id="d001.s095.t005" lemma="আগেই" pos="X">আগেই</wf>
+   <wf id="d001.s095.t006" lemma="নদীর" pos="X">নদীর</wf>
+   <wf id="d001.s095.t007" lemma="ওপারে" pos="X">ওপারে</wf>
+   <wf id="d001.s095.t008" lemma="পানের" pos="X">পানের</wf>
+   <wf id="d001.s095.t009" lemma="বরজে" pos="X">বরজে</wf>
+   <wf id="d001.s095.t010" lemma="লুকোচুরি" pos="X">লুকোচুরি</wf>
+   <wf id="d001.s095.t011" lemma="খেলতে" pos="X">খেলতে</wf>
+   <wf id="d001.s095.t012" lemma="গিয়ে" pos="X">গিয়ে</wf>
+   <wf id="d001.s095.t013" lemma="তাকে" pos="X">তাকে</wf>
+   <wf id="d001.s095.t014" lemma="হারিয়ে" pos="X">হারিয়ে</wf>
+   <wf id="d001.s095.t015" lemma="ফেললাম" pos="X">ফেললাম</wf>
+   <wf id="d001.s095.t016" lemma="মনের" pos="X">মনের</wf>
+   <wf id="d001.s095.t017" lemma="ভুলে" pos="X">ভুলে</wf>
+   <wf id="d001.s095.t018" lemma="!" pos="X">!</wf>
+  </sentence>
+  <sentence id="d001.s096">
+   <wf id="d001.s096.t001" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s096.t002" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s096.t003" lemma="," pos="X">,</wf>
+   <wf id="d001.s096.t004" lemma="এরপর" pos="X">এরপর</wf>
+   <wf id="d001.s096.t005" lemma="কত" pos="X">কত</wf>
+   <wf id="d001.s096.t006" lemma="কি" pos="X">কি</wf>
+   <wf id="d001.s096.t007" lemma="হারালাম" pos="X">হারালাম</wf>
+   <wf id="d001.s096.t008" lemma="," pos="X">,</wf>
+   <wf id="d001.s096.t009" lemma="সময়ের" pos="X">সময়ের</wf>
+   <wf id="d001.s096.t010" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s096.t011" lemma="পা্ল্লা" pos="X">পা্ল্লা</wf>
+   <wf id="d001.s096.t012" lemma="দিয়ে" pos="X">দিয়ে</wf>
+   <wf id="d001.s096.t013" lemma="হারানোর" pos="X">হারানোর</wf>
+   <wf id="d001.s096.t014" lemma="তালিকা" pos="X">তালিকা</wf>
+   <wf id="d001.s096.t015" lemma="শুধু" pos="X">শুধু</wf>
+   <wf id="d001.s096.t016" lemma="লম্বা" pos="X">লম্বা</wf>
+   <wf id="d001.s096.t017" lemma="করতে" pos="X">করতে</wf>
+   <wf id="d001.s096.t018" lemma="থাকলাম" pos="X">থাকলাম</wf>
+   <wf id="d001.s096.t019" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s097">
+   <wf id="d001.s097.t001" lemma="হারানোর" pos="X">হারানোর</wf>
+   <wf id="d001.s097.t002" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s097.t003" lemma="ধারাবাহিকতায়" pos="X">ধারাবাহিকতায়</wf>
+   <wf id="d001.s097.t004" lemma="কৈশোর" pos="X">কৈশোর</wf>
+   <wf id="d001.s097.t005" lemma="পেরোনোর" pos="X">পেরোনোর</wf>
+   <wf id="d001.s097.t006" lemma="আগেই" pos="X">আগেই</wf>
+   <wf id="d001.s097.t007" lemma="একদিন" pos="X">একদিন</wf>
+   <wf id="d001.s097.t008" lemma="বাবাকে" pos="X">বাবাকে</wf>
+   <wf id="d001.s097.t009" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s097.t010" lemma="হারিয়ে" pos="X">হারিয়ে</wf>
+   <wf id="d001.s097.t011" lemma="ফেললাম" pos="X">ফেললাম</wf>
+   <wf id="d001.s097.t012" lemma="!" pos="X">!</wf>
+  </sentence>
+  <sentence id="d001.s098">
+   <wf id="d001.s098.t001" lemma="স্থির" pos="X">স্থির</wf>
+   <wf id="d001.s098.t002" lemma="আমি" pos="X">আমি</wf>
+   <wf id="d001.s098.t003" lemma="ছিলাম" pos="X">ছিলাম</wf>
+   <wf id="d001.s098.t004" lemma="না" pos="X">না</wf>
+   <wf id="d001.s098.t005" lemma="কিছুতেই" pos="X">কিছুতেই</wf>
+   <wf id="d001.s098.t006" lemma="," pos="X">,</wf>
+   <wf id="d001.s098.t007" lemma="এমনকি" pos="X">এমনকি</wf>
+   <wf id="d001.s098.t008" lemma="স্থির" pos="X">স্থির</wf>
+   <wf id="d001.s098.t009" lemma="ছিলো" pos="X">ছিলো</wf>
+   <wf id="d001.s098.t010" lemma="না" pos="X">না</wf>
+   <wf id="d001.s098.t011" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s098.t012" lemma="বেড়ে" pos="X">বেড়ে</wf>
+   <wf id="d001.s098.t013" lemma="উঠার" pos="X">উঠার</wf>
+   <wf id="d001.s098.t014" lemma="সময়টা" pos="X">সময়টা</wf>
+   <wf id="d001.s098.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s099">
+   <wf id="d001.s099.t001" lemma="স্কুল" pos="X">স্কুল</wf>
+   <wf id="d001.s099.t002" lemma="পরীক্ষা" pos="X">পরীক্ষা</wf>
+   <wf id="d001.s099.t003" lemma="পাশ" pos="X">পাশ</wf>
+   <wf id="d001.s099.t004" lemma="দেওয়ার" pos="X">দেওয়ার</wf>
+   <wf id="d001.s099.t005" lemma="আগেই" pos="X">আগেই</wf>
+   <wf id="d001.s099.t006" lemma="এক_ডজন" pos="X">এক_ডজন</wf>
+   <wf id="d001.s099.t007" lemma="স্কুলের" pos="X">স্কুলের</wf>
+   <wf id="d001.s099.t008" lemma="আঙ্গিনায়" pos="X">আঙ্গিনায়</wf>
+   <wf id="d001.s099.t009" lemma="নিয়ে" pos="X">নিয়ে</wf>
+   <wf id="d001.s099.t010" lemma="গেছি" pos="X">গেছি</wf>
+   <wf id="d001.s099.t011" lemma="নিজেকে" pos="X">নিজেকে</wf>
+   <wf id="d001.s099.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s100">
+   <wf id="d001.s100.t001" lemma="শহরের" pos="X">শহরের</wf>
+   <wf id="d001.s100.t002" lemma="জীবন" pos="X">জীবন</wf>
+   <wf id="d001.s100.t003" lemma="অচেনা" pos="X">অচেনা</wf>
+   <wf id="d001.s100.t004" lemma="ছিলো" pos="X">ছিলো</wf>
+   <wf id="d001.s100.t005" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s100.t006" lemma="," pos="X">,</wf>
+   <wf id="d001.s100.t007" lemma="থেকেছি" pos="X">থেকেছি</wf>
+   <wf id="d001.s100.t008" lemma="প্রত্যান্ত_গ্রামে" pos="X">প্রত্যান্ত_গ্রামে</wf>
+   <wf id="d001.s100.t009" lemma="," pos="X">,</wf>
+   <wf id="d001.s100.t010" lemma="রাজশাহীর" pos="X">রাজশাহীর</wf>
+   <wf id="d001.s100.t011" lemma="তানোর" pos="X">তানোর</wf>
+   <wf id="d001.s100.t012" lemma="-" pos="X">-</wf>
+   <wf id="d001.s100.t013" lemma="বাঘমারা" pos="X">বাঘমারা</wf>
+   <wf id="d001.s100.t014" lemma="-" pos="X">-</wf>
+   <wf id="d001.s100.t015" lemma="দুর্গাপুর" pos="X">দুর্গাপুর</wf>
+   <wf id="d001.s100.t016" lemma="," pos="X">,</wf>
+   <wf id="d001.s100.t017" lemma="চাঁদপুরের" pos="X">চাঁদপুরের</wf>
+   <wf id="d001.s100.t018" lemma="হাইমচর" pos="X">হাইমচর</wf>
+   <wf id="d001.s100.t019" lemma="," pos="X">,</wf>
+   <wf id="d001.s100.t020" lemma="সিলেটের" pos="X">সিলেটের</wf>
+   <wf id="d001.s100.t021" lemma="হবিগঞ্জ" pos="X">হবিগঞ্জ</wf>
+   <wf id="d001.s100.t022" lemma="-" pos="X">-</wf>
+   <wf id="d001.s100.t023" lemma="নবিগঞ্জ" pos="X">নবিগঞ্জ</wf>
+   <wf id="d001.s100.t024" lemma="প্রভৃতি" pos="X">প্রভৃতি</wf>
+   <wf id="d001.s100.t025" lemma="এলাকায়" pos="X">এলাকায়</wf>
+   <wf id="d001.s100.t026" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s101">
+   <wf id="d001.s101.t001" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s101.t002" lemma="বেড়ে" pos="X">বেড়ে</wf>
+   <wf id="d001.s101.t003" lemma="উঠা" pos="X">উঠা</wf>
+   <wf id="d001.s101.t004" lemma="তাই" pos="X">তাই</wf>
+   <wf id="d001.s101.t005" lemma="প্রসারিত_সুবজের" pos="X">প্রসারিত_সুবজের</wf>
+   <wf id="d001.s101.t006" lemma="মাঝে" pos="X">মাঝে</wf>
+   <wf id="d001.s101.t007" lemma="," pos="X">,</wf>
+   <wf id="d001.s101.t008" lemma="দু-কূল" pos="X">দু-কূল</wf>
+   <wf id="d001.s101.t009" lemma="ছেপে" pos="X">ছেপে</wf>
+   <wf id="d001.s101.t010" lemma="যাওয়ার" pos="X">যাওয়ার</wf>
+   <wf id="d001.s101.t011" lemma="নদীতে" pos="X">নদীতে</wf>
+   <wf id="d001.s101.t012" lemma="সাঁতার" pos="X">সাঁতার</wf>
+   <wf id="d001.s101.t013" lemma="কেটে" pos="X">কেটে</wf>
+   <wf id="d001.s101.t014" lemma="," pos="X">,</wf>
+   <wf id="d001.s101.t015" lemma="উত্থাল-পাতাল" pos="X">উত্থাল-পাতাল</wf>
+   <wf id="d001.s101.t016" lemma="বৃষ্টি" pos="X">বৃষ্টি</wf>
+   <wf id="d001.s101.t017" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s101.t018" lemma="কালবৈশাখীর" pos="X">কালবৈশাখীর</wf>
+   <wf id="d001.s101.t019" lemma="ঝড়ো_হাওয়াতে" pos="X">ঝড়ো_হাওয়াতে</wf>
+   <wf id="d001.s101.t020" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s102">
+   <wf id="d001.s102.t001" lemma="রাজশাহীর" pos="X">রাজশাহীর</wf>
+   <wf id="d001.s102.t002" lemma="তানোরে" pos="X">তানোরে</wf>
+   <wf id="d001.s102.t003" lemma="প্রায়" pos="X">প্রায়</wf>
+   <wf id="d001.s102.t004" lemma="ভেঙ্গে" pos="X">ভেঙ্গে</wf>
+   <wf id="d001.s102.t005" lemma="পড়া" pos="X">পড়া</wf>
+   <wf id="d001.s102.t006" lemma="টিনের_ঘরের" pos="X">টিনের_ঘরের</wf>
+   <wf id="d001.s102.t007" lemma="স্কুলে" pos="X">স্কুলে</wf>
+   <wf id="d001.s102.t008" lemma="আমি" pos="X">আমি</wf>
+   <wf id="d001.s102.t009" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s102.t010" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s102.t011" lemma="পাঠ" pos="X">পাঠ</wf>
+   <wf id="d001.s102.t012" lemma="নিয়েছিলাম" pos="X">নিয়েছিলাম</wf>
+   <wf id="d001.s102.t013" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s102.t014" lemma="চেয়ে" pos="X">চেয়ে</wf>
+   <wf id="d001.s102.t015" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s102.t016" lemma="ভেঙ্গে" pos="X">ভেঙ্গে</wf>
+   <wf id="d001.s102.t017" lemma="পড়া" pos="X">পড়া</wf>
+   <wf id="d001.s102.t018" lemma="হরিদাস" pos="X">হরিদাস</wf>
+   <wf id="d001.s102.t019" lemma="নামক" pos="X">নামক</wf>
+   <wf id="d001.s102.t020" lemma="একজন" pos="X">একজন</wf>
+   <wf id="d001.s102.t021" lemma="মুগ্ধ" pos="X">মুগ্ধ</wf>
+   <wf id="d001.s102.t022" lemma="জাদুকরের" pos="X">জাদুকরের</wf>
+   <wf id="d001.s102.t023" lemma="কাছে" pos="X">কাছে</wf>
+   <wf id="d001.s102.t024" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s103">
+   <wf id="d001.s103.t001" lemma="যিনি" pos="X">যিনি</wf>
+   <wf id="d001.s103.t002" lemma="আমায়" pos="X">আমায়</wf>
+   <wf id="d001.s103.t003" lemma="বলেছিলেন" pos="X">বলেছিলেন</wf>
+   <wf id="d001.s103.t004" lemma="একটু" pos="X">একটু</wf>
+   <wf id="d001.s103.t005" lemma="মনোযোগ" pos="X">মনোযোগ</wf>
+   <wf id="d001.s103.t006" lemma="দিলে" pos="X">দিলে</wf>
+   <wf id="d001.s103.t007" lemma="তুই" pos="X">তুই</wf>
+   <wf id="d001.s103.t008" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s103.t009" lemma="দূর" pos="X">দূর</wf>
+   <wf id="d001.s103.t010" lemma="যাবি" pos="X">যাবি</wf>
+   <wf id="d001.s103.t011" lemma="পাগলা" pos="X">পাগলা</wf>
+   <wf id="d001.s103.t012" lemma="." pos="X">.</wf>
+   <wf id="d001.s103.t013" lemma="." pos="X">.</wf>
+   <wf id="d001.s103.t014" lemma="!" pos="X">!</wf>
+  </sentence>
+  <sentence id="d001.s104">
+   <wf id="d001.s104.t001" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s104.t002" lemma="বেশিদূর" pos="X">বেশিদূর</wf>
+   <wf id="d001.s104.t003" lemma="যাওয়া" pos="X">যাওয়া</wf>
+   <wf id="d001.s104.t004" lemma="হয়নি" pos="X">হয়নি</wf>
+   <wf id="d001.s104.t005" lemma="," pos="X">,</wf>
+   <wf id="d001.s104.t006" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s104.t007" lemma="আগেই" pos="X">আগেই</wf>
+   <wf id="d001.s104.t008" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s104.t009" lemma="কালবৈশাখে" pos="X">কালবৈশাখে</wf>
+   <wf id="d001.s104.t010" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s104.t011" lemma="স্কুল" pos="X">স্কুল</wf>
+   <wf id="d001.s104.t012" lemma="উড়ে" pos="X">উড়ে</wf>
+   <wf id="d001.s104.t013" lemma="গিয়ে" pos="X">গিয়ে</wf>
+   <wf id="d001.s104.t014" lemma="পড়েছিলো" pos="X">পড়েছিলো</wf>
+   <wf id="d001.s104.t015" lemma="পাশের" pos="X">পাশের</wf>
+   <wf id="d001.s104.t016" lemma="ধানক্ষেতে" pos="X">ধানক্ষেতে</wf>
+   <wf id="d001.s104.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s105">
+   <wf id="d001.s105.t001" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s105.t002" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s105.t003" lemma="সবুজ_ধানক্ষেতেই" pos="X">সবুজ_ধানক্ষেতেই</wf>
+   <wf id="d001.s105.t004" lemma="প্রিয়" pos="X">প্রিয়</wf>
+   <wf id="d001.s105.t005" lemma="হরিদাস_স্যার" pos="X">হরিদাস_স্যার</wf>
+   <wf id="d001.s105.t006" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s105.t007" lemma="ভবিষ্যতকে" pos="X">ভবিষ্যতকে</wf>
+   <wf id="d001.s105.t008" lemma="বুকে" pos="X">বুকে</wf>
+   <wf id="d001.s105.t009" lemma="নিয়ে" pos="X">নিয়ে</wf>
+   <wf id="d001.s105.t010" lemma="ঘুমিয়ে" pos="X">ঘুমিয়ে</wf>
+   <wf id="d001.s105.t011" lemma="গেছেন" pos="X">গেছেন</wf>
+   <wf id="d001.s105.t012" lemma="চিরতরে" pos="X">চিরতরে</wf>
+   <wf id="d001.s105.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s106">
+   <wf id="d001.s106.t001" lemma="রাজশাহী" pos="X">রাজশাহী</wf>
+   <wf id="d001.s106.t002" lemma="কিংবা" pos="X">কিংবা</wf>
+   <wf id="d001.s106.t003" lemma="সিলেট" pos="X">সিলেট</wf>
+   <wf id="d001.s106.t004" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s106.t005" lemma="বছরে" pos="X">বছরে</wf>
+   <wf id="d001.s106.t006" lemma="একবার" pos="X">একবার</wf>
+   <wf id="d001.s106.t007" lemma="আসতাম" pos="X">আসতাম</wf>
+   <wf id="d001.s106.t008" lemma="নিজের" pos="X">নিজের</wf>
+   <wf id="d001.s106.t009" lemma="জেলায়" pos="X">জেলায়</wf>
+   <wf id="d001.s106.t010" lemma="," pos="X">,</wf>
+   <wf id="d001.s106.t011" lemma="নিজের" pos="X">নিজের</wf>
+   <wf id="d001.s106.t012" lemma="গ্রামে" pos="X">গ্রামে</wf>
+   <wf id="d001.s106.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s107">
+   <wf id="d001.s107.t001" lemma="এসেই" pos="X">এসেই</wf>
+   <wf id="d001.s107.t002" lemma="জলে" pos="X">জলে</wf>
+   <wf id="d001.s107.t003" lemma="লম্ফ" pos="X">লম্ফ</wf>
+   <wf id="d001.s107.t004" lemma="," pos="X">,</wf>
+   <wf id="d001.s107.t005" lemma="রোদে" pos="X">রোদে</wf>
+   <wf id="d001.s107.t006" lemma="দৌড়" pos="X">দৌড়</wf>
+   <wf id="d001.s107.t007" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s107.t008" lemma="গোল্লাছুট" pos="X">গোল্লাছুট</wf>
+   <wf id="d001.s107.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s108">
+   <wf id="d001.s108.t001" lemma="বছরের" pos="X">বছরের</wf>
+   <wf id="d001.s108.t002" lemma="শেষের" pos="X">শেষের</wf>
+   <wf id="d001.s108.t003" lemma="সময়" pos="X">সময়</wf>
+   <wf id="d001.s108.t004" lemma="সেটা" pos="X">সেটা</wf>
+   <wf id="d001.s108.t005" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s109">
+   <wf id="d001.s109.t001" lemma="সাত" pos="X">সাত</wf>
+   <wf id="d001.s109.t002" lemma="সকালেই" pos="X">সকালেই</wf>
+   <wf id="d001.s109.t003" lemma="শীত" pos="X">শীত</wf>
+   <wf id="d001.s109.t004" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s109.t005" lemma="কুয়াশার" pos="X">কুয়াশার</wf>
+   <wf id="d001.s109.t006" lemma="দীর্ঘ" pos="X">দীর্ঘ</wf>
+   <wf id="d001.s109.t007" lemma="প্রাচীর" pos="X">প্রাচীর</wf>
+   <wf id="d001.s109.t008" lemma="ভেঙ্গে" pos="X">ভেঙ্গে</wf>
+   <wf id="d001.s109.t009" lemma="দাদার" pos="X">দাদার</wf>
+   <wf id="d001.s109.t010" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s109.t011" lemma="চলে" pos="X">চলে</wf>
+   <wf id="d001.s109.t012" lemma="যেতাম" pos="X">যেতাম</wf>
+   <wf id="d001.s109.t013" lemma="খেজুর" pos="X">খেজুর</wf>
+   <wf id="d001.s109.t014" lemma="গাছ" pos="X">গাছ</wf>
+   <wf id="d001.s109.t015" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s109.t016" lemma="রস" pos="X">রস</wf>
+   <wf id="d001.s109.t017" lemma="নামাতে" pos="X">নামাতে</wf>
+   <wf id="d001.s109.t018" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s110">
+   <wf id="d001.s110.t001" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s110.t002" lemma="খেজুরের_রসের" pos="X">খেজুরের_রসের</wf>
+   <wf id="d001.s110.t003" lemma="গন্ধে" pos="X">গন্ধে</wf>
+   <wf id="d001.s110.t004" lemma="ভরে" pos="X">ভরে</wf>
+   <wf id="d001.s110.t005" lemma="উঠতো" pos="X">উঠতো</wf>
+   <wf id="d001.s110.t006" lemma="প্রতিটি" pos="X">প্রতিটি</wf>
+   <wf id="d001.s110.t007" lemma="সকাল" pos="X">সকাল</wf>
+   <wf id="d001.s110.t008" lemma="-" pos="X">-</wf>
+   <wf id="d001.s110.t009" lemma="দুপুর" pos="X">দুপুর</wf>
+   <wf id="d001.s110.t010" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s110.t011" lemma="রাত" pos="X">রাত</wf>
+   <wf id="d001.s110.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s111">
+   <wf id="d001.s111.t001" lemma="সূর্য" pos="X">সূর্য</wf>
+   <wf id="d001.s111.t002" lemma="ঘরের_চৌকাঠে" pos="X">ঘরের_চৌকাঠে</wf>
+   <wf id="d001.s111.t003" lemma="পৌছাবার" pos="X">পৌছাবার</wf>
+   <wf id="d001.s111.t004" lemma="আগেই" pos="X">আগেই</wf>
+   <wf id="d001.s111.t005" lemma="প্রতিদিন" pos="X">প্রতিদিন</wf>
+   <wf id="d001.s111.t006" lemma="মুড়ির_মোয়া" pos="X">মুড়ির_মোয়া</wf>
+   <wf id="d001.s111.t007" lemma="নিয়ে" pos="X">নিয়ে</wf>
+   <wf id="d001.s111.t008" lemma="চলে" pos="X">চলে</wf>
+   <wf id="d001.s111.t009" lemma="আসতো" pos="X">আসতো</wf>
+   <wf id="d001.s111.t010" lemma="জীবনের" pos="X">জীবনের</wf>
+   <wf id="d001.s111.t011" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s111.t012" lemma="দেখা" pos="X">দেখা</wf>
+   <wf id="d001.s111.t013" lemma="বাঁশিওয়ালা" pos="X">বাঁশিওয়ালা</wf>
+   <wf id="d001.s111.t014" lemma="মধ্যবয়স্ক" pos="X">মধ্যবয়স্ক</wf>
+   <wf id="d001.s111.t015" lemma="লোকটা" pos="X">লোকটা</wf>
+   <wf id="d001.s111.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s112">
+   <wf id="d001.s112.t001" lemma="যার" pos="X">যার</wf>
+   <wf id="d001.s112.t002" lemma="বাঁশি" pos="X">বাঁশি</wf>
+   <wf id="d001.s112.t003" lemma="শুনে" pos="X">শুনে</wf>
+   <wf id="d001.s112.t004" lemma="মোয়া" pos="X">মোয়া</wf>
+   <wf id="d001.s112.t005" lemma="ব্যবসায়ী" pos="X">ব্যবসায়ী</wf>
+   <wf id="d001.s112.t006" lemma="হবো" pos="X">হবো</wf>
+   <wf id="d001.s112.t007" lemma="বলে" pos="X">বলে</wf>
+   <wf id="d001.s112.t008" lemma="মনস্থির" pos="X">মনস্থির</wf>
+   <wf id="d001.s112.t009" lemma="করে" pos="X">করে</wf>
+   <wf id="d001.s112.t010" lemma="ফেলেছিলাম" pos="X">ফেলেছিলাম</wf>
+   <wf id="d001.s112.t011" lemma="ছেলেবেলায়" pos="X">ছেলেবেলায়</wf>
+   <wf id="d001.s112.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s113">
+   <wf id="d001.s113.t001" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s113.t002" lemma="অদ্ভুত" pos="X">অদ্ভুত</wf>
+   <wf id="d001.s113.t003" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s113.t004" lemma="বাশির_সুর" pos="X">বাশির_সুর</wf>
+   <wf id="d001.s113.t005" lemma="আজো" pos="X">আজো</wf>
+   <wf id="d001.s113.t006" lemma="আমি" pos="X">আমি</wf>
+   <wf id="d001.s113.t007" lemma="ঘুমের" pos="X">ঘুমের</wf>
+   <wf id="d001.s113.t008" lemma="ভেতর" pos="X">ভেতর</wf>
+   <wf id="d001.s113.t009" lemma="শুনতে" pos="X">শুনতে</wf>
+   <wf id="d001.s113.t010" lemma="পাই" pos="X">পাই</wf>
+   <wf id="d001.s113.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s113.t012" lemma="সুমনে" pos="X">সুমনে</wf>
+   <wf id="d001.s113.t013" lemma="গানের" pos="X">গানের</wf>
+   <wf id="d001.s113.t014" lemma="ভেতর" pos="X">ভেতর</wf>
+   <wf id="d001.s113.t015" lemma="দিয়ে" pos="X">দিয়ে</wf>
+   <wf id="d001.s113.t016" lemma="মানুষটিকে" pos="X">মানুষটিকে</wf>
+   <wf id="d001.s113.t017" lemma="আজো" pos="X">আজো</wf>
+   <wf id="d001.s113.t018" lemma="দেখতে" pos="X">দেখতে</wf>
+   <wf id="d001.s113.t019" lemma="পাই" pos="X">পাই</wf>
+   <wf id="d001.s113.t020" lemma="স্মৃতির" pos="X">স্মৃতির</wf>
+   <wf id="d001.s113.t021" lemma="ঝাপসা" pos="X">ঝাপসা</wf>
+   <wf id="d001.s113.t022" lemma="হয়ে" pos="X">হয়ে</wf>
+   <wf id="d001.s113.t023" lemma="যাওয়া" pos="X">যাওয়া</wf>
+   <wf id="d001.s113.t024" lemma="আয়নায়" pos="X">আয়নায়</wf>
+   <wf id="d001.s113.t025" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s114">
+   <wf id="d001.s114.t001" lemma="শীতের" pos="X">শীতের</wf>
+   <wf id="d001.s114.t002" lemma="নানান" pos="X">নানান</wf>
+   <wf id="d001.s114.t003" lemma="পিঠা" pos="X">পিঠা</wf>
+   <wf id="d001.s114.t004" lemma="-" pos="X">-</wf>
+   <wf id="d001.s114.t005" lemma="রস" pos="X">রস</wf>
+   <wf id="d001.s114.t006" lemma="-" pos="X">-</wf>
+   <wf id="d001.s114.t007" lemma="নারিকেল" pos="X">নারিকেল</wf>
+   <wf id="d001.s114.t008" lemma="-" pos="X">-</wf>
+   <wf id="d001.s114.t009" lemma="পায়েস" pos="X">পায়েস</wf>
+   <wf id="d001.s114.t010" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s114.t011" lemma="কুয়াশার" pos="X">কুয়াশার</wf>
+   <wf id="d001.s114.t012" lemma="আদরে" pos="X">আদরে</wf>
+   <wf id="d001.s114.t013" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s114.t014" lemma="একটি" pos="X">একটি</wf>
+   <wf id="d001.s114.t015" lemma="মাস" pos="X">মাস</wf>
+   <wf id="d001.s114.t016" lemma="স্বপ্নের" pos="X">স্বপ্নের</wf>
+   <wf id="d001.s114.t017" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s114.t018" lemma="কিংবা" pos="X">কিংবা</wf>
+   <wf id="d001.s114.t019" lemma="স্বপ্নের" pos="X">স্বপ্নের</wf>
+   <wf id="d001.s114.t020" lemma="চেয়েও" pos="X">চেয়েও</wf>
+   <wf id="d001.s114.t021" lemma="রঙিন" pos="X">রঙিন</wf>
+   <wf id="d001.s114.t022" lemma="হয়ে" pos="X">হয়ে</wf>
+   <wf id="d001.s114.t023" lemma="উঠতো" pos="X">উঠতো</wf>
+   <wf id="d001.s114.t024" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s114.t025" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s115">
+   <wf id="d001.s115.t001" lemma="অথচ" pos="X">অথচ</wf>
+   <wf id="d001.s115.t002" lemma="একযুগ" pos="X">একযুগ</wf>
+   <wf id="d001.s115.t003" lemma="পার" pos="X">পার</wf>
+   <wf id="d001.s115.t004" lemma="হতেই" pos="X">হতেই</wf>
+   <wf id="d001.s115.t005" lemma="সবগুলো" pos="X">সবগুলো</wf>
+   <wf id="d001.s115.t006" lemma="সকাল" pos="X">সকাল</wf>
+   <wf id="d001.s115.t007" lemma="হয়ে" pos="X">হয়ে</wf>
+   <wf id="d001.s115.t008" lemma="উঠেছে" pos="X">উঠেছে</wf>
+   <wf id="d001.s115.t009" lemma="এখন" pos="X">এখন</wf>
+   <wf id="d001.s115.t010" lemma="রঙহীন" pos="X">রঙহীন</wf>
+   <wf id="d001.s115.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s115.t012" lemma="বর্ণহীন" pos="X">বর্ণহীন</wf>
+   <wf id="d001.s115.t013" lemma="আর" pos="X">আর</wf>
+   <wf id="d001.s115.t014" lemma="গন্ধহীন" pos="X">গন্ধহীন</wf>
+   <wf id="d001.s115.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s116">
+   <wf id="d001.s116.t001" lemma="নানান" pos="X">নানান</wf>
+   <wf id="d001.s116.t002" lemma="জায়গায়" pos="X">জায়গায়</wf>
+   <wf id="d001.s116.t003" lemma="থাকার" pos="X">থাকার</wf>
+   <wf id="d001.s116.t004" lemma="কারনে" pos="X">কারনে</wf>
+   <wf id="d001.s116.t005" lemma="ছোটবেলার" pos="X">ছোটবেলার</wf>
+   <wf id="d001.s116.t006" lemma="কোন" pos="X">কোন</wf>
+   <wf id="d001.s116.t007" lemma="বন্ধুত্ব" pos="X">বন্ধুত্ব</wf>
+   <wf id="d001.s116.t008" lemma="দীর্ঘ_স্থায়ী" pos="X">দীর্ঘ_স্থায়ী</wf>
+   <wf id="d001.s116.t009" lemma="হয়নি" pos="X">হয়নি</wf>
+   <wf id="d001.s116.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s117">
+   <wf id="d001.s117.t001" lemma="যাদের" pos="X">যাদের</wf>
+   <wf id="d001.s117.t002" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s117.t003" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s117.t004" lemma="স্কুলে" pos="X">স্কুলে</wf>
+   <wf id="d001.s117.t005" lemma="গিয়েছি" pos="X">গিয়েছি</wf>
+   <wf id="d001.s117.t006" lemma="," pos="X">,</wf>
+   <wf id="d001.s117.t007" lemma="যাদের" pos="X">যাদের</wf>
+   <wf id="d001.s117.t008" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s117.t009" lemma="খেলে" pos="X">খেলে</wf>
+   <wf id="d001.s117.t010" lemma="বড়" pos="X">বড়</wf>
+   <wf id="d001.s117.t011" lemma="হয়েছি" pos="X">হয়েছি</wf>
+   <wf id="d001.s117.t012" lemma="," pos="X">,</wf>
+   <wf id="d001.s117.t013" lemma="যাযাবর" pos="X">যাযাবর</wf>
+   <wf id="d001.s117.t014" lemma="জীবনের" pos="X">জীবনের</wf>
+   <wf id="d001.s117.t015" lemma="জন্যে" pos="X">জন্যে</wf>
+   <wf id="d001.s117.t016" lemma="তাদের" pos="X">তাদের</wf>
+   <wf id="d001.s117.t017" lemma="কারো" pos="X">কারো</wf>
+   <wf id="d001.s117.t018" lemma="খোঁজ" pos="X">খোঁজ</wf>
+   <wf id="d001.s117.t019" lemma="আজ" pos="X">আজ</wf>
+   <wf id="d001.s117.t020" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s117.t021" lemma="জানা" pos="X">জানা</wf>
+   <wf id="d001.s117.t022" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s117.t023" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s118">
+   <wf id="d001.s118.t001" lemma="সেই" pos="X">সেই</wf>
+   <wf id="d001.s118.t002" lemma="যুগে" pos="X">যুগে</wf>
+   <wf id="d001.s118.t003" lemma="ছিলো" pos="X">ছিলো</wf>
+   <wf id="d001.s118.t004" lemma="না" pos="X">না</wf>
+   <wf id="d001.s118.t005" lemma="ফোন" pos="X">ফোন</wf>
+   <wf id="d001.s118.t006" lemma="-" pos="X">-</wf>
+   <wf id="d001.s118.t007" lemma="ফেসবুক" pos="X">ফেসবুক</wf>
+   <wf id="d001.s118.t008" lemma="," pos="X">,</wf>
+   <wf id="d001.s118.t009" lemma="তাই" pos="X">তাই</wf>
+   <wf id="d001.s118.t010" lemma="টুকে" pos="X">টুকে</wf>
+   <wf id="d001.s118.t011" lemma="রাখা" pos="X">রাখা</wf>
+   <wf id="d001.s118.t012" lemma="হয়নি" pos="X">হয়নি</wf>
+   <wf id="d001.s118.t013" lemma="কিছুই" pos="X">কিছুই</wf>
+   <wf id="d001.s118.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s119">
+   <wf id="d001.s119.t001" lemma="তাদের" pos="X">তাদের</wf>
+   <wf id="d001.s119.t002" lemma="খুঁজে" pos="X">খুঁজে</wf>
+   <wf id="d001.s119.t003" lemma="পাওয়া" pos="X">পাওয়া</wf>
+   <wf id="d001.s119.t004" lemma="হয়তো" pos="X">হয়তো</wf>
+   <wf id="d001.s119.t005" lemma="হবে" pos="X">হবে</wf>
+   <wf id="d001.s119.t006" lemma="না" pos="X">না</wf>
+   <wf id="d001.s119.t007" lemma="একজীবনে" pos="X">একজীবনে</wf>
+   <wf id="d001.s119.t008" lemma="," pos="X">,</wf>
+   <wf id="d001.s119.t009" lemma="না" pos="X">না</wf>
+   <wf id="d001.s119.t010" lemma="হোক" pos="X">হোক</wf>
+   <wf id="d001.s119.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s120">
+   <wf id="d001.s120.t001" lemma="তারা" pos="X">তারা</wf>
+   <wf id="d001.s120.t002" lemma="নাইবা" pos="X">নাইবা</wf>
+   <wf id="d001.s120.t003" lemma="জানুক" pos="X">জানুক</wf>
+   <wf id="d001.s120.t004" lemma="আমার" pos="X">আমার</wf>
+   <wf id="d001.s120.t005" lemma="শৈশব" pos="X">শৈশব</wf>
+   <wf id="d001.s120.t006" lemma="মানেই" pos="X">মানেই</wf>
+   <wf id="d001.s120.t007" lemma="বাবু" pos="X">বাবু</wf>
+   <wf id="d001.s120.t008" lemma="-" pos="X">-</wf>
+   <wf id="d001.s120.t009" lemma="মিন্টু" pos="X">মিন্টু</wf>
+   <wf id="d001.s120.t010" lemma="-" pos="X">-</wf>
+   <wf id="d001.s120.t011" lemma="সুজন" pos="X">সুজন</wf>
+   <wf id="d001.s120.t012" lemma="-" pos="X">-</wf>
+   <wf id="d001.s120.t013" lemma="সেতু" pos="X">সেতু</wf>
+   <wf id="d001.s120.t014" lemma="," pos="X">,</wf>
+   <wf id="d001.s120.t015" lemma="আামার" pos="X">আামার</wf>
+   <wf id="d001.s120.t016" lemma="কৈশোর" pos="X">কৈশোর</wf>
+   <wf id="d001.s120.t017" lemma="মানেই" pos="X">মানেই</wf>
+   <wf id="d001.s120.t018" lemma="জাহাঙ্গীর" pos="X">জাহাঙ্গীর</wf>
+   <wf id="d001.s120.t019" lemma="-" pos="X">-</wf>
+   <wf id="d001.s120.t020" lemma="শিমুল" pos="X">শিমুল</wf>
+   <wf id="d001.s120.t021" lemma="-" pos="X">-</wf>
+   <wf id="d001.s120.t022" lemma="রাসেল" pos="X">রাসেল</wf>
+   <wf id="d001.s120.t023" lemma="-" pos="X">-</wf>
+   <wf id="d001.s120.t024" lemma="সোহাগ" pos="X">সোহাগ</wf>
+   <wf id="d001.s120.t025" lemma="-" pos="X">-</wf>
+   <wf id="d001.s120.t026" lemma="শাহীন" pos="X">শাহীন</wf>
+   <wf id="d001.s120.t027" lemma="সহ" pos="X">সহ</wf>
+   <wf id="d001.s120.t028" lemma="তাদের" pos="X">তাদের</wf>
+   <wf id="d001.s120.t029" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s120.t030" lemma="আরো" pos="X">আরো</wf>
+   <wf id="d001.s120.t031" lemma="কত" pos="X">কত</wf>
+   <wf id="d001.s120.t032" lemma="প্রিয়" pos="X">প্রিয়</wf>
+   <wf id="d001.s120.t033" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s120.t034" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s121">
+   <wf id="d001.s121.t001" lemma="তারেক_মাসুদ" pos="X">তারেক_মাসুদ</wf>
+  </sentence>
+  <sentence id="d001.s122">
+   <wf id="d001.s122.t001" lemma="তারেক_মাসুদ" pos="X">তারেক_মাসুদ</wf>
+   <wf id="d001.s122.t002" lemma="(" pos="X">(</wf>
+   <wf id="d001.s122.t003" lemma="ইংরেজি" pos="X">ইংরেজি</wf>
+   <wf id="d001.s122.t004" lemma=":" pos="X">:</wf>
+   <wf id="d001.s122.t005" lemma="Tareque_Masud" pos="X">Tareque_Masud</wf>
+   <wf id="d001.s122.t006" lemma="," pos="X">,</wf>
+   <wf id="d001.s122.t007" lemma="পুরোনাম" pos="X">পুরোনাম</wf>
+   <wf id="d001.s122.t008" lemma=":" pos="X">:</wf>
+   <wf id="d001.s122.t009" lemma="আবু_তারেক_মাসুদ" pos="X">আবু_তারেক_মাসুদ</wf>
+   <wf id="d001.s122.t010" lemma=")" pos="X">)</wf>
+   <wf id="d001.s122.t011" lemma="(" pos="X">(</wf>
+   <wf id="d001.s122.t012" lemma="জন্ম" pos="X">জন্ম</wf>
+   <wf id="d001.s122.t013" lemma=":" pos="X">:</wf>
+   <wf id="d001.s122.t014" lemma="১৯৫৭" pos="X">১৯৫৭</wf>
+   <wf id="d001.s122.t015" lemma="সালের" pos="X">সালের</wf>
+   <wf id="d001.s122.t016" lemma="৬" pos="X">৬</wf>
+   <wf id="d001.s122.t017" lemma="ডিসেম্বর" pos="X">ডিসেম্বর</wf>
+   <wf id="d001.s122.t018" lemma="," pos="X">,</wf>
+   <wf id="d001.s122.t019" lemma="মৃত্যু" pos="X">মৃত্যু</wf>
+   <wf id="d001.s122.t020" lemma=":" pos="X">:</wf>
+   <wf id="d001.s122.t021" lemma="১৩" pos="X">১৩</wf>
+   <wf id="d001.s122.t022" lemma="আগস্ট" pos="X">আগস্ট</wf>
+   <wf id="d001.s122.t023" lemma="২০১১" pos="X">২০১১</wf>
+   <wf id="d001.s122.t024" lemma=")" pos="X">)</wf>
+   <wf id="d001.s122.t025" lemma="ছিলেন" pos="X">ছিলেন</wf>
+   <wf id="d001.s122.t026" lemma="একজন" pos="X">একজন</wf>
+   <wf id="d001.s122.t027" lemma="বাংলাদেশী" pos="X">বাংলাদেশী</wf>
+   <wf id="d001.s122.t028" lemma="চলচ্চিত্র_পরিচালক" pos="X">চলচ্চিত্র_পরিচালক</wf>
+   <wf id="d001.s122.t029" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s123">
+   <wf id="d001.s123.t001" lemma="তাঁর" pos="X">তাঁর</wf>
+   <wf id="d001.s123.t002" lemma="মুক্তির_গান" pos="X">মুক্তির_গান</wf>
+   <wf id="d001.s123.t003" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s123.t004" lemma="মাটির_ময়না" pos="X">মাটির_ময়না</wf>
+   <wf id="d001.s123.t005" lemma="সহ" pos="X">সহ</wf>
+   <wf id="d001.s123.t006" lemma="অনেক" pos="X">অনেক</wf>
+   <wf id="d001.s123.t007" lemma="ছবি" pos="X">ছবি</wf>
+   <wf id="d001.s123.t008" lemma="জাতীয়" pos="X">জাতীয়</wf>
+   <wf id="d001.s123.t009" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s123.t010" lemma="আন্তর্জাতিক" pos="X">আন্তর্জাতিক</wf>
+   <wf id="d001.s123.t011" lemma="খ্যাতি" pos="X">খ্যাতি</wf>
+   <wf id="d001.s123.t012" lemma="অর্জন" pos="X">অর্জন</wf>
+   <wf id="d001.s123.t013" lemma="করেছে" pos="X">করেছে</wf>
+   <wf id="d001.s123.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s124">
+   <wf id="d001.s124.t001" lemma="জন্ম" pos="X">জন্ম</wf>
+   <wf id="d001.s124.t002" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s124.t003" lemma="শিক্ষা" pos="X">শিক্ষা</wf>
+  </sentence>
+  <sentence id="d001.s125">
+   <wf id="d001.s125.t001" lemma="১৯৫৭" pos="X">১৯৫৭</wf>
+   <wf id="d001.s125.t002" lemma="সালে" pos="X">সালে</wf>
+   <wf id="d001.s125.t003" lemma="ফরিদপুরের" pos="X">ফরিদপুরের</wf>
+   <wf id="d001.s125.t004" lemma="ভাঙ্গায়" pos="X">ভাঙ্গায়</wf>
+   <wf id="d001.s125.t005" lemma="নূরপুর" pos="X">নূরপুর</wf>
+   <wf id="d001.s125.t006" lemma="গ্রামে" pos="X">গ্রামে</wf>
+   <wf id="d001.s125.t007" lemma="জন্মগ্রহন" pos="X">জন্মগ্রহন</wf>
+   <wf id="d001.s125.t008" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s125.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s126">
+   <wf id="d001.s126.t001" lemma="মায়ের" pos="X">মায়ের</wf>
+   <wf id="d001.s126.t002" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s126.t003" lemma="নুরুন_নাহার_মাসুদ" pos="X">নুরুন_নাহার_মাসুদ</wf>
+   <wf id="d001.s126.t004" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s126.t005" lemma="বাবার" pos="X">বাবার</wf>
+   <wf id="d001.s126.t006" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s126.t007" lemma="মশিউর_রহমান_মাসুদ" pos="X">মশিউর_রহমান_মাসুদ</wf>
+   <wf id="d001.s126.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s127">
+   <wf id="d001.s127.t001" lemma="ভাঙ্গা_ঈদগা_মাদ্রাসায়" pos="X">ভাঙ্গা_ঈদগা_মাদ্রাসায়</wf>
+   <wf id="d001.s127.t002" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s127.t003" lemma="পড়াশোনা" pos="X">পড়াশোনা</wf>
+   <wf id="d001.s127.t004" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s127.t005" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s127.t006" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s128">
+   <wf id="d001.s128.t001" lemma="পরবর্তীতে" pos="X">পরবর্তীতে</wf>
+   <wf id="d001.s128.t002" lemma="ঢাকার" pos="X">ঢাকার</wf>
+   <wf id="d001.s128.t003" lemma="লালবাগের" pos="X">লালবাগের</wf>
+   <wf id="d001.s128.t004" lemma="একটি" pos="X">একটি</wf>
+   <wf id="d001.s128.t005" lemma="মাদ্রাসা" pos="X">মাদ্রাসা</wf>
+   <wf id="d001.s128.t006" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s128.t007" lemma="মৌলানা" pos="X">মৌলানা</wf>
+   <wf id="d001.s128.t008" lemma="পাস" pos="X">পাস</wf>
+   <wf id="d001.s128.t009" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s128.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s129">
+   <wf id="d001.s129.t001" lemma="১৯৭১" pos="X">১৯৭১</wf>
+   <wf id="d001.s129.t002" lemma="সালে" pos="X">সালে</wf>
+   <wf id="d001.s129.t003" lemma="বাংলাদেশের" pos="X">বাংলাদেশের</wf>
+   <wf id="d001.s129.t004" lemma="স্বাধীনতা_যুদ্ধের" pos="X">স্বাধীনতা_যুদ্ধের</wf>
+   <wf id="d001.s129.t005" lemma="সময়" pos="X">সময়</wf>
+   <wf id="d001.s129.t006" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s129.t007" lemma="মাদ্রাসা" pos="X">মাদ্রাসা</wf>
+   <wf id="d001.s129.t008" lemma="শিক্ষার" pos="X">শিক্ষার</wf>
+   <wf id="d001.s129.t009" lemma="সমাপ্তি" pos="X">সমাপ্তি</wf>
+   <wf id="d001.s129.t010" lemma="ঘটে" pos="X">ঘটে</wf>
+   <wf id="d001.s129.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s130">
+   <wf id="d001.s130.t001" lemma="যুদ্ধের" pos="X">যুদ্ধের</wf>
+   <wf id="d001.s130.t002" lemma="পর" pos="X">পর</wf>
+   <wf id="d001.s130.t003" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s130.t004" lemma="সাধারণ" pos="X">সাধারণ</wf>
+   <wf id="d001.s130.t005" lemma="শিক্ষার" pos="X">শিক্ষার</wf>
+   <wf id="d001.s130.t006" lemma="জগতে" pos="X">জগতে</wf>
+   <wf id="d001.s130.t007" lemma="প্রবেশ" pos="X">প্রবেশ</wf>
+   <wf id="d001.s130.t008" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s130.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s131">
+   <wf id="d001.s131.t001" lemma="ফরিদপুরের" pos="X">ফরিদপুরের</wf>
+   <wf id="d001.s131.t002" lemma="ভাঙ্গা_পাইলট_উচ্চবিদ্যালয়" pos="X">ভাঙ্গা_পাইলট_উচ্চবিদ্যালয়</wf>
+   <wf id="d001.s131.t003" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s131.t004" lemma="প্রাইভেট_পরীক্ষার" pos="X">প্রাইভেট_পরীক্ষার</wf>
+   <wf id="d001.s131.t005" lemma="মাধ্যমে" pos="X">মাধ্যমে</wf>
+   <wf id="d001.s131.t006" lemma="প্রথম_বিভাগে" pos="X">প্রথম_বিভাগে</wf>
+   <wf id="d001.s131.t007" lemma="এসএসসি" pos="X">এসএসসি</wf>
+   <wf id="d001.s131.t008" lemma="পাস" pos="X">পাস</wf>
+   <wf id="d001.s131.t009" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s131.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s132">
+   <wf id="d001.s132.t001" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s132.t002" lemma="আদমজী_ক্যান্টনমেন্ট_কলেজে" pos="X">আদমজী_ক্যান্টনমেন্ট_কলেজে</wf>
+   <wf id="d001.s132.t003" lemma="ছয়" pos="X">ছয়</wf>
+   <wf id="d001.s132.t004" lemma="মাস" pos="X">মাস</wf>
+   <wf id="d001.s132.t005" lemma="পড়াশোনার" pos="X">পড়াশোনার</wf>
+   <wf id="d001.s132.t006" lemma="পর" pos="X">পর</wf>
+   <wf id="d001.s132.t007" lemma="বদলি_হয়ে" pos="X">বদলি_হয়ে</wf>
+   <wf id="d001.s132.t008" lemma="নটর_ডেম_কলেজ" pos="X">নটর_ডেম_কলেজ</wf>
+   <wf id="d001.s132.t009" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s132.t010" lemma="মানবিক_বিভাগে" pos="X">মানবিক_বিভাগে</wf>
+   <wf id="d001.s132.t011" lemma="এইচএসসি" pos="X">এইচএসসি</wf>
+   <wf id="d001.s132.t012" lemma="পাস" pos="X">পাস</wf>
+   <wf id="d001.s132.t013" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s132.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s133">
+   <wf id="d001.s133.t001" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s133.t002" lemma="ঢাকা" pos="X">ঢাকা</wf>
+   <wf id="d001.s133.t003" lemma="বিশ্ববিদ্যালয়" pos="X">বিশ্ববিদ্যালয়</wf>
+   <wf id="d001.s133.t004" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s133.t005" lemma="ইতিহাস" pos="X">ইতিহাস</wf>
+   <wf id="d001.s133.t006" lemma="বিষয়ে" pos="X">বিষয়ে</wf>
+   <wf id="d001.s133.t007" lemma="মাস্টার্স_ডিগ্রী" pos="X">মাস্টার্স_ডিগ্রী</wf>
+   <wf id="d001.s133.t008" lemma="অর্জন" pos="X">অর্জন</wf>
+   <wf id="d001.s133.t009" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s133.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s134">
+   <wf id="d001.s134.t001" lemma="চলচ্চিত্র" pos="X">চলচ্চিত্র</wf>
+   <wf id="d001.s134.t002" lemma="জীবন" pos="X">জীবন</wf>
+  </sentence>
+  <sentence id="d001.s135">
+   <wf id="d001.s135.t001" lemma="বিশ্ববিদ্যালয়" pos="X">বিশ্ববিদ্যালয়</wf>
+   <wf id="d001.s135.t002" lemma="জীবন" pos="X">জীবন</wf>
+   <wf id="d001.s135.t003" lemma="থেকেই" pos="X">থেকেই</wf>
+   <wf id="d001.s135.t004" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s135.t005" lemma="বাংলাদেশের" pos="X">বাংলাদেশের</wf>
+   <wf id="d001.s135.t006" lemma="চলচ্চিত্র_আন্দোলনের" pos="X">চলচ্চিত্র_আন্দোলনের</wf>
+   <wf id="d001.s135.t007" lemma="সাথে" pos="X">সাথে</wf>
+   <wf id="d001.s135.t008" lemma="সক্রিয়ভাবে" pos="X">সক্রিয়ভাবে</wf>
+   <wf id="d001.s135.t009" lemma="যুক্ত" pos="X">যুক্ত</wf>
+   <wf id="d001.s135.t010" lemma="থেকেছেন" pos="X">থেকেছেন</wf>
+   <wf id="d001.s135.t011" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s135.t012" lemma="দেশে" pos="X">দেশে</wf>
+   <wf id="d001.s135.t013" lemma="-" pos="X">-</wf>
+   <wf id="d001.s135.t014" lemma="বিদেশে" pos="X">বিদেশে</wf>
+   <wf id="d001.s135.t015" lemma="চলচ্চিত্র" pos="X">চলচ্চিত্র</wf>
+   <wf id="d001.s135.t016" lemma="বিষয়ক" pos="X">বিষয়ক</wf>
+   <wf id="d001.s135.t017" lemma="অসংখ্য" pos="X">অসংখ্য</wf>
+   <wf id="d001.s135.t018" lemma="কর্মশালা" pos="X">কর্মশালা</wf>
+   <wf id="d001.s135.t019" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s135.t020" lemma="কোর্সে" pos="X">কোর্সে</wf>
+   <wf id="d001.s135.t021" lemma="অংশ" pos="X">অংশ</wf>
+   <wf id="d001.s135.t022" lemma="নিয়েছিলেন" pos="X">নিয়েছিলেন</wf>
+   <wf id="d001.s135.t023" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s136">
+   <wf id="d001.s136.t001" lemma="১৯৮২" pos="X">১৯৮২</wf>
+   <wf id="d001.s136.t002" lemma="সালের" pos="X">সালের</wf>
+   <wf id="d001.s136.t003" lemma="শেষ" pos="X">শেষ</wf>
+   <wf id="d001.s136.t004" lemma="দিকে" pos="X">দিকে</wf>
+   <wf id="d001.s136.t005" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s136.t006" lemma="জীবনের" pos="X">জীবনের</wf>
+   <wf id="d001.s136.t007" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s136.t008" lemma="ডকুমেন্টারি_চলচ্চিত্র" pos="X">ডকুমেন্টারি_চলচ্চিত্র</wf>
+   <wf id="d001.s136.t009" lemma="নির্মাণ" pos="X">নির্মাণ</wf>
+   <wf id="d001.s136.t010" lemma="শুরু" pos="X">শুরু</wf>
+   <wf id="d001.s136.t011" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s136.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s137">
+   <wf id="d001.s137.t001" lemma="১৯৮৯" pos="X">১৯৮৯</wf>
+   <wf id="d001.s137.t002" lemma="সালে" pos="X">সালে</wf>
+   <wf id="d001.s137.t003" lemma="মুক্তিপ্রাপ্ত" pos="X">মুক্তিপ্রাপ্ত</wf>
+   <wf id="d001.s137.t004" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s137.t005" lemma="ডকুমেন্টারিটি" pos="X">ডকুমেন্টারিটি</wf>
+   <wf id="d001.s137.t006" lemma="ছিল" pos="X">ছিল</wf>
+   <wf id="d001.s137.t007" lemma="প্রখ্যাত" pos="X">প্রখ্যাত</wf>
+   <wf id="d001.s137.t008" lemma="বাংলাদেশী" pos="X">বাংলাদেশী</wf>
+   <wf id="d001.s137.t009" lemma="শিল্পী" pos="X">শিল্পী</wf>
+   <wf id="d001.s137.t010" lemma="এস_এম_সুলতানের" pos="X">এস_এম_সুলতানের</wf>
+   <wf id="d001.s137.t011" lemma="জীবনের" pos="X">জীবনের</wf>
+   <wf id="d001.s137.t012" lemma="উপর" pos="X">উপর</wf>
+   <wf id="d001.s137.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s138">
+   <wf id="d001.s138.t001" lemma="এরপর" pos="X">এরপর</wf>
+   <wf id="d001.s138.t002" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s138.t003" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s138.t004" lemma="বেশ" pos="X">বেশ</wf>
+   <wf id="d001.s138.t005" lemma="কিছু" pos="X">কিছু</wf>
+   <wf id="d001.s138.t006" lemma="ডকুমেন্টারি" pos="X">ডকুমেন্টারি</wf>
+   <wf id="d001.s138.t007" lemma="," pos="X">,</wf>
+   <wf id="d001.s138.t008" lemma="এনিমেশন" pos="X">এনিমেশন</wf>
+   <wf id="d001.s138.t009" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s138.t010" lemma="স্বল্পদৈর্ঘ্য_চলচ্চিত্র" pos="X">স্বল্পদৈর্ঘ্য_চলচ্চিত্র</wf>
+   <wf id="d001.s138.t011" lemma="নির্মাণ" pos="X">নির্মাণ</wf>
+   <wf id="d001.s138.t012" lemma="করেন" pos="X">করেন</wf>
+   <wf id="d001.s138.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s139">
+   <wf id="d001.s139.t001" lemma="২০০২" pos="X">২০০২</wf>
+   <wf id="d001.s139.t002" lemma="সালে" pos="X">সালে</wf>
+   <wf id="d001.s139.t003" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s139.t004" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s139.t005" lemma="পূর্ণদৈর্ঘ্য" pos="X">পূর্ণদৈর্ঘ্য</wf>
+   <wf id="d001.s139.t006" lemma="চলচ্চিত্র" pos="X">চলচ্চিত্র</wf>
+   <wf id="d001.s139.t007" lemma="মাটির_ময়না" pos="X">মাটির_ময়না</wf>
+   <wf id="d001.s139.t008" lemma="মুক্তি" pos="X">মুক্তি</wf>
+   <wf id="d001.s139.t009" lemma="পায়" pos="X">পায়</wf>
+   <wf id="d001.s139.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s140">
+   <wf id="d001.s140.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s140.t002" lemma="চলচ্চিত্রটি" pos="X">চলচ্চিত্রটি</wf>
+   <wf id="d001.s140.t003" lemma="কান_চলচ্চিত্র" pos="X">কান_চলচ্চিত্র</wf>
+   <wf id="d001.s140.t004" lemma="উৎসবে" pos="X">উৎসবে</wf>
+   <wf id="d001.s140.t005" lemma="প্রদর্শিত" pos="X">প্রদর্শিত</wf>
+   <wf id="d001.s140.t006" lemma="হয়" pos="X">হয়</wf>
+   <wf id="d001.s140.t007" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s140.t008" lemma="দেশে" pos="X">দেশে</wf>
+   <wf id="d001.s140.t009" lemma="-" pos="X">-</wf>
+   <wf id="d001.s140.t010" lemma="বিদেশে" pos="X">বিদেশে</wf>
+   <wf id="d001.s140.t011" lemma="বিশেষ" pos="X">বিশেষ</wf>
+   <wf id="d001.s140.t012" lemma="প্রশংসা" pos="X">প্রশংসা</wf>
+   <wf id="d001.s140.t013" lemma="অর্জন" pos="X">অর্জন</wf>
+   <wf id="d001.s140.t014" lemma="করে" pos="X">করে</wf>
+   <wf id="d001.s140.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s141">
+   <wf id="d001.s141.t001" lemma="বাংলাদেশের" pos="X">বাংলাদেশের</wf>
+   <wf id="d001.s141.t002" lemma="বিকল্প_ধারার_চলচ্চিত্র" pos="X">বিকল্প_ধারার_চলচ্চিত্র</wf>
+   <wf id="d001.s141.t003" lemma="নির্মাতাদের" pos="X">নির্মাতাদের</wf>
+   <wf id="d001.s141.t004" lemma="সংগঠন" pos="X">সংগঠন</wf>
+   <wf id="d001.s141.t005" lemma="শর্ট_ফিল্ম_ফোরামের" pos="X">শর্ট_ফিল্ম_ফোরামের</wf>
+   <wf id="d001.s141.t006" lemma="প্রতিষ্ঠাতা_সদস্য" pos="X">প্রতিষ্ঠাতা_সদস্য</wf>
+   <wf id="d001.s141.t007" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s141.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s142">
+   <wf id="d001.s142.t001" lemma="১৯৮৮" pos="X">১৯৮৮</wf>
+   <wf id="d001.s142.t002" lemma="সালে" pos="X">সালে</wf>
+   <wf id="d001.s142.t003" lemma="ঢাকায়" pos="X">ঢাকায়</wf>
+   <wf id="d001.s142.t004" lemma="অনুষ্ঠিত" pos="X">অনুষ্ঠিত</wf>
+   <wf id="d001.s142.t005" lemma="প্রথম" pos="X">প্রথম</wf>
+   <wf id="d001.s142.t006" lemma="আন্তর্জাতিক_স্বল্পদৈর্ঘ্য_চলচ্চিত্র_উৎসবের" pos="X">আন্তর্জাতিক_স্বল্পদৈর্ঘ্য_চলচ্চিত্র_উৎসবের</wf>
+   <wf id="d001.s142.t007" lemma="কো-অডিঁনেটর" pos="X">কো-অডিঁনেটর</wf>
+   <wf id="d001.s142.t008" lemma="হিসেবে" pos="X">হিসেবে</wf>
+   <wf id="d001.s142.t009" lemma="কাজ" pos="X">কাজ</wf>
+   <wf id="d001.s142.t010" lemma="করেছেন" pos="X">করেছেন</wf>
+   <wf id="d001.s142.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s143">
+   <wf id="d001.s143.t001" lemma="এছাড়া" pos="X">এছাড়া</wf>
+   <wf id="d001.s143.t002" lemma="তিনি" pos="X">তিনি</wf>
+   <wf id="d001.s143.t003" lemma="যুক্তরাষ্ট্র" pos="X">যুক্তরাষ্ট্র</wf>
+   <wf id="d001.s143.t004" lemma="," pos="X">,</wf>
+   <wf id="d001.s143.t005" lemma="ইউরোপ" pos="X">ইউরোপ</wf>
+   <wf id="d001.s143.t006" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s143.t007" lemma="এশিয়ার" pos="X">এশিয়ার</wf>
+   <wf id="d001.s143.t008" lemma="বিভিন্ন" pos="X">বিভিন্ন</wf>
+   <wf id="d001.s143.t009" lemma="স্থানে" pos="X">স্থানে</wf>
+   <wf id="d001.s143.t010" lemma="অনুষ্ঠিত" pos="X">অনুষ্ঠিত</wf>
+   <wf id="d001.s143.t011" lemma="আন্তর্জাতিক_চলচ্চিত্র_উৎসবে" pos="X">আন্তর্জাতিক_চলচ্চিত্র_উৎসবে</wf>
+   <wf id="d001.s143.t012" lemma="যোগ" pos="X">যোগ</wf>
+   <wf id="d001.s143.t013" lemma="দেয়ার" pos="X">দেয়ার</wf>
+   <wf id="d001.s143.t014" lemma="পাশাপাশি" pos="X">পাশাপাশি</wf>
+   <wf id="d001.s143.t015" lemma="কয়েকটি" pos="X">কয়েকটি</wf>
+   <wf id="d001.s143.t016" lemma="সাময়িকী" pos="X">সাময়িকী</wf>
+   <wf id="d001.s143.t017" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s143.t018" lemma="পত্রিকায়" pos="X">পত্রিকায়</wf>
+   <wf id="d001.s143.t019" lemma="চলচ্চিত্র" pos="X">চলচ্চিত্র</wf>
+   <wf id="d001.s143.t020" lemma="বিষয়ে" pos="X">বিষয়ে</wf>
+   <wf id="d001.s143.t021" lemma="লেখালেখি" pos="X">লেখালেখি</wf>
+   <wf id="d001.s143.t022" lemma="করতেন" pos="X">করতেন</wf>
+   <wf id="d001.s143.t023" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s144">
+   <wf id="d001.s144.t001" lemma="পরিবার" pos="X">পরিবার</wf>
+  </sentence>
+  <sentence id="d001.s145">
+   <wf id="d001.s145.t001" lemma="তারেক" pos="X">তারেক</wf>
+   <wf id="d001.s145.t002" lemma="মাসুদের" pos="X">মাসুদের</wf>
+   <wf id="d001.s145.t003" lemma="স্ত্রী" pos="X">স্ত্রী</wf>
+   <wf id="d001.s145.t004" lemma="ক্যাথরিন_মাসুদ" pos="X">ক্যাথরিন_মাসুদ</wf>
+   <wf id="d001.s145.t005" lemma="একজন" pos="X">একজন</wf>
+   <wf id="d001.s145.t006" lemma="মার্কিন_নাগরিক" pos="X">মার্কিন_নাগরিক</wf>
+   <wf id="d001.s145.t007" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s146">
+   <wf id="d001.s146.t001" lemma="ক্যাথরিন" pos="X">ক্যাথরিন</wf>
+   <wf id="d001.s146.t002" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s146.t003" lemma="তারেক" pos="X">তারেক</wf>
+   <wf id="d001.s146.t004" lemma="মিলে" pos="X">মিলে</wf>
+   <wf id="d001.s146.t005" lemma="ঢাকায়" pos="X">ঢাকায়</wf>
+   <wf id="d001.s146.t006" lemma="একটি" pos="X">একটি</wf>
+   <wf id="d001.s146.t007" lemma="চলচ্চিত্র_নির্মাতা_প্রতিষ্ঠান" pos="X">চলচ্চিত্র_নির্মাতা_প্রতিষ্ঠান</wf>
+   <wf id="d001.s146.t008" lemma="গড়ে" pos="X">গড়ে</wf>
+   <wf id="d001.s146.t009" lemma="তুলেছিলেন" pos="X">তুলেছিলেন</wf>
+   <wf id="d001.s146.t010" lemma="যার" pos="X">যার</wf>
+   <wf id="d001.s146.t011" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s146.t012" lemma="অডিওভিশন" pos="X">অডিওভিশন</wf>
+   <wf id="d001.s146.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s147">
+   <wf id="d001.s147.t001" lemma="চলচ্চিত্র" pos="X">চলচ্চিত্র</wf>
+   <wf id="d001.s147.t002" lemma="নির্মাণ" pos="X">নির্মাণ</wf>
+   <wf id="d001.s147.t003" lemma="ছাড়া" pos="X">ছাড়া</wf>
+   <wf id="d001.s147.t004" lemma="তারেক_মাসুদের" pos="X">তারেক_মাসুদের</wf>
+   <wf id="d001.s147.t005" lemma="আগ্রহের" pos="X">আগ্রহের</wf>
+   <wf id="d001.s147.t006" lemma="বিষয়" pos="X">বিষয়</wf>
+   <wf id="d001.s147.t007" lemma="ছিল" pos="X">ছিল</wf>
+   <wf id="d001.s147.t008" lemma="লোকসঙ্গীত" pos="X">লোকসঙ্গীত</wf>
+   <wf id="d001.s147.t009" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s147.t010" lemma="লোকজ_ধারা" pos="X">লোকজ_ধারা</wf>
+   <wf id="d001.s147.t011" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s148">
+   <wf id="d001.s148.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s148.t002" lemma="দম্পতির" pos="X">দম্পতির</wf>
+   <wf id="d001.s148.t003" lemma="'" pos="X">'</wf>
+   <wf id="d001.s148.t004" lemma="বিংহাম_পুত্রা_মাসুদ_নিশাদ" pos="X">বিংহাম_পুত্রা_মাসুদ_নিশাদ</wf>
+   <wf id="d001.s148.t005" lemma="'" pos="X">'</wf>
+   <wf id="d001.s148.t006" lemma="নামে" pos="X">নামে</wf>
+   <wf id="d001.s148.t007" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s148.t008" lemma="ছেলে" pos="X">ছেলে</wf>
+   <wf id="d001.s148.t009" lemma="আছে" pos="X">আছে</wf>
+   <wf id="d001.s148.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s149">
+   <wf id="d001.s149.t001" lemma="তারেক_মাসুদের" pos="X">তারেক_মাসুদের</wf>
+   <wf id="d001.s149.t002" lemma="খালাতো_ভাই" pos="X">খালাতো_ভাই</wf>
+   <wf id="d001.s149.t003" lemma="নজরুলগীতি_শিল্পী" pos="X">নজরুলগীতি_শিল্পী</wf>
+   <wf id="d001.s149.t004" lemma="খায়রুল_আনাম" pos="X">খায়রুল_আনাম</wf>
+   <wf id="d001.s149.t005" lemma="শাকিল" pos="X">শাকিল</wf>
+   <wf id="d001.s149.t006" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s150">
+   <wf id="d001.s150.t001" lemma="তারেক_মাসুদের" pos="X">তারেক_মাসুদের</wf>
+   <wf id="d001.s150.t002" lemma="চাচাত_বোন" pos="X">চাচাত_বোন</wf>
+   <wf id="d001.s150.t003" lemma="তাহমিনা_রাব্বানি_শাম্মি" pos="X">তাহমিনা_রাব্বানি_শাম্মি</wf>
+   <wf id="d001.s150.t004" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s150.t005" lemma="ছোটো_ভাই" pos="X">ছোটো_ভাই</wf>
+   <wf id="d001.s150.t006" lemma="হচ্ছেন" pos="X">হচ্ছেন</wf>
+   <wf id="d001.s150.t007" lemma="নাহিদ_মাসুদ" pos="X">নাহিদ_মাসুদ</wf>
+   <wf id="d001.s150.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s151">
+   <wf id="d001.s151.t001" lemma="মৃত্যু" pos="X">মৃত্যু</wf>
+  </sentence>
+  <sentence id="d001.s152">
+   <wf id="d001.s152.t001" lemma="'" pos="X">'</wf>
+   <wf id="d001.s152.t002" lemma="কাগজের_ফুল" pos="X">কাগজের_ফুল</wf>
+   <wf id="d001.s152.t003" lemma="'" pos="X">'</wf>
+   <wf id="d001.s152.t004" lemma="নামক" pos="X">নামক</wf>
+   <wf id="d001.s152.t005" lemma="চলচ্চিত্রের" pos="X">চলচ্চিত্রের</wf>
+   <wf id="d001.s152.t006" lemma="শুটিংয়ের" pos="X">শুটিংয়ের</wf>
+   <wf id="d001.s152.t007" lemma="লোকেশন" pos="X">লোকেশন</wf>
+   <wf id="d001.s152.t008" lemma="নির্বাচন" pos="X">নির্বাচন</wf>
+   <wf id="d001.s152.t009" lemma="শেষে" pos="X">শেষে</wf>
+   <wf id="d001.s152.t010" lemma="দুপুর" pos="X">দুপুর</wf>
+   <wf id="d001.s152.t011" lemma="১২টা" pos="X">১২টা</wf>
+   <wf id="d001.s152.t012" lemma="২০" pos="X">২০</wf>
+   <wf id="d001.s152.t013" lemma="মিনিটে" pos="X">মিনিটে</wf>
+   <wf id="d001.s152.t014" lemma="ঢাকার" pos="X">ঢাকার</wf>
+   <wf id="d001.s152.t015" lemma="উদ্দেশে" pos="X">উদ্দেশে</wf>
+   <wf id="d001.s152.t016" lemma="রওনা" pos="X">রওনা</wf>
+   <wf id="d001.s152.t017" lemma="দেন" pos="X">দেন</wf>
+   <wf id="d001.s152.t018" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s153">
+   <wf id="d001.s153.t001" lemma="পথে" pos="X">পথে</wf>
+   <wf id="d001.s153.t002" lemma="ঘিওরে" pos="X">ঘিওরে</wf>
+   <wf id="d001.s153.t003" lemma="ঢাকা-আরিচা_মহাসড়কে" pos="X">ঢাকা-আরিচা_মহাসড়কে</wf>
+   <wf id="d001.s153.t004" lemma="বিপরীত" pos="X">বিপরীত</wf>
+   <wf id="d001.s153.t005" lemma="দিক" pos="X">দিক</wf>
+   <wf id="d001.s153.t006" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s153.t007" lemma="আসা" pos="X">আসা</wf>
+   <wf id="d001.s153.t008" lemma="একটি" pos="X">একটি</wf>
+   <wf id="d001.s153.t009" lemma="বাসের" pos="X">বাসের</wf>
+   <wf id="d001.s153.t010" lemma="সঙ্গে" pos="X">সঙ্গে</wf>
+   <wf id="d001.s153.t011" lemma="মাইক্রোবাসটির" pos="X">মাইক্রোবাসটির</wf>
+   <wf id="d001.s153.t012" lemma="মুখোমুখি_সংঘর্ষ" pos="X">মুখোমুখি_সংঘর্ষ</wf>
+   <wf id="d001.s153.t013" lemma="হয়" pos="X">হয়</wf>
+   <wf id="d001.s153.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s154">
+   <wf id="d001.s154.t001" lemma="এতে" pos="X">এতে</wf>
+   <wf id="d001.s154.t002" lemma="ঘটনাস্থলেই" pos="X">ঘটনাস্থলেই</wf>
+   <wf id="d001.s154.t003" lemma="তারেক_মাসুদ" pos="X">তারেক_মাসুদ</wf>
+   <wf id="d001.s154.t004" lemma="সহ" pos="X">সহ</wf>
+   <wf id="d001.s154.t005" lemma="৫" pos="X">৫</wf>
+   <wf id="d001.s154.t006" lemma="জনের" pos="X">জনের</wf>
+   <wf id="d001.s154.t007" lemma="মৃত্যু" pos="X">মৃত্যু</wf>
+   <wf id="d001.s154.t008" lemma="হয়" pos="X">হয়</wf>
+   <wf id="d001.s154.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s155">
+   <wf id="d001.s155.t001" lemma="১১" pos="X">১১</wf>
+   <wf id="d001.s155.t002" lemma="." pos="X">.</wf>
+   <wf id="d001.s155.t003" lemma="প্রভা" pos="X">প্রভা</wf>
+   <wf id="d001.s155.t004" lemma="(" pos="X">(</wf>
+   <wf id="d001.s155.t005" lemma="কাল" pos="X">কাল</wf>
+   <wf id="d001.s155.t006" lemma=":" pos="X">:</wf>
+   <wf id="d001.s155.t007" lemma="৫০" pos="X">৫০</wf>
+   <wf id="d001.s155.t008" lemma="খৃষ্টপূর্ব" pos="X">খৃষ্টপূর্ব</wf>
+   <wf id="d001.s155.t009" lemma=")" pos="X">)</wf>
+  </sentence>
+  <sentence id="d001.s156">
+   <wf id="d001.s156.t001" lemma="সাকেত" pos="X">সাকেত</wf>
+   <wf id="d001.s156.t002" lemma="কখনও" pos="X">কখনও</wf>
+   <wf id="d001.s156.t003" lemma="কোনো" pos="X">কোনো</wf>
+   <wf id="d001.s156.t004" lemma="রাজার" pos="X">রাজার</wf>
+   <wf id="d001.s156.t005" lemma="রাজধানীতে" pos="X">রাজধানীতে</wf>
+   <wf id="d001.s156.t006" lemma="পরিণত" pos="X">পরিণত</wf>
+   <wf id="d001.s156.t007" lemma="হয়নি" pos="X">হয়নি</wf>
+   <wf id="d001.s156.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s157">
+   <wf id="d001.s157.t001" lemma="বুদ্ধের" pos="X">বুদ্ধের</wf>
+   <wf id="d001.s157.t002" lemma="সমসাময়িক" pos="X">সমসাময়িক</wf>
+   <wf id="d001.s157.t003" lemma="কৌশল" pos="X">কৌশল</wf>
+   <wf id="d001.s157.t004" lemma="-" pos="X">-</wf>
+   <wf id="d001.s157.t005" lemma="রাজ" pos="X">রাজ</wf>
+   <wf id="d001.s157.t006" lemma="প্রসেনজিতের" pos="X">প্রসেনজিতের</wf>
+   <wf id="d001.s157.t007" lemma="একটি" pos="X">একটি</wf>
+   <wf id="d001.s157.t008" lemma="রাজপ্রাসাদ" pos="X">রাজপ্রাসাদ</wf>
+   <wf id="d001.s157.t009" lemma="এখানে" pos="X">এখানে</wf>
+   <wf id="d001.s157.t010" lemma="ছিল" pos="X">ছিল</wf>
+   <wf id="d001.s157.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s157.t012" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s157.t013" lemma="রাজধানি" pos="X">রাজধানি</wf>
+   <wf id="d001.s157.t014" lemma="ছিল" pos="X">ছিল</wf>
+   <wf id="d001.s157.t015" lemma="ছয়" pos="X">ছয়</wf>
+   <wf id="d001.s157.t016" lemma="যোজন" pos="X">যোজন</wf>
+   <wf id="d001.s157.t017" lemma="দূর" pos="X">দূরে</wf>
+   <wf id="d001.s157.t018" lemma="অবস্থিত" pos="X">অবস্থিত</wf>
+   <wf id="d001.s157.t019" lemma="শ্রাবন্তী" pos="X">শ্রাবন্তীতে</wf>
+   <wf id="d001.s157.t020" lemma="(" pos="X">(</wf>
+   <wf id="d001.s157.t021" lemma="সহেট" pos="X">সহেট</wf>
+   <wf id="d001.s157.t022" lemma="-" pos="X">-</wf>
+   <wf id="d001.s157.t023" lemma="মহেট" pos="X">মহেট</wf>
+   <wf id="d001.s157.t024" lemma=")" pos="X">)</wf>
+   <wf id="d001.s157.t025" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s158">
+   <wf id="d001.s158.t001" lemma="প্রসেনজিত" pos="X">প্রসেনজিতের</wf>
+   <wf id="d001.s158.t002" lemma="জামাতা" pos="X">জামাতা</wf>
+   <wf id="d001.s158.t003" lemma="অজাতশত্রু" pos="X">অজাতশত্রু</wf>
+   <wf id="d001.s158.t004" lemma="কৌশল" pos="X">কৌশলের</wf>
+   <wf id="d001.s158.t005" lemma="স্বাধীনতা" pos="X">স্বাধীনতা</wf>
+   <wf id="d001.s158.t006" lemma="হরণ" pos="X">হরণ</wf>
+   <wf id="d001.s158.t007" lemma="করা" pos="X">করার</wf>
+   <wf id="d001.s158.t008" lemma="সঙ্গ_সঙ্গ" pos="X">সঙ্গে_সঙ্গে</wf>
+   <wf id="d001.s158.t009" lemma="শ্রাবন্তী" pos="X">শ্রাবন্তীরও</wf>
+   <wf id="d001.s158.t010" lemma="সৌভাগ্য" pos="X">সৌভাগ্য</wf>
+   <wf id="d001.s158.t011" lemma="বিলুপ্ত" pos="X">বিলুপ্ত</wf>
+   <wf id="d001.s158.t012" lemma="হওয়া" pos="X">হল</wf>
+   <wf id="d001.s158.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s159">
+   <wf id="d001.s159.t001" lemma="অতীত" pos="X">অতীতে</wf>
+   <wf id="d001.s159.t002" lemma="সরযুতট" pos="X">সরযুতটে</wf>
+   <wf id="d001.s159.t003" lemma="অবস্থিত" pos="X">অবস্থিত</wf>
+   <wf id="d001.s159.t004" lemma="সাকেত" pos="X">সাকেত</wf>
+   <wf id="d001.s159.t005" lemma="পূর্ব" pos="X">পূর্ব</wf>
+   <wf id="d001.s159.t006" lemma="(" pos="X">(</wf>
+   <wf id="d001.s159.t007" lemma="প্রাচী" pos="X">প্রাচী</wf>
+   <wf id="d001.s159.t008" lemma=")" pos="X">)</wf>
+   <wf id="d001.s159.t009" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s159.t010" lemma="উত্তর" pos="X">উত্তরের</wf>
+   <wf id="d001.s159.t011" lemma="(" pos="X">(</wf>
+   <wf id="d001.s159.t012" lemma="পাঞ্জাব" pos="X">পাঞ্জাব</wf>
+   <wf id="d001.s159.t013" lemma=")" pos="X">)</wf>
+   <wf id="d001.s159.t014" lemma="যোগাযোগ" pos="X">যোগাযোগ</wf>
+   <wf id="d001.s159.t015" lemma="পথ" pos="X">পথে</wf>
+   <wf id="d001.s159.t016" lemma="অবস্থিত" pos="X">অবস্থিত</wf>
+   <wf id="d001.s159.t017" lemma="থাকা" pos="X">থাকায়</wf>
+   <wf id="d001.s159.t018" lemma="শুধু" pos="X">শুধু</wf>
+   <wf id="d001.s159.t019" lemma="জলপথ" pos="X">জলপথের</wf>
+   <wf id="d001.s159.t020" lemma="বাণিজ্য" pos="X">বাণিজ্রের</wf>
+   <wf id="d001.s159.t021" lemma="জন্য" pos="X">জন্যই</wf>
+   <wf id="d001.s159.t022" lemma="নয়" pos="X">নয়</wf>
+   <wf id="d001.s159.t023" lemma="," pos="X">,</wf>
+   <wf id="d001.s159.t024" lemma="স্থলপথ" pos="X">স্থলপথের</wf>
+   <wf id="d001.s159.t025" lemma="বাণিজ্য" pos="X">বাণিজ্যেরও</wf>
+   <wf id="d001.s159.t026" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s159.t027" lemma="বড়" pos="X">বড়</wf>
+   <wf id="d001.s159.t028" lemma="কেন্দ্র" pos="X">কেন্দ্র</wf>
+   <wf id="d001.s159.t029" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s159.t030" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s160">
+   <wf id="d001.s160.t001" lemma="বহুদিন" pos="X">বহুদিন</wf>
+   <wf id="d001.s160.t002" lemma="পযণ্ত" pos="X">পযণ্ত</wf>
+   <wf id="d001.s160.t003" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s160.t004" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s160.t005" lemma="অবস্থা" pos="X">অবস্থা</wf>
+   <wf id="d001.s160.t006" lemma="অটুট" pos="X">অটুট</wf>
+   <wf id="d001.s160.t007" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s160.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s161">
+   <wf id="d001.s161.t001" lemma="বিষ্ণগুপ্ত" pos="X">বিষ্ণগুপ্ত</wf>
+   <wf id="d001.s161.t002" lemma="চাণক্যের" pos="X">চাণক্যের</wf>
+   <wf id="d001.s161.t003" lemma="শিষ্য" pos="X">শিষ্য</wf>
+   <wf id="d001.s161.t004" lemma="মৌর্ষ_মগ্ধ" pos="X">মৌর্ষ_মগ্ধ</wf>
+   <wf id="d001.s161.t005" lemma="রাজ্য" pos="X">রাজ্যকে</wf>
+   <wf id="d001.s161.t006" lemma="প্রথম" pos="X">প্রথমে</wf>
+   <wf id="d001.s161.t007" lemma="তক্ষশিলা" pos="X">তক্ষশিলা</wf>
+   <wf id="d001.s161.t008" lemma="পর্যন্ত" pos="X">পর্যন্ত</wf>
+   <wf id="d001.s161.t009" lemma="," pos="X">,</wf>
+   <wf id="d001.s161.t010" lemma="পর" pos="X">পরে</wf>
+   <wf id="d001.s161.t011" lemma="যবনরাজ" pos="X">যবনরাজ</wf>
+   <wf id="d001.s161.t012" lemma="সেলুকাস" pos="X">সেলুকাসকে</wf>
+   <wf id="d001.s161.t013" lemma="পরাজিত" pos="X">পরাজিত</wf>
+   <wf id="d001.s161.t014" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s161.t015" lemma="হিন্দুকুশ_পর্বতমালা" pos="X">হিন্দুকুশ_পর্বতমালা</wf>
+   <wf id="d001.s161.t016" lemma="থেকে" pos="X">থেকে</wf>
+   <wf id="d001.s161.t017" lemma="পশ্চিম" pos="X">পশ্চিমে</wf>
+   <wf id="d001.s161.t018" lemma="হিরাত" pos="X">হিরাত</wf>
+   <wf id="d001.s161.t019" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s161.t020" lemma="আমুদরিয়া" pos="X">আমুদরিয়া</wf>
+   <wf id="d001.s161.t021" lemma="পর্যন্ত" pos="X">পর্যন্ত</wf>
+   <wf id="d001.s161.t022" lemma="বিস্তৃত" pos="X">বিস্তৃত</wf>
+   <wf id="d001.s161.t023" lemma="কর" pos="X">করেছিল</wf>
+   <wf id="d001.s161.t024" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s162">
+   <wf id="d001.s162.t001" lemma="চন্দ্রগুপ্ত" pos="X">চন্দ্রগুপ্ত</wf>
+   <wf id="d001.s162.t002" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s162.t003" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s162.t004" lemma="মৌর্যবংশ" pos="X">মৌর্যবংশের</wf>
+   <wf id="d001.s162.t005" lemma="শাসন" pos="X">শাসনেও</wf>
+   <wf id="d001.s162.t006" lemma="সাকেত" pos="X">সাকেত</wf>
+   <wf id="d001.s162.t007" lemma="বাণিজ্য_কেন্দ্র" pos="X">বাণিজ্য_কেন্দ্রের</wf>
+   <wf id="d001.s162.t008" lemma="বেশী" pos="X">বেশী</wf>
+   <wf id="d001.s162.t009" lemma="কিছু" pos="X">কিছু</wf>
+   <wf id="d001.s162.t010" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s162.t011" lemma="না" pos="X">না</wf>
+   <wf id="d001.s162.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s163">
+   <wf id="d001.s163.t001" lemma="মৌর্যবংশ" pos="X">মৌর্যবংশ</wf>
+   <wf id="d001.s163.t002" lemma="-" pos="X">-</wf>
+   <wf id="d001.s163.t003" lemma="ধ্বংসকারী" pos="X">ধ্বংসকারী</wf>
+   <wf id="d001.s163.t004" lemma="সেনাপতি" pos="X">সেনাপতি</wf>
+   <wf id="d001.s163.t005" lemma="পুষ্যমিত্র" pos="X">পুষ্যমিত্র</wf>
+   <wf id="d001.s163.t006" lemma="প্রথম" pos="X">প্রথমে</wf>
+   <wf id="d001.s163.t007" lemma="সাকেত" pos="X">সাকেতকে</wf>
+   <wf id="d001.s163.t008" lemma="রাজধানী" pos="X">রাজধানীর</wf>
+   <wf id="d001.s163.t009" lemma="মর্যাদা" pos="X">মর্যাদা</wf>
+   <wf id="d001.s163.t010" lemma="দেওয়া" pos="X">দিয়েছিল</wf>
+   <wf id="d001.s163.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s163.t012" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s163.t013" lemma="তা" pos="X">তাও</wf>
+   <wf id="d001.s163.t014" lemma="সম্ভবত" pos="X">সম্ভবত</wf>
+   <wf id="d001.s163.t015" lemma="পাটলীপুত্র" pos="X">পাটলীপুত্রের</wf>
+   <wf id="d001.s163.t016" lemma="প্রাধন্য" pos="X">প্রাধন্যকে</wf>
+   <wf id="d001.s163.t017" lemma="ক্ষুণ্ণ" pos="X">ক্ষুণ্ণ</wf>
+   <wf id="d001.s163.t018" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s163.t019" lemma="নয়" pos="X">নয়</wf>
+   <wf id="d001.s163.t020" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s164">
+   <wf id="d001.s164.t001" lemma="পুষ্যমিত্র" pos="X">পুষ্যমিত্র</wf>
+   <wf id="d001.s164.t002" lemma="অথবা" pos="X">অথবা</wf>
+   <wf id="d001.s164.t003" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s164.t004" lemma="শুঙ্গবংশ" pos="X">শুঙ্গবংশের</wf>
+   <wf id="d001.s164.t005" lemma="শানসকাল" pos="X">শানসকালে</wf>
+   <wf id="d001.s164.t006" lemma="বাল্মীকি" pos="X">বাল্মীকি</wf>
+   <wf id="d001.s164.t007" lemma="যখন" pos="X">যখন</wf>
+   <wf id="d001.s164.t008" lemma="রামায়ণ" pos="X">রামায়ণ</wf>
+   <wf id="d001.s164.t009" lemma="রচনা" pos="X">রচনা</wf>
+   <wf id="d001.s164.t010" lemma="করা" pos="X">করেন</wf>
+   <wf id="d001.s164.t011" lemma="," pos="X">,</wf>
+   <wf id="d001.s164.t012" lemma="তখন" pos="X">তখন</wf>
+   <wf id="d001.s164.t013" lemma="অযোধ্যা" pos="X">অযোধ্যার</wf>
+   <wf id="d001.s164.t014" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s164.t015" lemma="প্রচারিত" pos="X">প্রচারিত</wf>
+   <wf id="d001.s164.t016" lemma="হওয়া" pos="X">হল</wf>
+   <wf id="d001.s164.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s165">
+   <wf id="d001.s165.t001" lemma="এইভাবে" pos="X">এইভাবেই</wf>
+   <wf id="d001.s165.t002" lemma="সাকেত" pos="X">সাকেত</wf>
+   <wf id="d001.s165.t003" lemma="অযোধ্যা" pos="X">অযোধ্যা</wf>
+   <wf id="d001.s165.t004" lemma="বলা" pos="X">বলে</wf>
+   <wf id="d001.s165.t005" lemma="পরিচিত" pos="X">পরিচিত</wf>
+   <wf id="d001.s165.t006" lemma="হওয়া" pos="X">হয়</wf>
+   <wf id="d001.s165.t007" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s166">
+   <wf id="d001.s166.t001" lemma="এতে" pos="X">এতে</wf>
+   <wf id="d001.s166.t002" lemma="কোনো" pos="X">কোনো</wf>
+   <wf id="d001.s166.t003" lemma="সন্দেহ" pos="X">সন্দেহ</wf>
+   <wf id="d001.s166.t004" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s166.t005" lemma="যে" pos="X">যে</wf>
+   <wf id="d001.s166.t006" lemma="," pos="X">,</wf>
+   <wf id="d001.s166.t007" lemma="অশ্বঘোষ" pos="X">অশ্বঘোষ</wf>
+   <wf id="d001.s166.t008" lemma="বাল্মীকি" pos="X">বাল্মীকির</wf>
+   <wf id="d001.s166.t009" lemma="কাব্য" pos="X">কাব্যের</wf>
+   <wf id="d001.s166.t010" lemma="রসাস্বদন" pos="X">রসাস্বদন</wf>
+   <wf id="d001.s166.t011" lemma="করা" pos="X">করেছিলেন</wf>
+   <wf id="d001.s166.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s167">
+   <wf id="d001.s167.t001" lemma="কালিদাস" pos="X">কালিদাস</wf>
+   <wf id="d001.s167.t002" lemma="যেমন" pos="X">যেমন</wf>
+   <wf id="d001.s167.t003" lemma="চন্দ্রগুপ্ত_বিক্রমাদিত্য" pos="X">চন্দ্রগুপ্ত_বিক্রমাদিত্যের</wf>
+   <wf id="d001.s167.t004" lemma="আশ্রিত" pos="X">আশ্রিত</wf>
+   <wf id="d001.s167.t005" lemma="কবি" pos="X">কবি</wf>
+   <wf id="d001.s167.t006" lemma="থাকা" pos="X">ছিলেন</wf>
+   <wf id="d001.s167.t007" lemma="," pos="X">,</wf>
+   <wf id="d001.s167.t008" lemma="তেমন" pos="X">তেমনি</wf>
+   <wf id="d001.s167.t009" lemma="বাল্মীকি" pos="X">বাল্মীকিও</wf>
+   <wf id="d001.s167.t010" lemma="যদি" pos="X">যদি</wf>
+   <wf id="d001.s167.t011" lemma="কখন" pos="X">কখনও</wf>
+   <wf id="d001.s167.t012" lemma="শুঙ্গবংশ" pos="X">শুঙ্গবংশের</wf>
+   <wf id="d001.s167.t013" lemma="আশ্রিত" pos="X">আশ্রিত</wf>
+   <wf id="d001.s167.t014" lemma="কবি" pos="X">কবি</wf>
+   <wf id="d001.s167.t015" lemma="থাকা" pos="X">ছিলেন</wf>
+   <wf id="d001.s167.t016" lemma="," pos="X">,</wf>
+   <wf id="d001.s167.t017" lemma="তেমন" pos="X">তেমনি</wf>
+   <wf id="d001.s167.t018" lemma="বাল্মাকী" pos="X">বাল্মাকীও</wf>
+   <wf id="d001.s167.t019" lemma="যদি" pos="X">যদি</wf>
+   <wf id="d001.s167.t020" lemma="কখন" pos="X">কখনও</wf>
+   <wf id="d001.s167.t021" lemma="শুঙ্গবংশ" pos="X">শুঙ্গবংশের</wf>
+   <wf id="d001.s167.t022" lemma="আশ্রিত" pos="X">আশ্রিত</wf>
+   <wf id="d001.s167.t023" lemma="কবি" pos="X">কবি</wf>
+   <wf id="d001.s167.t024" lemma="থাকা" pos="X">থেকে</wf>
+   <wf id="d001.s167.t025" lemma="থাকা" pos="X">থাকেন</wf>
+   <wf id="d001.s167.t026" lemma="অথবা" pos="X">অথবা</wf>
+   <wf id="d001.s167.t027" lemma="কালিদাস" pos="X">কালিদাস</wf>
+   <wf id="d001.s167.t028" lemma="যেমন" pos="X">যেমন</wf>
+   <wf id="d001.s167.t029" lemma="চন্দ্রগুপ্ত_বিক্রমাদিত্য" pos="X">চন্দ্রগুপ্ত_বিক্রমাদিত্য</wf>
+   <wf id="d001.s167.t030" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s167.t031" lemma="কুমারগুপ্ত" pos="X">কুমারগুপ্ত</wf>
+   <wf id="d001.s167.t032" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s167.t033" lemma="দুই" pos="X">দুই</wf>
+   <wf id="d001.s167.t034" lemma="পিতা" pos="X">পিতা</wf>
+   <wf id="d001.s167.t035" lemma="-" pos="X">-</wf>
+   <wf id="d001.s167.t036" lemma="পুত্রক" pos="X">পুত্রকে</wf>
+   <wf id="d001.s167.t037" lemma="তাঁর" pos="X">তাঁর</wf>
+   <wf id="d001.s167.t038" lemma="'" pos="X">'</wf>
+   <wf id="d001.s167.t039" lemma="রঘুবংশ" pos="X">রঘুবংশ</wf>
+   <wf id="d001.s167.t040" lemma="'" pos="X">'</wf>
+   <wf id="d001.s167.t041" lemma="-" pos="X">-</wf>
+   <wf id="d001.s167.t042" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s167.t043" lemma="রঘু" pos="X">রঘু</wf>
+   <wf id="d001.s167.t044" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s167.t045" lemma="'" pos="X">'</wf>
+   <wf id="d001.s167.t046" lemma="কুমারসম্ভব" pos="X">কুমারসম্ভব</wf>
+   <wf id="d001.s167.t047" lemma="'" pos="X">'</wf>
+   <wf id="d001.s167.t048" lemma="-" pos="X">-</wf>
+   <wf id="d001.s167.t049" lemma="এ" pos="X">এ</wf>
+   <wf id="d001.s167.t050" lemma="কুমার" pos="X">কুমার</wf>
+   <wf id="d001.s167.t051" lemma="রুপ" pos="X">রুপে</wf>
+   <wf id="d001.s167.t052" lemma="চিত্রিত" pos="X">চিত্রিত</wf>
+   <wf id="d001.s167.t053" lemma="করা" pos="X">করেছেন</wf>
+   <wf id="d001.s167.t054" lemma="," pos="X">,</wf>
+   <wf id="d001.s167.t055" lemma="তেমন" pos="X">তেমনি</wf>
+   <wf id="d001.s167.t056" lemma="বাল্মীকি" pos="X">বাল্মীকি</wf>
+   <wf id="d001.s167.t057" lemma="যদি" pos="X">যদি</wf>
+   <wf id="d001.s167.t058" lemma="শুঙ্গবংশ" pos="X">শুঙ্গবংশের</wf>
+   <wf id="d001.s167.t059" lemma="রাজধানী" pos="X">রাজধানীর</wf>
+   <wf id="d001.s167.t060" lemma="মহিমা" pos="X">মহিমাকে</wf>
+   <wf id="d001.s167.t061" lemma="উন্নীত" pos="X">উন্নীত</wf>
+   <wf id="d001.s167.t062" lemma="করবার" pos="X">করবার</wf>
+   <wf id="d001.s167.t063" lemma="জন্য" pos="X">জন্যই</wf>
+   <wf id="d001.s167.t064" lemma="বৌদ্ধ" pos="X">বৌদ্ধ</wf>
+   <wf id="d001.s167.t065" lemma="জাতক" pos="X">জাতকের</wf>
+   <wf id="d001.s167.t066" lemma="দশরথ" pos="X">দশরথের</wf>
+   <wf id="d001.s167.t067" lemma="রাজধানী" pos="X">রাজধানীকে</wf>
+   <wf id="d001.s167.t068" lemma="বারাণসী" pos="X">বারাণসী</wf>
+   <wf id="d001.s167.t069" lemma="থাকা" pos="X">থেকে</wf>
+   <wf id="d001.s167.t070" lemma="সরান" pos="X">সরিয়ে</wf>
+   <wf id="d001.s167.t071" lemma="সাকেত" pos="X">সাকেত</wf>
+   <wf id="d001.s167.t072" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s167.t073" lemma="অযোধ্যা" pos="X">অযোধ্যায়</wf>
+   <wf id="d001.s167.t074" lemma="আনা" pos="X">এনে</wf>
+   <wf id="d001.s167.t075" lemma="থাকা" pos="X">থাকে</wf>
+   <wf id="d001.s167.t076" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s167.t077" lemma="শুঙ্গসম্রাট" pos="X">শুঙ্গসম্রাট</wf>
+   <wf id="d001.s167.t078" lemma="পুষ্যমিত্র" pos="X">পুষ্যমিত্র</wf>
+   <wf id="d001.s167.t079" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s167.t080" lemma="অগ্নিমিত্র" pos="X">অগ্নিমিত্রকেই</wf>
+   <wf id="d001.s167.t081" lemma="রামরুপ" pos="X">রামরুপে</wf>
+   <wf id="d001.s167.t082" lemma="মহিমান্বিত" pos="X">মহিমান্বিত</wf>
+   <wf id="d001.s167.t083" lemma="কর" pos="X">করে</wf>
+   <wf id="d001.s167.t084" lemma="থাকা" pos="X">থাকেন</wf>
+   <wf id="d001.s167.t085" lemma="-" pos="X">-</wf>
+   <wf id="d001.s167.t086" lemma="তবে" pos="X">তবে</wf>
+   <wf id="d001.s167.t087" lemma="বিস্ময়" pos="X">বিস্ময়ের</wf>
+   <wf id="d001.s167.t088" lemma="কিছু" pos="X">কিছু</wf>
+   <wf id="d001.s167.t089" lemma="নেই" pos="X">নেই</wf>
+   <wf id="d001.s167.t090" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s168">
+   <wf id="d001.s168.t001" lemma="সেনাপতি" pos="X">সেনাপতি</wf>
+   <wf id="d001.s168.t002" lemma="পুষ্যমিত্র" pos="X">পুষ্যমিত্র</wf>
+   <wf id="d001.s168.t003" lemma="আপন" pos="X">আপন</wf>
+   <wf id="d001.s168.t004" lemma="প্রভু" pos="X">প্রভুকে</wf>
+   <wf id="d001.s168.t005" lemma="হত্যা" pos="X">হত্যা</wf>
+   <wf id="d001.s168.t006" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s168.t007" lemma="সমগ্র" pos="X">সমগ্র</wf>
+   <wf id="d001.s168.t008" lemma="মৌর্য_সাম্রাজ্যক" pos="X">মৌর্য_সাম্রাজ্যকে</wf>
+   <wf id="d001.s168.t009" lemma="অধিকার" pos="X">অধিকার</wf>
+   <wf id="d001.s168.t010" lemma="করা" pos="X">করতে</wf>
+   <wf id="d001.s168.t011" lemma="সমর্থ" pos="X">সমর্থ</wf>
+   <wf id="d001.s168.t012" lemma="হয়নি" pos="X">হয়নি</wf>
+   <wf id="d001.s168.t013" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s169">
+   <wf id="d001.s169.t001" lemma="সারা" pos="X">সারা</wf>
+   <wf id="d001.s169.t002" lemma="পাঞ্জাব" pos="X">পাঞ্জাব</wf>
+   <wf id="d001.s169.t003" lemma="যবনরাজ" pos="X">যবনরাজ</wf>
+   <wf id="d001.s169.t004" lemma="মিনান্দর" pos="X">মিনান্দরের</wf>
+   <wf id="d001.s169.t005" lemma="দখল" pos="X">দখলে</wf>
+   <wf id="d001.s169.t006" lemma="চলা" pos="X">চলে</wf>
+   <wf id="d001.s169.t007" lemma="যাওয়া" pos="X">গেল</wf>
+   <wf id="d001.s169.t008" lemma=";" pos="X">;</wf>
+   <wf id="d001.s169.t009" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s169.t010" lemma="পুষ্যমিত্র" pos="X">পুষ্যমিত্রের</wf>
+   <wf id="d001.s169.t011" lemma="পুরোহিত" pos="X">পুরোহিত</wf>
+   <wf id="d001.s169.t012" lemma="ব্রাহ্মণ" pos="X">ব্রাহ্মণ</wf>
+   <wf id="d001.s169.t013" lemma="পতঞ্জলি" pos="X">পতঞ্জলি</wf>
+   <wf id="d001.s169.t014" lemma="-" pos="X">-</wf>
+   <wf id="d001.s169.t015" lemma="পুষ্যমিত্র" pos="X">পুষ্যমিত্রের</wf>
+   <wf id="d001.s169.t016" lemma="সময়" pos="X">সময়ে</wf>
+   <wf id="d001.s169.t017" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s169.t018" lemma="নগর" pos="X">নগরের</wf>
+   <wf id="d001.s169.t019" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s169.t020" lemma="সাকেত" pos="X">সাকেতই</wf>
+   <wf id="d001.s169.t021" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s169.t022" lemma="-" pos="X">-</wf>
+   <wf id="d001.s169.t023" lemma="অযোধ্যা" pos="X">অযোধ্যা</wf>
+   <wf id="d001.s169.t024" lemma="নয়" pos="X">নয়</wf>
+   <wf id="d001.s169.t025" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s170">
+   <wf id="d001.s170.t001" lemma="পুষ্যমিত্র" pos="X">পুষ্যমিত্র</wf>
+   <wf id="d001.s170.t002" lemma="," pos="X">,</wf>
+   <wf id="d001.s170.t003" lemma="পতঞ্জলি" pos="X">পতঞ্জলি</wf>
+   <wf id="d001.s170.t004" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s170.t005" lemma="মিনান্দর" pos="X">মিনান্দরের</wf>
+   <wf id="d001.s170.t006" lemma="সময়" pos="X">সময়</wf>
+   <wf id="d001.s170.t007" lemma="থাকা" pos="X">থেকে</wf>
+   <wf id="d001.s170.t008" lemma="আমরা" pos="X">আমরা</wf>
+   <wf id="d001.s170.t009" lemma="আরও" pos="X">আরও</wf>
+   <wf id="d001.s170.t010" lemma="দুশ" pos="X">দুশ</wf>
+   <wf id="d001.s170.t011" lemma="'" pos="X">'</wf>
+   <wf id="d001.s170.t012" lemma="বছর" pos="X">বছর</wf>
+   <wf id="d001.s170.t013" lemma="পিছান" pos="X">পিছিয়ে</wf>
+   <wf id="d001.s170.t014" lemma="আসা" pos="X">আসছি</wf>
+   <wf id="d001.s170.t015" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s171">
+   <wf id="d001.s171.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s171.t002" lemma="সময়" pos="X">সময়েও</wf>
+   <wf id="d001.s171.t003" lemma="সাকেত" pos="X">সাকেতে</wf>
+   <wf id="d001.s171.t004" lemma="বড়_বড়" pos="X">বড়_বড়</wf>
+   <wf id="d001.s171.t005" lemma="শ্রেষ্ঠী" pos="X">শ্রেষ্ঠী</wf>
+   <wf id="d001.s171.t006" lemma="বসবাস" pos="X">বসবাস</wf>
+   <wf id="d001.s171.t007" lemma="করা" pos="X">করত</wf>
+   <wf id="d001.s171.t008" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s172">
+   <wf id="d001.s172.t001" lemma="লক্ষ্মী" pos="X">লক্ষ্মীর</wf>
+   <wf id="d001.s172.t002" lemma="বসতি" pos="X">বসতি</wf>
+   <wf id="d001.s172.t003" lemma="ফল" pos="X">ফলে</wf>
+   <wf id="d001.s172.t004" lemma="সরস্বতী" pos="X">সরস্বতীরও</wf>
+   <wf id="d001.s172.t005" lemma="অল্পবিস্তর" pos="X">অল্পবিস্তর</wf>
+   <wf id="d001.s172.t006" lemma="আগমন" pos="X">আগমন</wf>
+   <wf id="d001.s172.t007" lemma="হওয়া" pos="X">হতে</wf>
+   <wf id="d001.s172.t008" lemma="লাগল" pos="X">লাগল</wf>
+   <wf id="d001.s172.t009" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s172.t010" lemma="ধর্ম" pos="X">ধর্ম</wf>
+   <wf id="d001.s172.t011" lemma="ও" pos="X">ও</wf>
+   <wf id="d001.s172.t012" lemma="ব্রাহ্মণ" pos="X">ব্রাহ্মণেরা</wf>
+   <wf id="d001.s172.t013" lemma="স্বভাবতঃ" pos="X">স্বভাবতঃই</wf>
+   <wf id="d001.s172.t014" lemma="আসা" pos="X">এসে</wf>
+   <wf id="d001.s172.t015" lemma="পড়া" pos="X">পড়ল</wf>
+   <wf id="d001.s172.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s173">
+   <wf id="d001.s173.t001" lemma="এইসব" pos="X">এইসব</wf>
+   <wf id="d001.s173.t002" lemma="ব্রাহ্মণ" pos="X">ব্রাহ্মণদের</wf>
+   <wf id="d001.s173.t003" lemma="মধ্যে" pos="X">মধ্যে</wf>
+   <wf id="d001.s173.t004" lemma="ধন-বিদ্যা" pos="X">ধন-বিদ্যা</wf>
+   <wf id="d001.s173.t005" lemma="সম্পন্ন" pos="X">সম্পন্ন</wf>
+   <wf id="d001.s173.t006" lemma="একটি" pos="X">একটি</wf>
+   <wf id="d001.s173.t007" lemma="কুল" pos="X">কুল</wf>
+   <wf id="d001.s173.t008" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s173.t009" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s174">
+   <wf id="d001.s174.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s174.t002" lemma="কুলাধিপতি" pos="X">কুলাধিপতির</wf>
+   <wf id="d001.s174.t003" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s174.t004" lemma="মুছা" pos="X">মুছে</wf>
+   <wf id="d001.s174.t005" lemma="যাওয়া" pos="X">গিয়েছে</wf>
+   <wf id="d001.s174.t006" lemma="কালের_প্রবাহ" pos="X">কালের_প্রবাহে</wf>
+   <wf id="d001.s174.t007" lemma="," pos="X">,</wf>
+   <wf id="d001.s174.t008" lemma="কিন্তু" pos="X">কিন্তু</wf>
+   <wf id="d001.s174.t009" lemma="কুলাধিপত্মী" pos="X">কুলাধিপত্মীর</wf>
+   <wf id="d001.s174.t010" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s174.t011" lemma="অমর" pos="X">অমর</wf>
+   <wf id="d001.s174.t012" lemma="করা" pos="X">করে</wf>
+   <wf id="d001.s174.t013" lemma="রাখা" pos="X">রেখেছে</wf>
+   <wf id="d001.s174.t014" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s174.t015" lemma="পুত্র" pos="X">পুত্র</wf>
+   <wf id="d001.s174.t016" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s175">
+   <wf id="d001.s175.t001" lemma="এই" pos="X">এই</wf>
+   <wf id="d001.s175.t002" lemma="ব্রাহ্মণী" pos="X">ব্রাহ্মণীর</wf>
+   <wf id="d001.s175.t003" lemma="নাম" pos="X">নাম</wf>
+   <wf id="d001.s175.t004" lemma="সুবর্ণাক্ষী" pos="X">সুবর্ণাক্ষী</wf>
+   <wf id="d001.s175.t005" lemma="," pos="X">,</wf>
+   <wf id="d001.s175.t006" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s175.t007" lemma="চোখ" pos="X">চোখ</wf>
+   <wf id="d001.s175.t008" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s175.t009" lemma="সোনা" pos="X">সোনার</wf>
+   <wf id="d001.s175.t010" lemma="মতো" pos="X">মতো</wf>
+   <wf id="d001.s175.t011" lemma="কাঁচাহলুদ_রঙ" pos="X">কাঁচাহলুদ_রঙ</wf>
+   <wf id="d001.s175.t012" lemma="-" pos="X">-</wf>
+   <wf id="d001.s175.t013" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s175.t014" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s176">
+   <wf id="d001.s176.t001" lemma="তৎকাল" pos="X">তৎকালে</wf>
+   <wf id="d001.s176.t002" lemma="কাঁচাহলুদ_রঙ" pos="X">কাঁচাহলুদ_রঙ</wf>
+   <wf id="d001.s176.t003" lemma="বা" pos="X">বা</wf>
+   <wf id="d001.s176.t004" lemma="নীল_রঙ" pos="X">নীল_রঙ</wf>
+   <wf id="d001.s176.t005" lemma="-" pos="X">-</wf>
+   <wf id="d001.s176.t006" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s176.t007" lemma="চোখ" pos="X">চোখ</wf>
+   <wf id="d001.s176.t008" lemma="সারা" pos="X">সারা</wf>
+   <wf id="d001.s176.t009" lemma="ব্রাহ্মণ" pos="X">ব্রাহ্মণ</wf>
+   <wf id="d001.s176.t010" lemma="-" pos="X">-</wf>
+   <wf id="d001.s176.t011" lemma="ক্ষত্রিয়" pos="X">ক্ষত্রিয়</wf>
+   <wf id="d001.s176.t012" lemma="জাত" pos="X">জাতের</wf>
+   <wf id="d001.s176.t013" lemma="মধ্য" pos="X">মধ্যেই</wf>
+   <wf id="d001.s176.t014" lemma="দেখা" pos="X">দেখতে</wf>
+   <wf id="d001.s176.t015" lemma="পাওয়া" pos="X">পাওয়া</wf>
+   <wf id="d001.s176.t016" lemma="যাওয়া" pos="X">যেত</wf>
+   <wf id="d001.s176.t017" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s177">
+   <wf id="d001.s177.t001" lemma="কাঁচাহলুদ_রঙ" pos="X">কাঁচাহলুদ_রঙ</wf>
+   <wf id="d001.s177.t002" lemma="-" pos="X">-</wf>
+   <wf id="d001.s177.t003" lemma="এর" pos="X">এর</wf>
+   <wf id="d001.s177.t004" lemma="চোখ" pos="X">চোখ</wf>
+   <wf id="d001.s177.t005" lemma="থাকা" pos="X">থাকা</wf>
+   <wf id="d001.s177.t006" lemma="কোন" pos="X">কোন</wf>
+   <wf id="d001.s177.t007" lemma="দোষ" pos="X">দোষের</wf>
+   <wf id="d001.s177.t008" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s177.t009" lemma="না" pos="X">না</wf>
+   <wf id="d001.s177.t010" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s178">
+   <wf id="d001.s178.t001" lemma="ব্রাহ্মণী" pos="X">ব্রাহ্মণী</wf>
+   <wf id="d001.s178.t002" lemma="সুবর্ণাক্ষী" pos="X">সুবর্ণাক্ষীর</wf>
+   <wf id="d001.s178.t003" lemma="এক" pos="X">এক</wf>
+   <wf id="d001.s178.t004" lemma="পুত্র" pos="X">পুত্র</wf>
+   <wf id="d001.s178.t005" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s178.t006" lemma="মতো" pos="X">মতোই</wf>
+   <wf id="d001.s178.t007" lemma="সুবর্ণনেত্র" pos="X">সুবর্ণনেত্র</wf>
+   <wf id="d001.s178.t008" lemma="এবং" pos="X">এবং</wf>
+   <wf id="d001.s178.t009" lemma="পিঙ্গল" pos="X">পিঙ্গল</wf>
+   <wf id="d001.s178.t010" lemma="কেশধারী" pos="X">কেশধারী</wf>
+   <wf id="d001.s178.t011" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s178.t012" lemma="।" pos="X">।</wf>
+  </sentence>
+  <sentence id="d001.s179">
+   <wf id="d001.s179.t001" lemma="তার" pos="X">তার</wf>
+   <wf id="d001.s179.t002" lemma="গায়ের_রঙ" pos="X">গায়ের_রঙ</wf>
+   <wf id="d001.s179.t003" lemma="থাকা" pos="X">ছিল</wf>
+   <wf id="d001.s179.t004" lemma="মা" pos="X">মায়ের</wf>
+   <wf id="d001.s179.t005" lemma="মতো" pos="X">মতোই</wf>
+   <wf id="d001.s179.t006" lemma="সুগৌর" pos="X">সুগৌর</wf>
+   <wf id="d001.s179.t007" lemma="।" pos="X">।</wf>
+  </sentence>
+</text>
+</corpus>
