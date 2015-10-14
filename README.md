@@ -4,7 +4,7 @@ This repository contains information about Gold Standard (GS) dataset preparatio
 
 I prepared this GS dataset for the evaluation of Bengali WSD system. Here, Bengali WordNet (Dash, Niladri Sekhar 2011) used as a lexical resource.
 
-I would like to share this dataset with the NLP community.
+I would like to share this dataset with the community.
 
 
 Cheers,
