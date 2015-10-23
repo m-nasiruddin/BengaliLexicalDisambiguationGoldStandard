@@ -9,10 +9,8 @@ I would like to share this dataset with the community.
 Cheers,
 
 Mohammad Nasiruddin
-
+=
 Reference:
-
-==========
 
 Mohammad Nasiruddin; (2013) A State of the Art of Word Sense Induction: A Way Towards Word
 Sense Disambiguation for Under-resourced Languages . In proceedings of 15ème Rencontre des
@@ -23,13 +21,22 @@ Sense Disambiguation for Under-resourced Languages . In proceedings of 15ème Re
 Bib:
 
 @InProceedings{F13-5015,
+
   author    = {Nasiruddin, Mohammad},
+  
   title     = {A State of the Art of Word Sense Induction: A Way Towards Word Sense Disambiguation for Under-Resourced Languages (\'{E}tat de l'art de l'induction de sens: une voie vers la d\'{e}sambigu\"{\i}sation lexicale pour les langues peu dot\'{e}es) [in French])},
+  
   booktitle = {Proceedings of RECITAL 2013},
+  
   month     = {June},
+  
   year      = {2013},
+  
   address   = {Les Sables d'Olonne, France},
+  
   publisher = {ATALA},
+  
   pages     = {192-205},
+  
   url       = {http://www.aclweb.org/anthology/F13-5015}
 }
